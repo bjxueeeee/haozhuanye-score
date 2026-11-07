@@ -1,0 +1,74 @@
+name: Build unsigned iOS IPA
+run-name: IPA ${{ inputs.request_id || github.run_id }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      request_id:
+        description: 'Optional unique request ID used by the Windows launcher'
+        required: false
+        type: string
+      project:
+        description: 'Xcode project/workspace path; leave empty for auto-detection'
+        required: false
+        type: string
+      scheme:
+        description: 'Shared Xcode scheme, for example App or Runner'
+        required: true
+        type: string
+        default: App
+      capacitor:
+        description: 'Run npm ci, npm run build, and cap sync ios first'
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 60
+    env:
+      # Inputs are passed as data, not interpolated into executable shell source.
+      IPA_PROJECT: ${{ inputs.project }}
+      IPA_SCHEME: ${{ inputs.scheme }}
+      IPA_CAPACITOR: ${{ inputs.capacitor }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        if: inputs.capacitor
+        with:
+          node-version: '24'
+      - name: Display Xcode version
+        run: xcodebuild -version
+      # Add your project's dependency setup here if necessary, for example
+      # a pinned CocoaPods/Bundler install. This template does not guess it.
+      - name: Build unsigned IPA
+        shell: bash
+        run: |
+          args=(--root "$GITHUB_WORKSPACE" --scheme "$IPA_SCHEME" --output "$GITHUB_WORKSPACE/ipa-output")
+          if [[ -n "$IPA_PROJECT" ]]; then args+=(--project "$IPA_PROJECT"); fi
+          if [[ "$IPA_CAPACITOR" == "true" ]]; then args+=(--capacitor); fi
+          python tools/build_ipa.py "${args[@]}"
+      - name: Upload IPA and checksum
+        uses: actions/upload-artifact@v4
+        with:
+          name: iOS-unsigned-IPA
+          path: |
+            ipa-output/*.ipa
+            ipa-output/*.ipa.sha256
+          if-no-files-found: error
+          retention-days: 14
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: iOS-build-logs
+          path: ipa-output/builds/*/build.log
+          if-no-files-found: ignore
+          retention-days: 7

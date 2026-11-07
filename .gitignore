@@ -8,5 +8,11 @@ edge_profile/
 __pycache__/
 *.pyc
 
+# SSH 密钥（私钥严禁上传）
+.ssh/
+
+# 打包产物
+*.zip
+
 # 依赖库（可选：如需脚本开箱即用可取消下面注释）
 # .pylibs/
