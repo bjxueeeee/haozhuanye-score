@@ -22,10 +22,10 @@ struct StudentScore: Identifiable {
 }
 
 struct QueryResult {
-    let name: String
-    let grade: String
-    let className: String
-    let studentNum: String
+    var name: String = ""
+    var grade: String = ""
+    var className: String = ""
+    var studentNum: String = ""
     let total: Double
     let totalFull: Double
     let classRank: Int?

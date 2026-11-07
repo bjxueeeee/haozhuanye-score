@@ -2,8 +2,6 @@
 //  Charts.swift
 //  ScoreApp
 //
-//  图表：条形对比图（学生 vs 班均）+ 雷达图（各科得分率）
-//
 
 import SwiftUI
 
@@ -14,37 +12,36 @@ struct BarChart: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
-            ForEach(courses) { c in
+            ForEach(courses, id: \.id) { c in
                 HStack(spacing: 10) {
                     Text(c.course)
                         .font(.system(size: 12.5))
+                        .foregroundStyle(Color.docFg)
                         .frame(width: 56, alignment: .leading)
                     GeometryReader { geo in
                         ZStack(alignment: .leading) {
-                            RoundedRectangle(cornerRadius: 5).fill(.docCodeBg)
+                            RoundedRectangle(cornerRadius: 5).fill(Color.docCodeBg)
                             RoundedRectangle(cornerRadius: 5)
-                                .fill(LinearGradient(colors: [.uapiTeal, .uapiTeal2], startPoint: .leading, endPoint: .trailing))
-                                .frame(width: geo.size.width * min(c.rate / 100, 1))
-                            // 班均参考线
+                                .fill(LinearGradient(colors: [Color.uapiTeal, Color.uapiTeal2], startPoint: .leading, endPoint: .trailing))
+                                .frame(width: geo.size.width * CGFloat(min(c.rate / 100, 1)))
                             Rectangle()
                                 .fill(Color.docFg)
                                 .frame(width: 2)
-                                .offset(x: geo.size.width * min(c.avgRate / 100, 1) - 1)
+                                .offset(x: geo.size.width * CGFloat(min(c.avgRate / 100, 1)) - 1)
                         }
                     }
                     .frame(height: 16)
                     Text("\(c.score.formatted(.number.precision(.fractionLength(1))))/\(Int(c.full))")
                         .font(.system(size: 12.5))
-                        .foregroundStyle(.docMuted)
+                        .foregroundStyle(Color.docMuted)
                         .frame(width: 64, alignment: .trailing)
                 }
             }
-            // 图例
             HStack(spacing: 16) {
-                legend(color: .uapiTeal, label: "学生得分率")
-                legend(color: .docFg, label: "班均得分率")
+                legend(color: Color.uapiTeal, label: "学生得分率")
+                legend(color: Color.docFg, label: "班均得分率")
             }
-            .font(.docCaption).foregroundStyle(.docMuted)
+            .font(.docCaption).foregroundStyle(Color.docMuted)
         }
         .padding(.top, 4)
     }
@@ -70,13 +67,11 @@ struct RadarChart: View {
             let n = max(courses.count, 3)
 
             ZStack {
-                // 网格（4 层）
-                ForEach(1...4, id: \.self) { level in
+                ForEach(Array(1...4), id: \.self) { level in
                     polygonPath(center: center, radius: radius * CGFloat(level) / 4, n: n)
                         .stroke(Color.gray.opacity(0.15), lineWidth: 1)
                 }
-                // 轴线
-                ForEach(0..<n, id: \.self) { i in
+                ForEach(Array(0..<n), id: \.self) { i in
                     let p = point(center: center, radius: radius, index: i, n: n)
                     Path { path in
                         path.move(to: center)
@@ -84,21 +79,18 @@ struct RadarChart: View {
                     }
                     .stroke(Color.gray.opacity(0.15), lineWidth: 1)
                 }
-                // 班均多边形（虚线）
                 polygonPath(center: center, radius: radius, n: n, ratios: courses.map { $0.avgRate / 100 })
                     .stroke(Color.docFg, style: StrokeStyle(lineWidth: 1.5, dash: [3, 2]))
                     .opacity(0.55)
-                // 学生多边形
                 polygonPath(center: center, radius: radius, n: n, ratios: courses.map { min($0.rate / 100, 1) })
                     .fill(Color.uapiTeal.opacity(0.22))
                 polygonPath(center: center, radius: radius, n: n, ratios: courses.map { min($0.rate / 100, 1) })
                     .stroke(Color.uapiTeal, lineWidth: 2)
-                // 标签
-                ForEach(0..<n, id: \.self) { i in
+                ForEach(Array(0..<n), id: \.self) { i in
                     let p = point(center: center, radius: radius + 18, index: i, n: n)
                     Text(courses[i].course)
                         .font(.system(size: 10.5))
-                        .foregroundStyle(.docMuted)
+                        .foregroundStyle(Color.docMuted)
                         .position(p)
                 }
             }
@@ -108,7 +100,7 @@ struct RadarChart: View {
         .overlay(alignment: .bottom) {
             Text("各科得分率（绿=学生 · 虚线=班均）")
                 .font(.system(size: 11))
-                .foregroundStyle(.docFaint)
+                .foregroundStyle(Color.docFaint)
         }
     }
 
