@@ -1,0 +1,35 @@
+
+### Authorization (0)
+
+### authorization (0)
+
+### jwt (5)
+   me:"晓羊单点登录回调地址-demo",white:!0}},{path:"lunyuedu",component:th,meta:{name:"龙创单点登录",white:!0}},{path:"jwt",component:$l,meta:{name:"jwt单点登录授权页面",white:!0}},{path:"tencent",component:ah,meta:{name:"腾讯开放平台单点登录",white:!0}},{path:"redirect",component:$l,meta:{name:"后端跳转单点登录授权页面",white:
+   },{path:"lunyuedu",component:th,meta:{name:"龙创单点登录",white:!0}},{path:"jwt",component:$l,meta:{name:"jwt单点登录授权页面",white:!0}},{path:"tencent",component:ah,meta:{name:"腾讯开放平台单点登录",white:!0}},{path:"redirect",component:$l,meta:{name:"后端跳转单点登录授权页面",white:!0}},{path:"luohu",component:$
+   &&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/auth/token/jwt",params:e})}function i(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/auth/xiamenwuzhong",method:"pos
+   0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/system/auth/tianwen/jwt",method:"post",data:e})}function w(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/auth/tianwen/local"
+   &void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/auth/jwt",method:"post",data:e})}function M(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/auth/luohu",method:
+
+### JWT (1)
+   rOf3CqYPbBq72764XEak/sG/j49h4g32extDyPXbTPp36w1ewItW8jIZBh/Mn3/nlN5PmOpky9vypObY9Q0zXXpKZ9tm+bevAx/nJWT6J5zERz2BYV/RHILFmWsDzwaGR8T+/fbi7yQQkU2Zcf94cy56iafM3emsA8x0ZnOcc57Gp6WyPBQNTBl0vZ+Yw7bN93ZtVjb8FPj5KdPB8+Gzfox8zaRZNmrNZc6IIxO7J5PS/nXvhG6uA4GbKIgr1LdM+9c6Vh3FQ1+thRxTHiHOPQ2v
+
+### X-Token (0)
+
+### x-token (0)
+
+### token": (0)
+
+### accessToken (0)
+
+### access_token (0)
+
+### headers[ (2)
+   nction(){window.location.reload()})).catch((function(e){"cancel"===e&&window.location.reload()})),e.headers["multi-device"]&&"1"===e.headers["multi-device"]&&u["a"].commit("SET_MULTI_DEVICE_ONLINE_STATUS",!0)},errorUseEvent:function(e){return Object(r["a"])(Object(a["a"])().m((fu
+   })).catch((function(e){"cancel"===e&&window.location.reload()})),e.headers["multi-device"]&&"1"===e.headers["multi-device"]&&u["a"].commit("SET_MULTI_DEVICE_ONLINE_STATUS",!0)},errorUseEvent:function(e){return Object(r["a"])(Object(a["a"])().m((function t(){var n;return Object(a[
+
+### DONGNI-LOGIN (1)
+   rguments[0]:{};return Object(a["default"])({url:"/api/base/data/auth/token",method:"post",headers:{"DONGNI-LOGIN":window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken},data:e})}function o(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};re
+
+### getCookie("token") (0)
+
+### setCookie (0)

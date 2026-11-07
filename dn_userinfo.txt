@@ -1,0 +1,39 @@
+
+### getInformation (5)
+   :1,mistakeDownload:1,mistakeExplanation:1,consolidationPaper:1,showRegionalQuestionBank:!1,tryInitCount:0},x={getInformation:function(e,t){return Object(r["a"])(Object(a["a"])().m((function n(){var r,i,c;return Object(a["a"])().w((function(n){while(1)switch(n.n){case 0:return r=e.commit,n.n=1,Object(o["u"])(t
+   if(!r||0!==r.status){t.n=6;break}return e.$message({type:"success",message:"绑定成功!"}),t.n=5,e.$store.dispatch("getInformation",{accountId:e.accountId,userId:e.userId});case 5:e.step=1;case 6:return t.a(2)}}),t)})));return function(e){return t.apply(this,arguments)}}());case 1:return t.a(2)}}),t)})))()},updateE
+   e.setItem("reportAccountExcel",x),b&&window.sessionStorage.setItem("systemConfig",b),a.n=1,n.$store.dispatch("getInformation",{targetUserId:c.userId});case 1:return a.n=2,Object(pp["g"])({userIds:t.userId,otherUserType:t.userType,otherAccountId:t.accountId,otherRelativeId:t.relativeId});case 2:window.location
+   ;case 12:if(G["a"].getters.userType){e.n=15;break}return Object(w["checkGoogleAnalytics"])(),G["a"].dispatch("getInformation",window.localStorage.authorize?{authorize:window.localStorage.authorize}:{}).then(Object(r["a"])(Object(a["a"])().m((function e(){var r,u,s,l,h,f,p,b,g,v,k,y;return Object(a["a"])().w((
+   setItem("firstIntoOriginPrint",y),p&&window.sessionStorage.setItem("systemConfig",p),n.n=2,t.$store.dispatch("getInformation",{targetUserId:i.userId});case 2:w={7:"/v2/target-monitor/",16:"/v2/regional-question/list/paper-list",17:"/v2/sync-task/list"},w[i.userType]?Object(x["jumpLocationHref"])(w[i.userType]
+
+### userInfo (18)
+   k=null,y=null,w={accountId:0,userId:0,userType:0,accountEmail:null,accountPhone:null,userName:"",relativeId:0,userInfo:{},relativeInfo:{},course:{},knowledgeBank:[],schoolGrade:[],jyeooKnowledgeBank:[],teacherClass:null,teacherClassMap:null,userList:null,token:null,isJyeooUser:!0,jyeooMessage:"",passwordStatu
+   =r.status&&n("GET_TEACHER_COURSE",r.data);case 2:return t.a(2)}}),t)})))()}},j={GET_USER_INFO:function(e,t){e.userInfo=t,e.accountId=t.accountId?parseInt(t.accountId):null,e.userId=t.userId?parseInt(t.userId):null,e.userType=t.userType?parseInt(t.userType):null,e.userName=t.userName||null,e.relativeId=t.relat
+   alBank=!0),"homework"===e.path){var f=i["config"].showHomework&&n;r&&r.hideHomework&&(f=!1),n=f}if(ft.getters.userInfo.virtualPaperReadUserFlag&&(n="我的首页"===e.meta.name&&"center"===e.path),r&&r.homeworkMode&&(n="homework"===e.path||"question-bank"===e.path),r&&r.customModule){var m=r.customModule.split(",");n
+   =2,ft.dispatch("fetchCourseExam",{schoolId:o.data.examSchool[0].schoolId});case 2:if(i=null,c=null,ft.getters.userInfo.virtualPaperReadUserFlag){a.n=5;break}return a.n=3,Object(y["Md"])({examId:t.examId,schoolId:o.data.examSchool[0].schoolId});case 3:return i=a.v,a.n=4,Object(y["Jb"])({examId:t.examId,schoolI
+   aperList&&e.paperList.length>0}))),a.n=2,Object(y["Nd"])({examId:t.examId});case 2:if(i=a.v,c=null,ft.getters.userInfo.virtualPaperReadUserFlag){a.n=4;break}return a.n=3,Object(y["Jb"])({examId:t.examId,schoolId:t.schoolId||""});case 3:c=a.v;case 4:if(3!==n.getters.userType){a.n=6;break}return s=n.getters.use
+   .user.userType},userName:function(e){return e.user.userName},relativeId:function(e){return e.user.relativeId},userInfo:function(e){return e.user.userInfo},relativeInfo:function(e){return e.user.relativeInfo},userSchool:function(e){return e.user.relativeInfo.school},userGrade:function(e){return e.user.relative
+
+### /api/base/data/user (0)
+
+### /api/base/data/system/account/user" (1)
+   unction A(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user",params:e})}function N(e){return Object(a["default"])({url:"/api/base/data/parent/student/bind",method:"post",data:e})}function H(e){return Object(a["default"])({url
+
+### getUserInfo (0)
+
+### relativeInfo (33)
+   l,w={accountId:0,userId:0,userType:0,accountEmail:null,accountPhone:null,userName:"",relativeId:0,userInfo:{},relativeInfo:{},course:{},knowledgeBank:[],schoolGrade:[],jyeooKnowledgeBank:[],teacherClass:null,teacherClassMap:null,userList:null,token:null,isJyeooUser:!0,jyeooMessage:"",passwordStatus:1,stage:0,
+   tch(t.n){case 0:if(n=e.commit,![8,14].includes(w.userType)){t.n=2;break}return t.n=1,Object(s["t"])({areaId:w.relativeInfo.area[0].areaId});case 1:r=t.v,n("IS_JYEOO_EXPIRE",r.data),t.n=4;break;case 2:if(!w.relativeInfo.school||!w.relativeInfo.school.length){t.n=4;break}return t.n=3,Object(h["X"])({schoolId:w.
+   "])({areaId:w.relativeInfo.area[0].areaId});case 1:r=t.v,n("IS_JYEOO_EXPIRE",r.data),t.n=4;break;case 2:if(!w.relativeInfo.school||!w.relativeInfo.school.length){t.n=4;break}return t.n=3,Object(h["X"])({schoolId:w.relativeInfo.school[0].schoolId});case 3:o=t.v,n("IS_JYEOO_EXPIRE",o.data);case 4:return t.a(2)}
+   fo.area[0].areaId});case 1:r=t.v,n("IS_JYEOO_EXPIRE",r.data),t.n=4;break;case 2:if(!w.relativeInfo.school||!w.relativeInfo.school.length){t.n=4;break}return t.n=3,Object(h["X"])({schoolId:w.relativeInfo.school[0].schoolId});case 3:o=t.v,n("IS_JYEOO_EXPIRE",o.data);case 4:return t.a(2)}}),t)})))()},isXuekeExpi
+   if(!w.relativeInfo.school||!w.relativeInfo.school.length){t.n=4;break}return t.n=3,Object(h["X"])({schoolId:w.relativeInfo.school[0].schoolId});case 3:o=t.v,n("IS_JYEOO_EXPIRE",o.data);case 4:return t.a(2)}}),t)})))()},isXuekeExpire:function(e){return Object(r["a"])(Object(a["a"])().m((function t(){var n,r;re
+   ().m((function t(){var n,r;return Object(a["a"])().w((function(t){while(1)switch(t.n){case 0:if(n=e.commit,!w.relativeInfo.school||!w.relativeInfo.school.length){t.n=2;break}return t.n=1,Object(h["cb"])({schoolId:w.relativeInfo.school[0].schoolId});case 1:r=t.v,n("IS_XUEKE_EXPIRE",r.data);case 2:return t.a(2)
+
+### school/student/getStudentInfo (1)
+    e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/school/student/getStudentInfo",params:e})}function y(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user/getSimpleUse
+
+### getRelative (2)
+   e 13:t.p=13,m=t.v,console.error(m);case 14:return w.tryInitCount=0,t.a(2,!1)}}),t,null,[[9,13],[2,6]])})))()},getRelativeInfo:function(e,t){return Object(r["a"])(Object(a["a"])().m((function n(){var r,i;return Object(a["a"])().w((function(n){while(1)switch(n.n){case 0:return r=e.commit,n.n=1,Object(o["E"])(t)
+   rtTimeViewerDetailInfo");case 2:if(6===G["a"].getters.userType||!r){e.n=4;break}return e.n=3,G["a"].dispatch("getRelativeInfo",{relativeId:G["a"].getters.relativeId});case 3:window.sessionStorage.nicezhuanye&&G["a"].getters.userSchool&&1===G["a"].getters.userSchool.length&&G["a"].getters.userSchool[0].hzyFlag
+
+### /api/base/data/system/account/info (0)

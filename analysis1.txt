@@ -1,0 +1,51 @@
+
+########## examscheduler ##########
+hits=0
+
+########## 排考 ##########
+hits=0
+
+########## rgnexamscheduler ##########
+hits=0
+
+########## loadMicroApp ##########
+hits=2
+----
+ntEffects will be removed in next version, please use setDefaultMountApp instead"),s(e)}function l(e){window.addEventListener("single-spa:first-mount",function t(){e(),window.removeEventListener("single-spa:first-mount",t)})}var f=n("ie5R"),g=n("2TUz");n.d(t,"loadMicroApp",function(){return r["b"]}),n.d(t,"registerMicroApps",function(){return r["c"]}),n.d(t,"start",function(){return r["d"]}),n.d(t,"initGlobalState",function(){return o["b"]}),n.d(t,"__internalGetCurrentRunningApp",function(){return i["b"]}),n.d(t,"a
+----
+.useState)(!1),u=d(c,2),f=u[0],g=u[1],p=(0,r.useRef)(null),h=(0,r.useRef)(null),M=(0,r.useRef)(null),y=(0,r.useRef)(!0),m=(0,r.useRef)(!1);(0,r.useEffect)(function(){return g(!0),function(){m.current=!0}},[]);var v=function(){a(!0),y.current=!1,h.current=(0,o.loadMicroApp)({name:e.name,entry:e.entry,container:p.current,props:l(l({},e.params),{},{targetPath:e.targetPath||void 0,outload:e.loader?e.loader(i):i,setLoading:a,masterHistory:e.history,router:e.router})},{sandbox:"object"===s(e.sandbox)?e.sandbox:!1!==e.san
+
+########## registerMicroApps ##########
+hits=1
+----
+e use setDefaultMountApp instead"),s(e)}function l(e){window.addEventListener("single-spa:first-mount",function t(){e(),window.removeEventListener("single-spa:first-mount",t)})}var f=n("ie5R"),g=n("2TUz");n.d(t,"loadMicroApp",function(){return r["b"]}),n.d(t,"registerMicroApps",function(){return r["c"]}),n.d(t,"start",function(){return r["d"]}),n.d(t,"initGlobalState",function(){return o["b"]}),n.d(t,"__internalGetCurrentRunningApp",function(){return i["b"]}),n.d(t,"addErrorHandler",function(){return a["a"]}),n.d(t
+
+########## qiankun ##########
+hits=38
+----
+w.set(e,n),o}var j=new WeakMap;function b(e){if(j.has(e))return j.get(e);var t=0===e.name.indexOf("bound ")&&!e.hasOwnProperty("prototype");return j.set(e,t),t}var A=p()(function(){try{return new Function("const { a } = { a: 1 }")(),!0}catch(e){return!1}}),E="qiankun-head";function x(e,t){return function(n){var r;return r=-1!==n.indexOf("<head>")?n.replace("<head>","<".concat(E,">")).replace("</head>","</".concat(E,">")):"<".concat(E,"></").concat(E,">").concat(n),'<div id="'.concat(O(e),'" data-name="').concat(e,'
+----
+)).replace("</head>","</".concat(E,">")):"<".concat(E,"></").concat(E,">").concat(n),'<div id="'.concat(O(e),'" data-name="').concat(e,'" data-version="').concat(d,'" data-sandbox-cfg=').concat(JSON.stringify(t),">").concat(r,"</div>")}}function O(e){return"__qiankun_microapp_wrapper_for_".concat(f()(e),"__")}var z=new Function("return this")(),L=new Function("return document")(),S=u()(function(){return z.hasOwnProperty("__app_instance_name_map__")||Object.defineProperty(z,"__app_instance_name_map__",{enumerable:!1
+----
+k,P=(n("KC8y"),"production"),Q="production"===P,R=[["umi-plugin-react",{antd:!0,dva:!0,dynamicImport:{webpackChunkName:!0},title:"校级应用中心",dll:!1,routes:{exclude:[/models\//,/services\//,/model\.(t|j)sx?$/,/service\.(t|j)sx?$/,/components\//]}}],["umi-plugin-hqqiankun",{master:{},slave:{autoDisableLoad:!0,rewrite:!0,dynamic:!0,mode:"dva",shouldNotModifyDefaultBase:!0,multi:!0,dva:"portalprop"}}]],Y={};Q&&(R.push(["umi-plugin-auto-externals",{packages:["antd"],checkOnline:!1}]),Y={"antd-mobile":"antd-mobile"}),z.map(
+----
+)}),t.g_oriBodyRemove||(t.g_oriBodyRemove=document.body.removeChild,document.body.removeChild=function(e){var n=e.dataset&&e.dataset.parent;if(n&&!(e.className||"").includes("outcontainer")&&!(e.className||"").includes(o.POP_CONTAINER)){var r=e.closest("[data-qiankun=".concat(n,"]"));if(r)return r.removeChild(e)}return t.g_oriBodyRemove.apply(this,[e])})),r.dynamic&&(t[a]=t[a]||{},t[a][e]=!0,t.g_oriHeadAppend||(t.g_oriHeadAppend=document.head.appendChild,document.head.appendChild=function(e){if(!(e&&e.src&&u(e.src)
+----
+(){return l});var r=n("RpFe"),o=n("Egx+"),i=n.n(o),a={},c={};function s(e,t){Object.keys(c).forEach(function(n){c[n]instanceof Function&&c[n](i()(e),i()(t))})}function u(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(e===a)console.warn("[qiankun] state has not changed！");else{var t=i()(a);a=i()(e),s(a,t)}return l("global-".concat(+new Date),!0)}function l(e,t){return{onGlobalStateChange:function(t,n){if(t instanceof Function){if(c[e]&&console.warn("[qiankun] '".concat(e,"' global listener alre
+----
+[0]?arguments[0]:{};if(e===a)console.warn("[qiankun] state has not changed！");else{var t=i()(a);a=i()(e),s(a,t)}return l("global-".concat(+new Date),!0)}function l(e,t){return{onGlobalStateChange:function(t,n){if(t instanceof Function){if(c[e]&&console.warn("[qiankun] '".concat(e,"' global listener already exists before this, new listener will overwrite it.")),c[e]=t,n){var r=i()(a);t(r,r)}}else console.error("[qiankun] callback must be function!")},setGlobalState:function(){var e=arguments.length>0&&void 0!==argum
+
+########## window.open ##########
+hits=17
+----
+Update=true"),void 0===a&&(a=!1),void 0===c&&(c="/"+r.PROJECT.nicezhuanye+"/adminv2/admin2.0.html"),!e||!t||!n)throw new Error("调用『唯一的项目入口函数 onlyEntrance 』 时，缺少参数");var s=o.default.getInstance();s.setToken(e),s.setUserID(t),s.setSchoolID(n),s.setLoginURL(i),a?window.open(c):window.location.href=c}function a(){}t.onlyEntrance=i,t.onlyExit=a},"2fng":function(e,t){function n(){this.__data__=[],this.size=0}e.exports=n},"2hv5":function(e,t,n){var r=n("kQqq");r(r.S+r.F,"Object",{assign:n("6FtN")})},"2sEe":function(e,t,n)
+----
+tion O(e,t,n){return t=M()(t),d()(e,z()?Reflect.construct(t,n||[],M()(e).constructor):t.apply(e,n))}function z(){try{var e=!Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){}))}catch(e){}return(z=function(){return!!e})()}var L=function(){window.open(E.a.getInstance().getFullUrl("/helpcenter/"))},S=function(e){function t(e){var n;return l()(this,t),n=O(this,t,[e]),n.goToHelpCenter=function(){window.open(E.a.getInstance().getFullUrl("/helpcenter/"))},n.handleChange=function(e){"help"===e?n.setSt
+----
+eflect.construct(Boolean,[],function(){}))}catch(e){}return(z=function(){return!!e})()}var L=function(){window.open(E.a.getInstance().getFullUrl("/helpcenter/"))},S=function(e){function t(e){var n;return l()(this,t),n=O(this,t,[e]),n.goToHelpCenter=function(){window.open(E.a.getInstance().getFullUrl("/helpcenter/"))},n.handleChange=function(e){"help"===e?n.setState({activeKey:e}):window.open(E.a.getInstance().getFullUrl("/helpcenter/?page_id=227"))},n.state={activeKey:"help",visible:!1},n}return m()(t,e),g()(t,[{ke
+----
+Instance().getFullUrl("/helpcenter/"))},S=function(e){function t(e){var n;return l()(this,t),n=O(this,t,[e]),n.goToHelpCenter=function(){window.open(E.a.getInstance().getFullUrl("/helpcenter/"))},n.handleChange=function(e){"help"===e?n.setState({activeKey:e}):window.open(E.a.getInstance().getFullUrl("/helpcenter/?page_id=227"))},n.state={activeKey:"help",visible:!1},n}return m()(t,e),g()(t,[{key:"render",value:function(){var e=this,t=this.state,r=t.activeKey,i=t.visible,c=D["a"].getInstance().getPresetStyle(),u=D["
+----
+M=n("ZeHB"),y=n("/UnS"),m=n("yVfr"),v=n("URr7"),N=n.n(v),D=n("9pBf"),I=n.n(D),w=n("D+nR"),T=N.a.getInstance(),j=function(){function e(){var t=this;s()(this,e),this.isFirstGetIntegral=!0,this.onJumpToAnotherApp=function(e){var t=f["d"][e.integralCategoryID];t&&window.open(t.url)},this.onClickProject=function(e){t.judgeModuleIDThenDeal(e)},this.onSignIn=function(){p["a"].getInstance().dispatch({type:"".concat(d["INTEGRAL_NAMESPACE"],"/setSignInState"),payload:{signInModalVisible:!0}})},this.onFeedback=function(){m["a
+----
+n,function(e,t){var n=Z.a.getInstance().getUrl("/msgcenter/index.html?time=".concat(B["b"],"#/msgcenter/overview?name=").concat(t)),r=Z.a.getInstance().getPrefix("portal");e.startsWith("http")||e.includes(r)?n+="&url=".concat(e):n+="&url=".concat(r).concat(e),window.open(n)}),J=function(e){var t=e.url,n=e.name,r=e.searchValue,o=(e.children,e.showActions),i=void 0===o||o,c=a()(e,["url","name","searchValue","children","showActions"]);V(t);return u["createElement"]("div",Object.assign({className:"attachment-wrapper"},

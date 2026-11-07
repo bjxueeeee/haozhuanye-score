@@ -1,0 +1,44 @@
+
+### listGroup (3)
+   nction ra(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/listGroup",params:e})}function oa(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/mark/progress/course/case",params:e})}function ia(){var e=arguments.length>0
+   a(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/arrange/listGroup",params:e})}function la(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/arrange/listGroupWithTeacher",params:e})}function ha(){var e=arguments.lengt
+   a(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/arrange/listGroupWithTeacher",params:e})}function ha(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/arrange/listBlockCharge",params:e})}function fa(){var e=arguments
+
+### exam/plan" (1)
+   })}function ot(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/plan",params:e})}function it(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/plan/paper/all",params:e})}function ct(){var e=arguments.length>0&&void 0!==
+
+### report/list (1)
+   n(){return n.e("chunk-6b2fab1e").then(n.bind(null,"63b6"))},PO={path:"school-health-report",redirect:"/v2/school-health-report/list",component:LO,meta:{name:"学校健康度报表",role:[1,3,7,9,10,11,13],hideUserTypeList:[1,3,7,9,10,11,13]},children:[{path:"list",component:_O,meta:{name:"健康度列表主路由",role:[-1,1,3,6,7,9,10,11,12,13,20],hideHeader:!0}}]},R
+
+### examReport (0)
+
+### myStudent (2)
+   (){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/myStudent/student/instabilityRank",method:"post",data:e})}function i(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/myStudent/student/exam/list/scor
+   (){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/myStudent/student/exam/list/scoreRate",method:"post",data:e})}function c(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/exam/analysis/view/myClass/knowledge/stude
+
+### relativeId (13)
+   =n("4360"),v=n("dad6"),k=null,y=null,w={accountId:0,userId:0,userType:0,accountEmail:null,accountPhone:null,userName:"",relativeId:0,userInfo:{},relativeInfo:{},course:{},knowledgeBank:[],schoolGrade:[],jyeooKnowledgeBank:[],teacherClass:null,teacherClassMap:null,userList:null,token:null,isJyeooUser:!0,jyeooMessage:"",passwordStatus:1,sta
+   e.userId=t.userId?parseInt(t.userId):null,e.userType=t.userType?parseInt(t.userType):null,e.userName=t.userName||null,e.relativeId=t.relativeId?parseInt(t.relativeId):null},GET_USER_EMAIL_PHONE:function(e,t){e.accountEmail=t.accountEmail?t.accountEmail:e.accountEmail,e.mobile=t.mobile?t.mobile:e.mobile,e.accountPhone=t.accountName?t.accou
+   erId?parseInt(t.userId):null,e.userType=t.userType?parseInt(t.userType):null,e.userName=t.userName||null,e.relativeId=t.relativeId?parseInt(t.relativeId):null},GET_USER_EMAIL_PHONE:function(e,t){e.accountEmail=t.accountEmail?t.accountEmail:e.accountEmail,e.mobile=t.mobile?t.mobile:e.mobile,e.accountPhone=t.accountName?t.accountName:e.acco
+   ):null,e.userType=t.userType?parseInt(t.userType):null,e.userName=t.userName||null,e.relativeId=t.relativeId?parseInt(t.relativeId):null},GET_USER_EMAIL_PHONE:function(e,t){e.accountEmail=t.accountEmail?t.accountEmail:e.accountEmail,e.mobile=t.mobile?t.mobile:e.mobile,e.accountPhone=t.accountName?t.accountName:e.accountName},GET_USER_List
+   ){return e.user.accountPhone},userType:function(e){return e.user.userType},userName:function(e){return e.user.userName},relativeId:function(e){return e.user.relativeId},userInfo:function(e){return e.user.userInfo},relativeInfo:function(e){return e.user.relativeInfo},userSchool:function(e){return e.user.relativeInfo.school},userGrade:funct
+   e:function(e){return e.user.userType},userName:function(e){return e.user.userName},relativeId:function(e){return e.user.relativeId},userInfo:function(e){return e.user.userInfo},relativeInfo:function(e){return e.user.relativeInfo},userSchool:function(e){return e.user.relativeInfo.school},userGrade:function(e){return e.user.relativeInfo.gra
+
+### /api/analysis/view/myStudent (2)
+   "post"})}function o(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/myStudent/student/instabilityRank",method:"post",data:e})}function i(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/myStudent/stu
+   data:e})}function i(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/myStudent/student/exam/list/scoreRate",method:"post",data:e})}function c(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/exam/analysis/view/myCl
+
+### exam/report (6)
+   g=TeX-AMS_HTML","MathJax",n)}}]},Fx=Bx,Jx=function(){return n.e("chunk-3cb5fe3f").then(n.bind(null,"30ee"))},Gx={path:"/exam/report/chart",component:Jx,meta:{role:[-1,1,2,3,4,5,6,7,9,10,11,12,20],white:!0,hideHeader:!0,hideProgress:!0}},Vx=Gx,Qx=function(){return n.e("chunk-4d54aa6e").then(n.bind(null,"3ecd"))},Wx={path:"/v2/data-center/d
+   =arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["pollFetch"])({url:"/api/analysis/view/quark/exam/report/push",method:"post",data:e})}function ln(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/display/student/get",params:e})}function hn(){var e=argum
+   }function Nn(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["pollFetch"])({url:"/api/exam/report/pdf/export/async",method:"post",data:e})}function Hn(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/exam/question/convert/get/paper",params:e})}functi
+    e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/quark/exam/report/school/course",params:e})}function Va(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/quark/exam/report/school/course/generate",params:e}
+    e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/quark/exam/report/school/course/generate",params:e})}function Qa(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/quark/exam/report/school/delete",method:"p
+    e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/quark/exam/report/school/delete",method:"post",data:e})}function Wa(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/exam/trace/plan/school/stat/paper/class",params:e})}f
+
+### reportList (0)
+
+### examList (1)
+   erType?window.location.href="https://www.dsjxq.com/areacenter":window.location.href="https://www.dsjxq.com/schoolreport/examList"},backPutian:function(){var e=window.localStorage.accountName||"";window.localStorage.clear(),window.sessionStorage.clear(),window.localStorage.accountName=e,window.location.href="http://smartedu.mydongtai.cn:80
+
+### getExamReport (0)

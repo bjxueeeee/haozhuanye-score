@@ -1,0 +1,78 @@
+
+### accountName (16)
+   w((function(a){while(1)switch(a.n){case 0:if(o=e.commit,o("GET_USER_INFO",{}),i=window.localStorage.accountName||"",c=window.sessionStorage.nicezhuanye||"",u=window.localStorage.thirdPartyUrl||"",s=window.localStorage.loginUrl||"",d=window.localStorage.schoolTranscriptCompare,l=w
+   dow.sessionStorage.ip,window.localStorage.clear(),window.sessionStorage.clear(),window.localStorage.accountName=i,window.localStorage.setItem("scanUploadStatusType",v),window.localStorage.setItem("useNewDrawVersion",k),d&&(window.localStorage.schoolTranscriptCompare=d),l&&(window
+   l=t.accountEmail?t.accountEmail:e.accountEmail,e.mobile=t.mobile?t.mobile:e.mobile,e.accountPhone=t.accountName?t.accountName:e.accountName},GET_USER_List:function(e,t){e.userList=t},GET_RELATIVE_INFO:function(e,t){e.relativeInfo=t;var n=0,a=[];if(t.school&&t.school[0]&&(n=t.scho
+   il?t.accountEmail:e.accountEmail,e.mobile=t.mobile?t.mobile:e.mobile,e.accountPhone=t.accountName?t.accountName:e.accountName},GET_USER_List:function(e,t){e.userList=t},GET_RELATIVE_INFO:function(e,t){e.relativeInfo=t;var n=0,a=[];if(t.school&&t.school[0]&&(n=t.school[0].stage,a=
+   ail:e.accountEmail,e.mobile=t.mobile?t.mobile:e.mobile,e.accountPhone=t.accountName?t.accountName:e.accountName},GET_USER_List:function(e,t){e.userList=t},GET_RELATIVE_INFO:function(e,t){e.relativeInfo=t;var n=0,a=[];if(t.school&&t.school[0]&&(n=t.school[0].stage,a=(t.school[0].s
+   ength>0&&void 0!==e[0]?e[0]:null,!t.formPhoneModal.phone){n.n=2;break}return n.n=1,Object(pp["C"])({accountName:t.formPhoneModal.phone,originType:1===t.changePhoneType?"7":"4",bindType:1,validate:r});case 1:o=n.v,o&&0===o.status&&(t.formPhoneModal.postCheck=!1,t.formPhoneModal.is
+   t.n){case 0:if(!n){t.n=6;break}if(1!==e.changePhoneType){t.n=2;break}return t.n=1,Object(pp["jb"])({accountName:e.formPhoneModal.phone,accountId:e.accountId,bindType:1,identifyCode:e.formPhoneModal.check});case 1:r=t.v,t.n=4;break;case 2:return t.n=3,Object(pp["Cb"])({accountId:e
+   eModal.check});case 1:r=t.v,t.n=4;break;case 2:return t.n=3,Object(pp["Cb"])({accountId:e.accountId,accountName:e.accountPhone,mobile:e.accountPhone,newPhone:e.formPhoneModal.phone,password:e.formPhoneModal.password,validateCode:e.formPhoneModal.check});case 3:r=t.v;case 4:if(!r|
+
+### loginName (0)
+
+### cellphone (0)
+
+### phone (21)
+   yeooExpireStatus:0,xuekeExpireStatus:0,yiqiExpireStatus:0,jinjuanExpireStatus:0,wusanExpireStatus:0,phoneBindStatus:0,securityStatus:0,sensitiveInfoData:null,membershipStatus:0,vipStartTime:null,vipEndTime:null,vipEnable:!0,vipEnableStatus:null,showVipModules:!0,showVipIcon:!0,cl
+   E",i.data[0]),r("SET_PASSWORD_STATUS",i.data[0].passwordStatus),r("SET_PHONE_BIND_STATUS",i.data[0].phoneBindStatus),r("SET_SECURITY_STATUS",i.data[0].securityStatus),r("SET_VIP_INFO",c[0]),(window.sessionStorage.getItem("smart_homework")||window.localStorage.getItem("smart_homew
+   tion(e,t){i["default"].set(e.userAction,t.key,t.data.status)},SET_PHONE_BIND_STATUS:function(e,t){e.phoneBindStatus=Number(t)},SET_SECURITY_STATUS:function(e,t){e.securityStatus=Number(t)},GET_SENSITIVE_INFO:function(e,t){e.sensitiveInfoData=t},SET_VIP_INFO:function(e,t){t=t||{},
+   ){return e.user.jinjuanExpireStatus},wusanExpireStatus:function(e){return e.user.wusanExpireStatus},phoneBindStatus:function(e){return e.user.phoneBindStatus},securityStatus:function(e){return e.user.securityStatus},sensitiveInfoData:function(e){return e.user.sensitiveInfoData},m
+   ExpireStatus:function(e){return e.user.wusanExpireStatus},phoneBindStatus:function(e){return e.user.phoneBindStatus},securityStatus:function(e){return e.user.securityStatus},sensitiveInfoData:function(e){return e.user.sensitiveInfoData},membershipStatus:function(e){return e.user.
+   sword"}})],1):e._e(),e._v(" "),t("el-form-item",{staticClass:"form-item",attrs:{label:"手机号码:",prop:"phone"}},[t("el-input",{attrs:{size:"small",placeholder:"请输入手机号码"},model:{value:e.formPhoneModal.phone,callback:function(t){e.$set(e.formPhoneModal,"phone",t)},expression:"formPhon
+   p:"phone"}},[t("el-input",{attrs:{size:"small",placeholder:"请输入手机号码"},model:{value:e.formPhoneModal.phone,callback:function(t){e.$set(e.formPhoneModal,"phone",t)},expression:"formPhoneModal.phone"}})],1),e._v(" "),t("el-form-item",{staticClass:"form-item",attrs:{label:"手机验证码:",pr
+   holder:"请输入手机号码"},model:{value:e.formPhoneModal.phone,callback:function(t){e.$set(e.formPhoneModal,"phone",t)},expression:"formPhoneModal.phone"}})],1),e._v(" "),t("el-form-item",{staticClass:"form-item",attrs:{label:"手机验证码:",prop:"check"}},[t("el-input",{staticClass:"w150",attrs
+
+### loginForm (0)
+
+### account (145)
+   报表",role:[-1]}},{path:"clean-error-password",component:d,meta:{name:"清除用户密码错误次数",role:[-1]}},{path:"account-encryption-decrypt",component:l,meta:{name:"帐号加密解密",role:[-1]}},{path:"synchronization-knowledge",component:m,meta:{name:"同步知识点",role:[-1]}},{path:"password-manage",compone
+   =n("d5e8"),f=n("f74e"),m=n("c64a"),p=n("a60b"),b=n("0e0b"),g=n("4360"),v=n("dad6"),k=null,y=null,w={accountId:0,userId:0,userType:0,accountEmail:null,accountPhone:null,userName:"",relativeId:0,userInfo:{},relativeInfo:{},course:{},knowledgeBank:[],schoolGrade:[],jyeooKnowledgeBan
+   "),p=n("a60b"),b=n("0e0b"),g=n("4360"),v=n("dad6"),k=null,y=null,w={accountId:0,userId:0,userType:0,accountEmail:null,accountPhone:null,userName:"",relativeId:0,userInfo:{},relativeInfo:{},course:{},knowledgeBank:[],schoolGrade:[],jyeooKnowledgeBank:[],teacherClass:null,teacherCl
+   ("0e0b"),g=n("4360"),v=n("dad6"),k=null,y=null,w={accountId:0,userId:0,userType:0,accountEmail:null,accountPhone:null,userName:"",relativeId:0,userInfo:{},relativeInfo:{},course:{},knowledgeBank:[],schoolGrade:[],jyeooKnowledgeBank:[],teacherClass:null,teacherClassMap:null,userLi
+   w((function(a){while(1)switch(a.n){case 0:if(o=e.commit,o("GET_USER_INFO",{}),i=window.localStorage.accountName||"",c=window.sessionStorage.nicezhuanye||"",u=window.localStorage.thirdPartyUrl||"",s=window.localStorage.loginUrl||"",d=window.localStorage.schoolTranscriptCompare,l=w
+   dow.sessionStorage.ip,window.localStorage.clear(),window.sessionStorage.clear(),window.localStorage.accountName=i,window.localStorage.setItem("scanUploadStatusType",v),window.localStorage.setItem("useNewDrawVersion",k),d&&(window.localStorage.schoolTranscriptCompare=d),l&&(window
+   ER_COURSE",r.data);case 2:return t.a(2)}}),t)})))()}},j={GET_USER_INFO:function(e,t){e.userInfo=t,e.accountId=t.accountId?parseInt(t.accountId):null,e.userId=t.userId?parseInt(t.userId):null,e.userType=t.userType?parseInt(t.userType):null,e.userName=t.userName||null,e.relativeId=
+   .data);case 2:return t.a(2)}}),t)})))()}},j={GET_USER_INFO:function(e,t){e.userInfo=t,e.accountId=t.accountId?parseInt(t.accountId):null,e.userId=t.userId?parseInt(t.userId):null,e.userType=t.userType?parseInt(t.userType):null,e.userName=t.userName||null,e.relativeId=t.relativeId
+
+### password (75)
+   ],hideHeader:!0}},{path:"log-report",component:s,meta:{name:"生成审计报表",role:[-1]}},{path:"clean-error-password",component:d,meta:{name:"清除用户密码错误次数",role:[-1]}},{path:"account-encryption-decrypt",component:l,meta:{name:"帐号加密解密",role:[-1]}},{path:"synchronization-knowledge",component
+   解密",role:[-1]}},{path:"synchronization-knowledge",component:m,meta:{name:"同步知识点",role:[-1]}},{path:"password-manage",component:p,meta:{name:"环境密钥管理",role:[-1],hideHeader:!0}},{path:"jyeoo-data",component:h,meta:{name:"优选题库访问数据",hideHeader:!0,role:[-1,1]}},{path:"xiaoli-setting",c
+   (){s["MessageBox"].prompt("请输入试卷密码","验证密码",{confirmButtonText:"确定",cancelButtonText:"取消",inputType:"password",inputValidator:function(e){if(!e)return"请输入密码"}}).then(function(){var e=Object(i["a"])(Object(o["a"])().m((function e(a){var r;return Object(o["a"])().w((function(e){whil
+   ){while(1)switch(e.n){case 0:if(r=a.value,3!==d){e.n=2;break}return e.n=1,Object(w["a"])({paperId:t,password:r});case 1:l=e.v,e.n=4;break;case 2:return e.n=3,Object(c["e"])({paperId:t,password:r});case 3:l=e.v;case 4:l.data?(u["a"].dispatch("addPaperEncrypt",{paperId:t,password:r
+   a"])({paperId:t,password:r});case 1:l=e.v,e.n=4;break;case 2:return e.n=3,Object(c["e"])({paperId:t,password:r});case 3:l=e.v;case 4:l.data?(u["a"].dispatch("addPaperEncrypt",{paperId:t,password:r}),n()):(Object(s["Message"])({message:"密码错误",type:"error"}),h());case 5:return e.a(
+   ])({paperId:t,password:r});case 3:l=e.v;case 4:l.data?(u["a"].dispatch("addPaperEncrypt",{paperId:t,password:r}),n()):(Object(s["Message"])({message:"密码错误",type:"error"}),h());case 5:return e.a(2)}}),e)})));return function(t){return e.apply(this,arguments)}}()).catch((function(e)
+   k:[],teacherClass:null,teacherClassMap:null,userList:null,token:null,isJyeooUser:!0,jyeooMessage:"",passwordStatus:1,stage:0,stages:[],isTrainer:0,userAction:{},jyeooExpireStatus:0,xuekeExpireStatus:0,yiqiExpireStatus:0,jinjuanExpireStatus:0,wusanExpireStatus:0,phoneBindStatus:0,
+   SER_List",i.data[0].userList),r("GET_USER_EMAIL_PHONE",i.data[0]),r("SET_PASSWORD_STATUS",i.data[0].passwordStatus),r("SET_PHONE_BIND_STATUS",i.data[0].phoneBindStatus),r("SET_SECURITY_STATUS",i.data[0].securityStatus),r("SET_VIP_INFO",c[0]),(window.sessionStorage.getItem("smart_
+
+### encrypt/login (1)
+   ts.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/encrypt/login",method:"post",timeout:1e4,data:e}).catch((function(){Object(r["Message"])({message:"您好，目前系统繁忙，请在半小时后再尝试登录",type:"error"})}))}function S(){var e=arguments.length>0&&v
+
+### encryptedData( (0)
+
+### loginType (0)
+
+### /auth/ (38)
+   fig"].domain===m["baseConfig"].hbxypjxt.domain?window.location.href="http://edu.k12c.com/backend-web/auth/logout?schId=".concat(n.getters.userSchool[0].schoolId,"&service=http://edu.k12c.com/backend-web/auth/callback?schId=").concat(n.getters.userSchool[0].schoolId):f?window.clos
+   uth/logout?schId=".concat(n.getters.userSchool[0].schoolId,"&service=http://edu.k12c.com/backend-web/auth/callback?schId=").concat(n.getters.userSchool[0].schoolId):f?window.close():c?(x={loginOut:!0},s?(j=decodeURIComponent(s),j.includes("#/loginMain")&&(j.indexOf("logout")>=0?j
+   ndex,console.log(m),e.n=7,G["a"].dispatch("getUserIp");case 7:if(t.meta.hideProgress||eC.a.start(),"/auth/sso"===t.path&&Object(w["getQueryString"])("title")&&(window.sessionStorage.configTitle=Object(w["getQueryString"])("title")),p=Object(w["getCookie"])("dongniLoginToken")||wi
+   (G["a"].getters.userType)?c({path:3===G["a"].getters.userType?"/v2/center":"/v2/exam/list",replace:"/auth/sso"===n.path}):"/v2"===t.path&&e[G["a"].getters.userType]?c({path:e[G["a"].getters.userType],replace:"/auth/sso"===n.path}):c(Object(o["a"])({replace:"/auth/sso"===n.path},t
+   "===n.path}):"/v2"===t.path&&e[G["a"].getters.userType]?c({path:e[G["a"].getters.userType],replace:"/auth/sso"===n.path}):c(Object(o["a"])({replace:"/auth/sso"===n.path},t))}),0)):"/"!==m&&m!=="/".concat(Object({NODE_ENV:"production",BASE_URL:"//cdn.dongni100.com/static/fat-web/"
+   rType]?c({path:e[G["a"].getters.userType],replace:"/auth/sso"===n.path}):c(Object(o["a"])({replace:"/auth/sso"===n.path},t))}),0)):"/"!==m&&m!=="/".concat(Object({NODE_ENV:"production",BASE_URL:"//cdn.dongni100.com/static/fat-web/"}).routerHashPath,"/")?Object(w["jumpLocationHref
+   nts.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/auth/token",method:"post",headers:{"DONGNI-LOGIN":window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken},data:e})}function o(){var e=arguments.length>0&&voi
+   nts.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/auth/token/jwt",params:e})}function i(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/auth/xiamenwuzhong"
+
+### login/verify (3)
+   ts.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/verify/slide",params:e})}function K(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/verify/need",para
+   ts.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/verify/need",params:e})}function Y(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/verify/slide/valid
+   ts.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/verify/slide/validate",data:e,method:"post"})}function Z(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/lo
+
+### slide (9)
+   240,"h":240,"nm":"system-outline-161-arrow-long-right","ddd":0,"assets":[{"id":"comp_2","nm":"hover-slide","fr":60,"layers":[{"ddd":0,"ind":1,"ty":4,"nm":"Union 2","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[120,120,0],"ix":2,"l":2},"a":{"a"
+   ":{"a":0,"k":[1,1,1],"ix":1}}]}],"ip":0,"op":341,"st":0,"bm":0},{"ddd":0,"ind":4,"ty":0,"nm":"hover-slide","refId":"comp_2","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[120,120,0],"ix":2,"l":2},"a":{"a":0,"k":[120,120,0],"ix":1,"l":2},"s":{"a
+   },"ao":0,"w":240,"h":240,"ip":140,"op":210,"st":140,"bm":0}],"markers":[{"tm":0,"cm":"default:hover-slide","dr":60}],"props":{}}')},"0248":function(e,t,n){},"0284":function(e,t,n){"use strict";var a=function(){var e=this,t=e._self._c;return t("div",{staticClass:"no-data",style:{p
+    "),t("div",{ref:"drag",staticClass:"drag",style:{width:"".concat(e.imgWidth,"px")}},[t("div",{ref:"slideBg",staticClass:"bg"}),e._v(" "),t("div",{ref:"text",staticClass:"text"},[e._v("\n        "+e._s(e.text)+"\n      ")]),e._v(" "),t("div",{ref:"btn",staticClass:"btn",style:{wi
+   isMouseDown=!1,this.success=!1,this.text="请拖动拼图解锁",this.offsetX=0;var e=this.$refs.btn,t=this.$refs.slideBg,n=this.$refs.text;n.style.color="",e.style.color="",t.style.backgroundColor="",e.style.left=0,t.style.width=0,this.$refs.slice.style.left=0},closeVerify:function(){this.res
+   andleMouseMove:function(e){e.preventDefault(),e.stopPropagation();var t=this.$refs.btn,n=this.$refs.slideBg;if(!this.isMouseDown)return!1;e=e||window.event;var a=e.clientX||e.changedTouches[0].clientX;if(this.offsetX=a-this.originX,this.offsetX>this.distance)return this.offsetX=t
+   ,c,d,l;return Object(o["a"])().w((function(n){while(1)switch(n.n){case 0:if(a=t.$refs.btn,r=t.$refs.slideBg,i=t.$refs.text,t.isMouseDown){n.n=1;break}return n.a(2,!1);case 1:if(t.isMouseDown=!1,e=e||window.event,c=e.clientX||e.changedTouches[0].clientX,c!==t.originX){n.n=2;break}
+   void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/verify/slide",params:e})}function K(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/verify/need",params:e})}functi

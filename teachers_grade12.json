@@ -1,0 +1,1252 @@
+[
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 10169211,
+  "teacherName": "柳婧",
+  "userId": 330534577285,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 9958628,
+  "teacherName": "张佳悦",
+  "userId": 330524648576,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 9958627,
+  "teacherName": "张露文",
+  "userId": 330524648571,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 9958626,
+  "teacherName": "丁俊怡",
+  "userId": 330524648569,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 9958624,
+  "teacherName": "吴伊然",
+  "userId": 330524648570,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 9958623,
+  "teacherName": "孟叙彤",
+  "userId": 330524648574,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 9958622,
+  "teacherName": "王野",
+  "userId": 330524648575,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 9958621,
+  "teacherName": "顾雨欣",
+  "userId": 330524648572,
+  "course": [
+   "生物"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 9958620,
+  "teacherName": "王钰蛟",
+  "userId": 330524648573,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 9929331,
+  "teacherName": "张玉春",
+  "userId": 330523957257,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 9929330,
+  "teacherName": "崔艺",
+  "userId": 330523957255,
+  "course": [
+   "生物"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 9929329,
+  "teacherName": "孙鸿斌",
+  "userId": 330523957256,
+  "course": [
+   "历史"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 9929328,
+  "teacherName": "李则慧",
+  "userId": 330523957254,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 8819402,
+  "teacherName": "王艾哲",
+  "userId": 1051868029,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 8819401,
+  "teacherName": "付冲",
+  "userId": 1051868026,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 8819400,
+  "teacherName": "高尚",
+  "userId": 1051868025,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 8789866,
+  "teacherName": "魏文杰",
+  "userId": 1050098946,
+  "course": [
+   "物理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 8640751,
+  "teacherName": "张励勤",
+  "userId": 1045207982,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 8640750,
+  "teacherName": "赵萱",
+  "userId": 1045207973,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 8640749,
+  "teacherName": "马文轩",
+  "userId": 1045207974,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 8640748,
+  "teacherName": "李雪彤",
+  "userId": 1045207961,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 8640747,
+  "teacherName": "蒋若涵",
+  "userId": 1045207960,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 8670645,
+  "teacherName": "王京京",
+  "userId": 1045178586,
+  "course": [
+   "物理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 8670644,
+  "teacherName": "黄曾暄",
+  "userId": 1045178588,
+  "course": [
+   "物理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228870,
+  "teacherName": "石红惠",
+  "userId": 924098375,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7561678,
+  "teacherName": "王屾",
+  "userId": 965587976,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7561677,
+  "teacherName": "王若晗",
+  "userId": 965587977,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7476699,
+  "teacherName": "贺彦杰",
+  "userId": 941138134,
+  "course": [
+   "历史"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228837,
+  "teacherName": "尹小楠",
+  "userId": 924098269,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7229014,
+  "teacherName": "殷倩楠",
+  "userId": 924098267,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7229012,
+  "teacherName": "马楚翘",
+  "userId": 924098437,
+  "course": [
+   "生物"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7229010,
+  "teacherName": "刘猛",
+  "userId": 924098319,
+  "course": [
+   "体育"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7229006,
+  "teacherName": "陈楠",
+  "userId": 924098339,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7229004,
+  "teacherName": "王骁",
+  "userId": 924098414,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7229003,
+  "teacherName": "全爽",
+  "userId": 924098324,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7229002,
+  "teacherName": "杜得宝",
+  "userId": 924098292,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228999,
+  "teacherName": "徐佳男",
+  "userId": 924098300,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228997,
+  "teacherName": "孔英",
+  "userId": 924098335,
+  "course": [
+   "美术"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228996,
+  "teacherName": "李孟娜",
+  "userId": 924098368,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228994,
+  "teacherName": "王海政",
+  "userId": 924098343,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228993,
+  "teacherName": "王冰",
+  "userId": 924098283,
+  "course": [
+   "生物"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228992,
+  "teacherName": "陈彤",
+  "userId": 924098418,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228991,
+  "teacherName": "崔明悦",
+  "userId": 924098287,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228990,
+  "teacherName": "贾艳敏",
+  "userId": 924098298,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228989,
+  "teacherName": "吴洋",
+  "userId": 924098363,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228988,
+  "teacherName": "刘蕴煜",
+  "userId": 924098430,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228987,
+  "teacherName": "王晶",
+  "userId": 924098395,
+  "course": [
+   "历史"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228986,
+  "teacherName": "伍菲菲",
+  "userId": 924098279,
+  "course": [
+   "物理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228985,
+  "teacherName": "关俊梅",
+  "userId": 924098365,
+  "course": [
+   "物理"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228984,
+  "teacherName": "段玮慧",
+  "userId": 924098429,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228982,
+  "teacherName": "王子靖",
+  "userId": 924098271,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228978,
+  "teacherName": "赵洁",
+  "userId": 924098311,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228977,
+  "teacherName": "田漪策",
+  "userId": 924098272,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228975,
+  "teacherName": "姚佳",
+  "userId": 924098328,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228974,
+  "teacherName": "齐晓欣",
+  "userId": 924098432,
+  "course": [
+   "体育"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228972,
+  "teacherName": "陈亚轩",
+  "userId": 924098364,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228970,
+  "teacherName": "陶一菁",
+  "userId": 924098427,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228968,
+  "teacherName": "陈丹丹",
+  "userId": 924098263,
+  "course": [
+   "生物"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228967,
+  "teacherName": "陈稼桐",
+  "userId": 924098354,
+  "course": [
+   "体育"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228964,
+  "teacherName": "张梦雨",
+  "userId": 924098268,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228963,
+  "teacherName": "张学悦",
+  "userId": 924098383,
+  "course": [
+   "音乐"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228961,
+  "teacherName": "特日格乐",
+  "userId": 924098317,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228957,
+  "teacherName": "齐笑",
+  "userId": 924098257,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228955,
+  "teacherName": "张金宇",
+  "userId": 924098403,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228954,
+  "teacherName": "赵玉璇",
+  "userId": 924098372,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228953,
+  "teacherName": "杨虹珠",
+  "userId": 924098313,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228952,
+  "teacherName": "红文灏",
+  "userId": 924098312,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228951,
+  "teacherName": "付丽洁",
+  "userId": 924098258,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228950,
+  "teacherName": "杨玉蕊",
+  "userId": 924098330,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228949,
+  "teacherName": "唐蕊",
+  "userId": 924098377,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228946,
+  "teacherName": "李木子",
+  "userId": 924098261,
+  "course": [
+   "心理"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228945,
+  "teacherName": "郑赛",
+  "userId": 924098315,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228940,
+  "teacherName": "肖丽",
+  "userId": 924098398,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228939,
+  "teacherName": "纪迎歆",
+  "userId": 924098439,
+  "course": [
+   "美术"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228938,
+  "teacherName": "张睿曦",
+  "userId": 924098308,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228937,
+  "teacherName": "李晓平",
+  "userId": 924098302,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228936,
+  "teacherName": "姜晋楠",
+  "userId": 924098352,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228933,
+  "teacherName": "黄明珠",
+  "userId": 924098404,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228932,
+  "teacherName": "台露",
+  "userId": 924098399,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228931,
+  "teacherName": "陈军",
+  "userId": 924098342,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228927,
+  "teacherName": "郭鸽",
+  "userId": 924098350,
+  "course": [
+   "信息科技"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228925,
+  "teacherName": "徐东瑞",
+  "userId": 924098389,
+  "course": [
+   "历史"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228924,
+  "teacherName": "刘君",
+  "userId": 924098370,
+  "course": [
+   "体育"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228923,
+  "teacherName": "刘双玲",
+  "userId": 924098304,
+  "course": [
+   "历史"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228923,
+  "teacherName": "刘双玲",
+  "userId": 924098304,
+  "course": [
+   "历史"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228922,
+  "teacherName": "张茗子",
+  "userId": 924098252,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228919,
+  "teacherName": "邵蕴玮",
+  "userId": 924098373,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228918,
+  "teacherName": "张煜文",
+  "userId": 924098385,
+  "course": [
+   "生物"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228913,
+  "teacherName": "赵俊",
+  "userId": 924098309,
+  "course": [
+   "物理"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228911,
+  "teacherName": "孙若耘",
+  "userId": 924098262,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228910,
+  "teacherName": "陈子千",
+  "userId": 924098307,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228909,
+  "teacherName": "孙夏萍",
+  "userId": 924098358,
+  "course": [
+   "道德与法治"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228907,
+  "teacherName": "王宇",
+  "userId": 924098441,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228906,
+  "teacherName": "马锐",
+  "userId": 924098415,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228905,
+  "teacherName": "白静",
+  "userId": 924098351,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228904,
+  "teacherName": "李翔宇",
+  "userId": 924098299,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228903,
+  "teacherName": "张冬明",
+  "userId": 924098425,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228899,
+  "teacherName": "张佳丽",
+  "userId": 924098273,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228898,
+  "teacherName": "王雯晔",
+  "userId": 924098388,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228894,
+  "teacherName": "肖颖",
+  "userId": 924098325,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228891,
+  "teacherName": "王姝珺",
+  "userId": 924098286,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228890,
+  "teacherName": "刘慧",
+  "userId": 924098387,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228889,
+  "teacherName": "张曦",
+  "userId": 924098371,
+  "course": [
+   "地理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228888,
+  "teacherName": "温丽茗",
+  "userId": 924098274,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228884,
+  "teacherName": "冉佳鹭",
+  "userId": 924098392,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228883,
+  "teacherName": "张冬芳",
+  "userId": 924098380,
+  "course": [
+   "历史"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228881,
+  "teacherName": "梁丹丹",
+  "userId": 924098361,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228879,
+  "teacherName": "张超",
+  "userId": 924098334,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228878,
+  "teacherName": "付利芳",
+  "userId": 924098367,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228877,
+  "teacherName": "张志强",
+  "userId": 924098394,
+  "course": [
+   "历史"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228875,
+  "teacherName": "王晨缘",
+  "userId": 924098323,
+  "course": [
+   "数学"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228874,
+  "teacherName": "曹为凤",
+  "userId": 924098426,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228873,
+  "teacherName": "杨佳丽",
+  "userId": 924098346,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228868,
+  "teacherName": "冯春",
+  "userId": 924098326,
+  "course": [
+   "信息科技"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228863,
+  "teacherName": "赵健",
+  "userId": 924098417,
+  "course": [
+   "物理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228860,
+  "teacherName": "马琳",
+  "userId": 924098428,
+  "course": [
+   "物理"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228857,
+  "teacherName": "徐冬梅",
+  "userId": 924098345,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228856,
+  "teacherName": "王彩丽",
+  "userId": 924098374,
+  "course": [
+   "生物"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228855,
+  "teacherName": "白硕",
+  "userId": 924098289,
+  "course": [
+   "体育"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228851,
+  "teacherName": "高洁",
+  "userId": 924098276,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228850,
+  "teacherName": "高文静",
+  "userId": 924098322,
+  "course": [
+   "语文"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228847,
+  "teacherName": "檀鹏辉",
+  "userId": 924098357,
+  "course": [
+   "生物"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228843,
+  "teacherName": "韩芳",
+  "userId": 924098336,
+  "course": [
+   "英语"
+  ]
+ },
+ {
+  "gradeName": "初二",
+  "gradeId": 2673906,
+  "teacherId": 7228839,
+  "teacherName": "李红霞",
+  "userId": 924098294,
+  "course": [
+   "音乐"
+  ]
+ },
+ {
+  "gradeName": "初一",
+  "gradeId": 3213983,
+  "teacherId": 7228833,
+  "teacherName": "金邵君",
+  "userId": 924098433,
+  "course": [
+   "英语"
+  ]
+ }
+]

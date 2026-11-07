@@ -1,0 +1,32 @@
+[
+ {
+  "examId": 1482267763,
+  "examName": "朝外八年级期中诊断",
+  "gradeId": 2703835,
+  "status": 2
+ },
+ {
+  "examId": 811203738,
+  "examName": "朝外八年级英语期中听口",
+  "gradeId": 2703835,
+  "status": 2
+ },
+ {
+  "examId": 1213832294,
+  "examName": "朝外七年级期中诊断",
+  "gradeId": 3753848,
+  "status": 2
+ },
+ {
+  "examId": 2019139982,
+  "examName": "朝外初一期中英语听口",
+  "gradeId": 3753848,
+  "status": 2
+ },
+ {
+  "examId": 1750726433,
+  "examName": "朝外九年级期中诊断",
+  "gradeId": 2703834,
+  "status": 2
+ }
+]

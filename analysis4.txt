@@ -1,0 +1,73 @@
+=== API PATHS (45) ===
+"/appfactoryserv/srest/{RegionID}/{SchoolID}/frontendConfig/getFrontendConfig"
+"/baseInfo/teacher/Get/TeacherRoleDepartmentInfos"
+"/dashboard/Get/dashboardCardOpenInfos"
+"/dashboard/Get/dashboardCards"
+"/dashboard/Get/parentDashboardCards"
+"/dashboard/Get/regionDashboardCards"
+"/dashboard/Get/userDashboardCards"
+"/filerenderserv/srest/{RegionID}/{SchoolID}/fileResource/download"
+"/nicezhuanye/srest/{RegionID}/{SchoolID}/schoolAdminPrivilege/Get/UserPrivilege"
+"/nicezhuanye/srest/{RegionID}/{SchoolID}/schoolAdminPrivilege/Get/managerUserPrivilege"
+"/resourcemgtserv/srest/{RegionID}/{SchoolID}/"
+"/resourcemgtserv/srest/{RegionID}/{SchoolID}/fileResource/download"
+"/resourcemgtserv/srest/{RegionID}/{SchoolID}/fileResource/downloadPrivate"
+"/rest"
+"/rest/Auth/logout"
+"/rest/NZYsys/Get/AllRegions"
+"/rest/NZYsys/Get/Schools"
+"/rest/studentInfo/passwd"
+"/salaryserv/srest/{RegionID}/{SchoolID}/SalaryReport/Get/RecentRecordName"
+"/srest/"
+"/srest/basic/110000/1153/dashboard/getTeacherInfos"
+"/srest/basic/{RegionID}/{SchoolID}/dashboard/checkPassword"
+"/srest/basic/{RegionID}/{SchoolID}/dashboard/getTeacherRoles"
+"/srest/basic/{RegionID}/{SchoolID}/userInfoMapping/get/fields"
+"/srest/social/{RegionID}/{SchoolID}/autonomousEnrolment/Get/schoolInfo"
+"/srest/social/{RegionID}/{SchoolID}/studentUserInfo/Get/userInfo"
+"/srest/social/{RegionID}/{SchoolID}/studentUserInfo/Set/saveUserInfo"
+"/srest/userPassword/login/allQuiz"
+"/srest/userPassword/login/userQuiz"
+"/srest/userPassword/updatePassword"
+"/srest/userPassword/updateQuizAns"
+"/srest/{RegionID}/{SchoolID}/integral/get/schoolIntegralOpenInfo"
+"/srest/{RegionID}/{SchoolID}/integral/get/userCategoryInfos"
+"/srest/{RegionID}/{SchoolID}/integral/get/userHisCategoryInfos"
+"/srest/{RegionID}/{SchoolID}/integral/get/userIntegralBrief"
+"/srest/{RegionID}/{SchoolID}/integral/set/saveUserIntegralSetting"
+"/srest/{RegionID}/{SchoolID}/integral/set/userIntegralDetail"
+"/srest/{RegionID}/{SchoolID}/message/allRead"
+"/srest/{RegionID}/{SchoolID}/message/batchRead"
+"/srest/{RegionID}/{SchoolID}/message/finishTask"
+"/srest/{RegionID}/{SchoolID}/message/getList"
+"/srest/{RegionID}/{SchoolID}/message/getMySendMsgDetailList"
+"/srest/{RegionID}/{SchoolID}/message/read"
+"/srest/{RegionID}/{SchoolID}/schoolAdminPrivilege/Get/UserPrivilege"
+"nicezhuanye/rest/NZYsys/Get/Schools"
+
+=== ROUTES (8cHP) ===
+[{path:"/",component:"../layouts/index.tsx",routes:[{path:"/mobile/findMe",component:"../pages/mobile/findMe/index.tsx"},{path:"/mobile/schoolmate",component:"../pages/mobile/schoolmate/index.tsx"},{path:"/mobile/backAppHome",component:"../pages/mobile/backAppHome/index.tsx"},{path:"/sharedComponents/topStoryApps",component:"../pages/sharedComponents/topStoryApps/index"},{path:"/sharedComponents/dataStatistics",component:"../pages/sharedComponents/dataStatistics/index"},{path:"/homepage/components/FeedbackHeader",component:"../pages/homepage/components/FeedbackHeader/index"},{path:"/sharedComponents/feedback",component:"../pages/sharedComponents/feedback/index"},{path:"/sharedComponents/fileMessage",component:"../pages/sharedComponents/fileMessage/index"},{path:"/sharedComponents/onlineStatistics",component:"../pages/sharedComponents/onlineStatistics/index"},{path:"/regionRole",component:"../pages/regionRole/index.tsx"},{path:"/mobile/feedbackList",component:"../pages/mobile/feedbackList/index.tsx"},{path:"/mobile/fileMessage",component:"../pages/mobile/fileMessage/index.tsx"},{path:"/mobile/dataStatistics",component:"../pages/mobile/dataStatistics/index.tsx"},{path:"/backHome",component:"../pages/backHome/index.tsx"},{path:"/fileMessage",component:"../pages/fileMessage/index.tsx"},{path:"/feedbackList",component:"../pages/feedbackList/index.tsx"},{path:"/sharedComponents/reminder",component:"../pages/sharedComponents/reminder/index"},{path:"/enterStuHomePage",component:"../pages/enterStuHomePage/index.tsx"},{path:"/mobile/reminderList",component:"../pages/mobile/reminderList/index.tsx"},{path:"/mobile/personalDetail",component:"../pages/mobile/personalDetail/index.tsx"},{path:"/bindChildDec",component:"../pages/bindChildDec/index.tsx"},{path:"/mobile/addChild",component:"../pages/mobile/addChild/index.tsx"},{path:"/mobile/aboutUs",component:"../pages/mobile/aboutUs/index.tsx"},{path:"/reminderList",component:"../pages/reminderList/index"},{path:"/sharedComponents/schedule",component:"../pages/sharedComponents/schedule/index"},{path:"/sharedComponents/contact",component:"../pages/sharedComponents/contact/index"},{path:"/sharedComponents/message",component:"../pages/sharedComponents/message/index"},{path:"/sharedComponents/todo",component:"../pages/sharedComponents/todo/index"},{path:"/sharedComponents/apps",component:"../pages/sharedComponents/apps/index"},{path:"/sharedComponents/center",component:"../pages/sharedComponents/center/index"},{path:"/account/components/basic",component:"../pages/account/components/basic/index.tsx"},{path:"/account/components/integral/components/IntegralBill",component:"../pages/account/components/integral/components/IntegralBill.tsx"},{path:"/account/components/integral/components/IntegralProject",component:"../pages/account/components/integral/components/IntegralProject.tsx"},{path:"/account/components/integral/components/SignInModal",component:"../pages/account/components/integral/components/SignInModal.tsx"},{path:"/account/components/integral",component:"../pages/account/components/integral/index.tsx"},{path:"/account/components/password",component:"../pages/account/components/password/index.tsx"},{path:"/account",component:"../pages/account/index.tsx"},{path:"/components/asyncbutton/AsyncButton",component:"../pages/components/asyncbutton/AsyncButton.tsx"},{path:"/components/commonModal",component:"../pages/components/commonModal/index.tsx"},{path:"/components/commonModal/ModalHeader",component:"../pages/components/commonModal/ModalHeader.tsx"},{path:"/components/countNum",component:"../pages/components/countNum/index.tsx"},{path:"/components/header",component:"../pages/components/header/index.tsx"},{path:"/components/LanguageSelect",component:"../pages/components/LanguageSelect/index.tsx"},{path:"/components/message/MessageAbstracts",component:"../pages/components/message/MessageAbstracts.tsx"},{path:"/components/message/MessageBack",component:"../pages/components/message/MessageBack.tsx"},{path:"/components/modal/TModal",component:"../pages/components/modal/TModal.tsx"},{path:"/components/nav",component:"../pages/components/nav/index.tsx"},{path:"/components/noData/InsNoData",component:"../pages/components/noData/InsNoData.tsx"},{path:"/components/noData/NoData",component:"../pages/components/noData/NoData.tsx"},{path:"/components/noData/NoTableData",component:"../pages/components/noData/NoTableData.tsx"},{path:"/components/scrollWrapper",component:"../pages/components/scrollWrapper/index.tsx"},{path:"/homepage/components/AnimConfig",component:"../pages/homepage/components/AnimConfig.ts"},{path:"/homepage/components/AnimWrapper",component:"../pages/homepage/components/AnimWrapper.tsx"},{path:"/homepage/components/feedback",component:"../pages/homepage/components/feedback/index.tsx"},{path:"/homepage/components/footer",component:"../pages/homepage/components/footer/index.tsx"},{path:"/homepage/components/messageHeader",component:"../pages/homepage/components/messageHeader/index.tsx"},{path:"/homepage/components/SkeletonContact",component:"../pages/homepage/components/SkeletonContact.tsx"},{path:"/homepage/components/MicroApp",component:"../pages/homepage/components/MicroApp.tsx"},{path:"/homepage/components/myApps",component:"../pages/homepage/components/myApps/index.tsx"},{path:"/homepage/components/myAppsMobile",component:"../pages/homepage/components/myAppsMobile/index.tsx"},{path:"/homepage/components/ScheduleSwitch",component:"../pages/homepage/components/ScheduleSwitch.tsx"},{path:"/homepage/components/SkeletonContact",component:"../pages/homepage/components/SkeletonContact.tsx"},{path:"/homepage/components/SkeletonFrame",component:"../pages/homepage/components/SkeletonFrame.tsx"},{path:"/homepage/components/ViewSwitch",component:"../pages/homepage/components/ViewSwitch.tsx"},{path:"/homepage/handles/AbstractHomePage",component:"../pages/homepage/handles/AbstractHomePage.tsx"},{path:"/homepage/handles/HomePageHandle",component:"../pages/homepage/
+
+### getSchoolQuarkInfo (9)
+tem",function(){return oe}),n.d(t,"RegAppItem",function(){return ie}),n.d(t,"getAppsList",function(){return ae}),n.d(t,"getSchoolQuarkInfo",function(){return ce});n("CbTx");var r=n("SuYE"),o=n.n(r),i=(n("4FFF"),n("Zc2/")),a=n.n(i),c=(n("/ivF"),n("QesF")),s=n.n(c),u=(n("8ZIX"),n("
+(w()({type:"".concat(E["SYSTEM_NAMESPACE"],"/fetchAppList")},e||{})),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},ce=function(e){var t=x["a"].getInstance().getStore();console.log("getAppsList-param",e),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"]
+t=x["a"].getInstance().getStore();console.log("getAppsList-param",e),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},se=function(e){function t(e){var r;return p()(this,t),r=W(this,t,[e]),r.setActiveState=function(e){var t=e.appList,n=[];t.map(function(e
+:function(){var e=m["a"].getInstance();e.dispatch({type:"".concat(T["MESSAGE_NAMESPACE"],"/fetchMessageList")})}},{key:"getSchoolQuarkInfo",value:function(){var e=m["a"].getInstance();e.dispatch({type:"".concat(N["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})}},{key:"getTaskList",v
+
+### getAppsList (12)
+AppList",function(){return ne}),n.d(t,"AppItem",function(){return oe}),n.d(t,"RegAppItem",function(){return ie}),n.d(t,"getAppsList",function(){return ae}),n.d(t,"getSchoolQuarkInfo",function(){return ce});n("CbTx");var r=n("SuYE"),o=n.n(r),i=(n("4FFF"),n("Zc2/")),a=n.n(i),c=(n("
+o),b["createElement"]("span",{className:"tip"},r)))}),ae=function(e){var t=x["a"].getInstance().getStore();console.log("getAppsList-param",e),t.dispatch(w()({type:"".concat(E["SYSTEM_NAMESPACE"],"/fetchAppList")},e||{})),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoo
+oncat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},ce=function(e){var t=x["a"].getInstance().getStore();console.log("getAppsList-param",e),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},se=function(e){function t(e){var r;return p()(this,t),r=W(this,
+ateSessionInfoAndAppList(o()({departmentID:s,roleID:r},f,{roles:t}))}}}else d["a"].getInstance().isStudent()&&Object(h["getAppsList"])()}},{key:"getRoles",value:function(e){var t=e&&e.roles||[];return t}},{key:"getDataByRoleID",value:function(e,t){var n=t.roleDepartmentMap[e]||[]
+
+### schoolQuark (0)
+
+### getAppInfo (0)
+
+### getAppList (0)
+
+### Quark (9)
+tion(){return oe}),n.d(t,"RegAppItem",function(){return ie}),n.d(t,"getAppsList",function(){return ae}),n.d(t,"getSchoolQuarkInfo",function(){return ce});n("CbTx");var r=n("SuYE"),o=n.n(r),i=(n("4FFF"),n("Zc2/")),a=n.n(i),c=(n("/ivF"),n("QesF")),s=n.n(c),u=(n("8ZIX"),n("U9/4")),l
+e:"".concat(E["SYSTEM_NAMESPACE"],"/fetchAppList")},e||{})),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},ce=function(e){var t=x["a"].getInstance().getStore();console.log("getAppsList-param",e),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSch
+getInstance().getStore();console.log("getAppsList-param",e),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},se=function(e){function t(e){var r;return p()(this,t),r=W(this,t,[e]),r.setActiveState=function(e){var t=e.appList,n=[];t.map(function(e){n.push.
+(){var e=m["a"].getInstance();e.dispatch({type:"".concat(T["MESSAGE_NAMESPACE"],"/fetchMessageList")})}},{key:"getSchoolQuarkInfo",value:function(){var e=m["a"].getInstance();e.dispatch({type:"".concat(N["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})}},{key:"getTaskList",value:func

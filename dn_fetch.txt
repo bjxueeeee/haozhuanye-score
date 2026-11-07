@@ -1,0 +1,41 @@
+
+### fetchCourseExam (5)
+    r=e.commit,n.n=1,Object(o["E"])(t);case 1:i=n.v,i&&0===i.status&&r("GET_RELATIVE_INFO",i.data);case 2:return n.a(2)}}),n)})))()},fetchCourseExam:function(e,t){return Object(r["a"])(Object(a["a"])().m((function n(){var r,i;return Object(a["a"])().w((function(n){while(1)switch(n.n){case 0:return r=e.commit,n.n=1,Object(o["i"])(t);case 1:i=n.v,i&&0===i.status&
+   se.filter((function(e){return e.paperList&&e.paperList.length>0}))),1!==n.getters.userType){a.n=2;break}return a.n=2,ft.dispatch("fetchCourseExam",{schoolId:o.data.examSchool[0].schoolId});case 2:if(i=null,c=null,ft.getters.userInfo.virtualPaperReadUserFlag){a.n=5;break}return a.n=3,Object(y["Md"])({examId:t.examId,schoolId:o.data.examSchool[0].schoolId});ca
+   _JYEOO_EXPIRE",{jyeooStatus:3}),![7,8,13,14,18,19].includes(G["a"].getters.userType)){e.n=17;break}return e.n=16,G["a"].dispatch("fetchCourseExam");case 16:e.n=20;break;case 17:if(!G["a"].getters.userSchool||!G["a"].getters.userSchool.length){e.n=19;break}return e.n=18,G["a"].dispatch("fetchCourseExam",{schoolId:G["a"].getters.userSchool[0].schoolId});case 1
+   .n=20;break;case 17:if(!G["a"].getters.userSchool||!G["a"].getters.userSchool.length){e.n=19;break}return e.n=18,G["a"].dispatch("fetchCourseExam",{schoolId:G["a"].getters.userSchool[0].schoolId});case 18:e.n=20;break;case 19:if(y=r,!y){e.n=20;break}return e.n=20,G["a"].dispatch("fetchCourseExam");case 20:if(!G["a"].getters.userSchool||!G["a"].getters.userSc
+   oolId:G["a"].getters.userSchool[0].schoolId});case 18:e.n=20;break;case 19:if(y=r,!y){e.n=20;break}return e.n=20,G["a"].dispatch("fetchCourseExam");case 20:if(!G["a"].getters.userSchool||!G["a"].getters.userSchool.length){e.n=21;break}return e.n=21,G["a"].dispatch("getSchoolGrade",{schoolId:G["a"].getters.userSchool[0].schoolId});case 21:if(3!==G["a"].getter
+
+### fetchExam (0)
+
+### examList (1)
+   ===this.userType?window.location.href="https://www.dsjxq.com/areacenter":window.location.href="https://www.dsjxq.com/schoolreport/examList"},backPutian:function(){var e=window.localStorage.accountName||"";window.localStorage.clear(),window.sessionStorage.clear(),window.localStorage.accountName=e,window.location.href="http://smartedu.mydongtai.cn:8060/"},chan
+
+### getExamList (0)
+
+### /api/exam/plan" (1)
+   e,method:"post"})}function ot(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/plan",params:e})}function it(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/plan/paper/all",params:e})}function ct(){var e=arguments.length>0&&void 0!==argum
+
+### relative/all (1)
+   ){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/relative/all",params:e})}function c(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/export/course/common/all",params:e})}function u(){var e=arguments.length>0&&voi
+
+### getSimpleUser (2)
+    e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/base/data/system/account/user/getSimpleUser",params:e})}function It(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/tiku/classify",params:e})}function Mt(){var e=arguments.length>0&&void 0!==arguments[0]
+    e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user/getSimpleUserInfo",data:e,method:"post"})}function w(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user/getStudent",params:e})}function x(){var e=
+
+### examSchool (5)
+   perList&&e.paperList.length>0}))),1!==n.getters.userType){a.n=2;break}return a.n=2,ft.dispatch("fetchCourseExam",{schoolId:o.data.examSchool[0].schoolId});case 2:if(i=null,c=null,ft.getters.userInfo.virtualPaperReadUserFlag){a.n=5;break}return a.n=3,Object(y["Md"])({examId:t.examId,schoolId:o.data.examSchool[0].schoolId});case 3:return i=a.v,a.n=4,Object(y["
+   ll,c=null,ft.getters.userInfo.virtualPaperReadUserFlag){a.n=5;break}return a.n=3,Object(y["Md"])({examId:t.examId,schoolId:o.data.examSchool[0].schoolId});case 3:return i=a.v,a.n=4,Object(y["Jb"])({examId:t.examId,schoolId:t.schoolId||""});case 4:c=a.v;case 5:ft.dispatch("getOriginPaperDisplayType",t),r("SET_EXAM_CLASS_COURSE_VISIBLE",c?c.data:null),r("SET_E
+   s=t})),console.log(e.node,"state.node"),[3,9,10,11,12,20].includes(this.getters.userType)&&!1===e.node&&(t.originExamSchool=j()(t.examSchool),t.examSchool=t.examSchool.filter((function(e){return n.getters.userSchool.some((function(t){return e.schoolId===t.schoolId}))}))),e.examTrace=t,e.isMultipleSchools=[7,10].includes(t.examType),e.isExamCreator=e.examTrac
+   .log(e.node,"state.node"),[3,9,10,11,12,20].includes(this.getters.userType)&&!1===e.node&&(t.originExamSchool=j()(t.examSchool),t.examSchool=t.examSchool.filter((function(e){return n.getters.userSchool.some((function(t){return e.schoolId===t.schoolId}))}))),e.examTrace=t,e.isMultipleSchools=[7,10].includes(t.examType),e.isExamCreator=e.examTrace.creatorId===
+   state.node"),[3,9,10,11,12,20].includes(this.getters.userType)&&!1===e.node&&(t.originExamSchool=j()(t.examSchool),t.examSchool=t.examSchool.filter((function(e){return n.getters.userSchool.some((function(t){return e.schoolId===t.schoolId}))}))),e.examTrace=t,e.isMultipleSchools=[7,10].includes(t.examType),e.isExamCreator=e.examTrace.creatorId===this.getters.
+
+### listGroup" (2)
+   ams:e})}function ra(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/listGroup",params:e})}function oa(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/mark/progress/course/case",params:e})}function ia(){var e=arguments.length>0&&void 0!=
+   function da(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/arrange/listGroup",params:e})}function la(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/arrange/listGroupWithTeacher",params:e})}function ha(){var e=arguments.length>0&&void 
+
+### report/list (1)
+   _O=function(){return n.e("chunk-6b2fab1e").then(n.bind(null,"63b6"))},PO={path:"school-health-report",redirect:"/v2/school-health-report/list",component:LO,meta:{name:"学校健康度报表",role:[1,3,7,9,10,11,13],hideUserTypeList:[1,3,7,9,10,11,13]},children:[{path:"list",component:_O,meta:{name:"健康度列表主路由",role:[-1,1,3,6,7,9,10,11,12,13,20],hideHeader:!0}}]},RO=PO,DO=fu
+
+### 考试报告列表 (1)
+   ={path:"exam",component:jw,redirect:"/v2/exam/list",meta:{name:"考试报告",role:[4,5]},children:[{path:"list",component:Ow,meta:{name:"考试报告列表（学生、家长）",role:[4,5],keepAlive:!0}},{path:"report",component:Tw,meta:{role:[4,5],keepAlive:!0},children:[{path:"detail",component:Sw,meta:{role:[4,5],hideHeader:!0},beforeEnter:function(e,t,n){Object(w["remoteJs"])("/componen

@@ -1,0 +1,65 @@
+[
+ {
+  "examName": "朝外八年级期中诊断",
+  "gradeId": 2703835,
+  "gradeYear": 2028,
+  "status": 2,
+  "date": "2026-11-02~2026-11-04"
+ },
+ {
+  "examName": "25-26第二学期朝外来广营七年级期末考试",
+  "gradeId": 2703835,
+  "gradeYear": 2028,
+  "status": 2,
+  "date": "2026-06-29~2026-07-01"
+ },
+ {
+  "examName": "朝外八年级英语期中听口",
+  "gradeId": 2703835,
+  "gradeYear": 2028,
+  "status": 2,
+  "date": "2026-11-05~2026-11-05"
+ },
+ {
+  "examName": "八年级月诊断(本部)",
+  "gradeId": 2703835,
+  "gradeYear": 2028,
+  "status": 2,
+  "date": "2026-09-27~2026-09-28"
+ },
+ {
+  "examName": "朝外七年级期中诊断",
+  "gradeId": 3753848,
+  "gradeYear": 2029,
+  "status": 2,
+  "date": "2026-11-02~2026-11-04"
+ },
+ {
+  "examName": "朝外初一期中英语听口",
+  "gradeId": 3753848,
+  "gradeYear": 2029,
+  "status": 2,
+  "date": "2026-11-05~2026-11-05"
+ },
+ {
+  "examName": "朝外九年级期中诊断",
+  "gradeId": 2703834,
+  "gradeYear": 2027,
+  "status": 2,
+  "date": "2026-11-02~2026-11-04"
+ },
+ {
+  "examName": "初三年级本校月诊断",
+  "gradeId": 2703834,
+  "gradeYear": 2027,
+  "status": 2,
+  "date": "2026-09-27~2026-09-28"
+ },
+ {
+  "examName": "朝外来广营八年级历史期末诊断",
+  "gradeId": 2703834,
+  "gradeYear": 2027,
+  "status": 2,
+  "date": "2026-06-29~2026-07-01"
+ }
+]

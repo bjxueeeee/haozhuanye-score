@@ -1,0 +1,112 @@
+=== login/auth/user api paths (79) ===
+"/api/analysis/area/view/exam/group/user/displayIndex"
+"/api/base/data/admin/school/login"
+"/api/base/data/admin/user/export/areaUser"
+"/api/base/data/admin/user/maintain/parentOrStudent"
+"/api/base/data/admin/user/mobile"
+"/api/base/data/admin/user/verification-code/send"
+"/api/base/data/auth/token"
+"/api/base/data/auth/token/jwt"
+"/api/base/data/encrypt/login"
+"/api/base/data/login/cancel/disable"
+"/api/base/data/login/pretend"
+"/api/base/data/login/security"
+"/api/base/data/login/security/status"
+"/api/base/data/login/security/validate"
+"/api/base/data/login/token"
+"/api/base/data/login/token/clean/multi"
+"/api/base/data/login/token/kick"
+"/api/base/data/login/verify/need"
+"/api/base/data/login/verify/slide"
+"/api/base/data/login/verify/slide/validate"
+"/api/base/data/sys/user/action"
+"/api/base/data/system/account/user"
+"/api/base/data/system/account/user/check"
+"/api/base/data/system/account/user/check/delete"
+"/api/base/data/system/account/user/delete"
+"/api/base/data/system/account/user/getParent"
+"/api/base/data/system/account/user/getSimpleUser"
+"/api/base/data/system/account/user/getSimpleUserInfo"
+"/api/base/data/system/account/user/getStudent"
+"/api/base/data/system/account/user/membership/order/detail"
+"/api/base/data/system/account/user/membership/pay"
+"/api/base/data/system/account/user/membership/product"
+"/api/base/data/system/account/user/sorts"
+"/api/base/data/system/account/user/updateParentToStudent"
+"/api/base/data/system/account/user/updateStudentToParent"
+"/api/base/data/system/auth/ali/dingding"
+"/api/base/data/system/auth/boxuebao"
+"/api/base/data/system/auth/client/liupanshui"
+"/api/base/data/system/auth/getSchoolAuthKeyInfos"
+"/api/base/data/system/auth/haozhuanye"
+"/api/base/data/system/auth/huaibei"
+"/api/base/data/system/auth/ixiamen"
+"/api/base/data/system/auth/jwt"
+"/api/base/data/system/auth/liupanshui"
+"/api/base/data/system/auth/longchuang"
+"/api/base/data/system/auth/luohu"
+"/api/base/data/system/auth/putian"
+"/api/base/data/system/auth/putian/token"
+"/api/base/data/system/auth/qinning"
+"/api/base/data/system/auth/sso"
+"/api/base/data/system/auth/tencent"
+"/api/base/data/system/auth/tianwen"
+"/api/base/data/system/auth/tianwen/local"
+"/api/base/data/system/auth/tonganyizhong"
+"/api/base/data/system/auth/wanxin/jsyz"
+"/api/base/data/system/auth/wanxin/jszx"
+"/api/base/data/system/auth/wanxin/logout"
+"/api/base/data/system/auth/wanxin/shenmu"
+"/api/base/data/system/auth/xiamenwuzhong"
+"/api/base/data/system/auth/xiaoyang/demo/token"
+"/api/base/data/system/auth/xiaoyang/jian/token"
+"/api/base/data/system/auth/xiaoyang/token"
+"/api/base/data/system/auth/xuekewang"
+"/api/exam/tool/config/user/default"
+"/api/exam/tool/user"
+"/api/exam/tool/user/delete"
+"/api/exam/tool/user/homework"
+"/api/exam/tool/user/school"
+"/api/exam/tool/user/union"
+"/api/exam/tool/user/update"
+"/api/exam/user/similar/question"
+"/api/exam/user/similar/question/lock"
+"/api/login/init/password/update"
+"/api/system/auth/tianwen/jwt"
+"/api/tiku/third/jyeoo/user"
+"/api/tiku/third/jyeoo/userPaper/user"
+"/api/tiku/third/jyeoo/userPaper/user/delete/"
+"/api/tiku/third/xkw/zujuan/user/download/paper/detail"
+"/api/tiku/third/yiqi/common/user"
+
+=== set dongniLoginToken context ===
+   f(e.hideHeader?(window.sessionStorage.hideHeader=e.hideHeader,t&&t.data&&t.data.dongniLoginToken&&(window.sessionStorage.dongniLoginToken=t.data.dongniLoginToken)):(window.sessionStorage.removeItem("h
+   eHeader=e.hideHeader,t&&t.data&&t.data.dongniLoginToken&&(window.sessionStorage.dongniLoginToken=t.data.dongniLoginToken)):(window.sessionStorage.removeItem("hideHeader"),window.sessionStorage.removeI
+   t.data&&t.data.dongniLoginToken&&(window.sessionStorage.dongniLoginToken=t.data.dongniLoginToken)):(window.sessionStorage.removeItem("hideHeader"),window.sessionStorage.removeItem("dongniLoginToken"))
+   indow.sessionStorage.removeItem("hideHeader"),window.sessionStorage.removeItem("dongniLoginToken")),e.iframe?window.sessionStorage.iframe=e.iframe:window.sessionStorage.removeItem("iframe"),e.thirdHom
+   em("smart_homework")||window.localStorage.getItem("smart_homework"))&&i.data[0].dongniLoginToken&&(window.localStorage.setItem("dongniLoginToken",i.data[0].dongniLoginToken),window.sessionStorage.setI
+   m("smart_homework"))&&i.data[0].dongniLoginToken&&(window.localStorage.setItem("dongniLoginToken",i.data[0].dongniLoginToken),window.sessionStorage.setItem("dongniLoginToken",i.data[0].dongniLoginToke
+   [0].dongniLoginToken&&(window.localStorage.setItem("dongniLoginToken",i.data[0].dongniLoginToken),window.sessionStorage.setItem("dongniLoginToken",i.data[0].dongniLoginToken)));case 2:return n.a(2)}})
+   m("dongniLoginToken",i.data[0].dongniLoginToken),window.sessionStorage.setItem("dongniLoginToken",i.data[0].dongniLoginToken)));case 2:return n.a(2)}}),n)})))()},initBindLocalBaseUrl:function(e,t){ret
+   0].dongniLoginToken),window.sessionStorage.setItem("dongniLoginToken",i.data[0].dongniLoginToken)));case 2:return n.a(2)}}),n)})))()},initBindLocalBaseUrl:function(e,t){return Object(r["a"])(Object(a[
+   fig"].domain),Object(w["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken)n({path:"/v2"});else if("true"===Object({NODE_ENV:"production",BA
+   dongniLoginToken")||window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken)n({path:"/v2"});else if("true"===Object({NODE_ENV:"production",BASE_URL:"//cdn.dongni100.com/static/fat
+   ow.sessionStorage.setItem("smart_homework","true"),window.localStorage.getItem("dongniLoginToken")||window.sessionStorage.getItem("dongniLoginToken")?Object(w["jumpLocationHref"])("/v2/smart-homework/
+   ,window.zyClient.get("userList");case 2:return s=e.v,e.n=3,window.zyClient.get("dongniLoginToken");case 3:return l=e.v,e.n=4,window.zyClient.get("smart_homework");case 4:return h=e.v,e.n=5,window.zyCl
+   ),u&&window.localStorage.setItem("authorize",u),l&&window.localStorage.setItem("dongniLoginToken",l),l&&window.sessionStorage.setItem("dongniLoginToken",l),h&&window.sessionStorage.setItem("smart_home
+   ow.localStorage.setItem("dongniLoginToken",l),l&&window.sessionStorage.setItem("dongniLoginToken",l),h&&window.sessionStorage.setItem("smart_homework","true"),f&&window.sessionStorage.setItem("bindSch
+   bindSchoolInfo",f),document.title="扫描打印一体客户端";case 6:return window.localStorage.dongniLoginToken&&(window.sessionStorage.dongniLoginToken=window.localStorage.dongniLoginToken),m=window.sessionStorage.
+   客户端";case 6:return window.localStorage.dongniLoginToken&&(window.sessionStorage.dongniLoginToken=window.localStorage.dongniLoginToken),m=window.sessionStorage.thirdIndex||d["config"].index,console.log
+   e.dongniLoginToken&&(window.sessionStorage.dongniLoginToken=window.localStorage.dongniLoginToken),m=window.sessionStorage.thirdIndex||d["config"].index,console.log(m),e.n=7,G["a"].dispatch("getUserIp"
+   age.configTitle=Object(w["getQueryString"])("title")),p=Object(w["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken,!p||!Object(w["getQuery
+   )("title")),p=Object(w["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken,!p||!Object(w["getQueryString"])("logOut")){e.n=10;break}return e
+   dongniLoginToken")||window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken,!p||!Object(w["getQueryString"])("logOut")){e.n=10;break}return e.n=8,Object(pp["ab"])();case 8:return 
+   t.meta.white)){e.n=11;break}c(),e.n=16;break;case 11:if(Object(w["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken){e.n=12;break}"/"!==m&&m!=="/".concat(Object({NODE_ENV:"produ
+   ak;case 11:if(Object(w["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken){e.n=12;break}"/"!==m&&m!=="/".concat(Object({NODE_ENV:"production",BASE_URL:"//cdn.dongni100.com/stati
+   se/data/auth/token",method:"post",headers:{"DONGNI-LOGIN":window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken},data:e})}function o(){var e=arguments.length>0&&void 0!==argumen
+   ers:{"DONGNI-LOGIN":window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken},data:e})}function o(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a[
+   ef.includes("/smart-homework"))){e.n=3;break}if(window.localStorage.removeItem("dongniLoginToken"),window.sessionStorage.removeItem("dongniLoginToken"),!window.zyClient){e.n=2;break}return e.n=2,windo
+   w.localStorage.removeItem("dongniLoginToken"),window.sessionStorage.removeItem("dongniLoginToken"),!window.zyClient){e.n=2;break}return e.n=2,window.zyClient.save("dongniLoginToken","");case 2:n="/sma
+   niLoginToken"),!window.zyClient){e.n=2;break}return e.n=2,window.zyClient.save("dongniLoginToken","");case 2:n="/smart-homework-login";case 3:r=setInterval((function(){clearInterval(r),Object(s["jumpL
+   rue"==localStorage.getItem("smart_homework")))return sessionStorage.removeItem("dongniLoginToken"),localStorage.removeItem("dongniLoginToken"),window.zyClient&&window.zyClient.save("dongniLoginToken",
+   alStorage.removeItem("dongniLoginToken"),window.zyClient&&window.zyClient.save("dongniLoginToken",""),void Object(s["jumpLocationHref"])("/smart-homework-homepage");if([11008].includes(e.data.status))

@@ -1,0 +1,12 @@
+# 浏览器调试 profile（含锁定数据库，无用）
+edge_profile/
+
+# 临时目录
+.tmp/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 依赖库（可选：如需脚本开箱即用可取消下面注释）
+# .pylibs/

@@ -1,0 +1,75 @@
+
+########## 考试 (100) ##########
+   serSchool&&ft.getters.userSchool.length>0?ft.getters.userSchool[0].schoolId:"",s=["我的首页","考试报告","错题下载"];if(5===ft.getters.userType&&5612===u&&i["config"].domain===i["baseConfig"].nicezhuanye.domain){var d=e.meta.name;n=s.includes(d)}if(6!==ft.getters
+   ,1062848623,1062907972].includes(ft.getters.userId)&&"dongni100"===i["config"].domain&&"异步考试报告"===e.meta.name&&(n=!1),[3,12,20].includes(ft.getters.userType)?(["校本题库","资源中心"].includes(e.meta.name)&&(n=!1,t=!1),"区域题库"===e.meta.name&&(n=!1,t=!1),e.meta
+   n-modal-info",{attrs:{isShow:e.showInfoModal.show,title:"提示",text:"当前客户端已升级，请通过浏览器登录系统后，通过考试管理的待办进入到答卷扫描页面进行新版客户端的下载和安装，感谢您的配合~",showConfirm:!1,"show-close":!1,"close-on-press-escape":!1,"close-on-click-modal":!1},on:{"update:isShow":function(t){retu
+   unk-0259fb72").then(n.bind(null,"0e58"))},Ot={path:"exam-manage",component:be,meta:{name:"考试管理主路由",role:[1,2,3,9,10,11,12,13,18,19,20],hideHeader:!0,universityRole:[3,15]},children:[{path:"",component:ge,meta:{name:"工具箱",role:[1,3,9,10,11,12,13,18,19
+   ,hideHeader:!0,universityRole:[3,15]}},{path:"score-edit-detail",component:Ce,meta:{name:"考试信息-成绩修正详情",role:[1,3,9,10,11,12,13,18,19,20],hideHeader:!0,universityRole:[3,15]}}]},{path:"params-setting",component:Ee,meta:{name:"参数设置",role:[1,3,9,10,11,1
+   ,20],hideHeader:!0,universityRole:[3,15]}},{path:"report-detail",component:ye,meta:{name:"考试信息-报表详情",role:[1,3,9,10,11,12,13,18,19,20],hideHeader:!0,universityRole:[3,15]}}]},{path:"base-info",component:Ie,meta:{name:"成绩显示配置",role:[1,3,9,10,11,12,13,
+
+########## examList (1) ##########
+   ttps://www.dsjxq.com/areacenter":window.location.href="https://www.dsjxq.com/schoolreport/examList"},backPutian:function(){var e=window.localStorage.accountName||"";window.localStorage.clear(),window.sessionStorage.clear(),window.localStorage.account
+
+########## exam/list (6) ##########
+   e("chunk-0259fb72").then(n.bind(null,"0e58"))},To={path:"exam",component:Gn,redirect:"/v2/exam/list",meta:{name:"智慧考试",role:[1,3,8,9,10,11,12,13,14,18,20],hideUserTypeList:[8,14],universityRole:[3,15],englishName:"EXAMS"},children:[{path:"recutting",
+   1,12].includes(this.userType))this.$router.push({path:3===this.userType?"/v2/center":"/v2/exam/list"});else{var e={7:"/v2/entrust/list/",16:"/v2/regional-question/list/paper-list",17:"/v2/sync-task/list",27:"/v2/practice-book-person-manage",28:"/v2/p
+   "chunk-b3e16462")]).then(n.bind(null,"c5cf"))},Ew={path:"exam",component:jw,redirect:"/v2/exam/list",meta:{name:"考试报告",role:[4,5]},children:[{path:"list",component:Ow,meta:{name:"考试报告列表（学生、家长）",role:[4,5],keepAlive:!0}},{path:"report",component:Tw,me
+   ].includes(G["a"].getters.userType)?c({path:3===G["a"].getters.userType?"/v2/center":"/v2/exam/list",replace:"/auth/sso"===n.path}):"/v2"===t.path&&e[G["a"].getters.userType]?c({path:e[G["a"].getters.userType],replace:"/auth/sso"===n.path}):c(Object(
+   ts.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/listGroup",params:e})}function oa(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/exam/mark/progre
+   0]?arguments[0]:{};return Object(a["default"])({url:"/api/analysis/view/myStudent/student/exam/list/scoreRate",method:"post",data:e})}function c(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/
+
+########## getExam (24) ##########
+   4c0"),r=n("df05"),o=(n("4911"),{examTrace:null,isMultipleSchools:!1,isExamCreator:!1}),i={getExamTrace:function(e,t){return Object(r["a"])(Object(a["a"])().m((function n(){var r;return Object(a["a"])().w((function(n){while(1)switch(n.n){case 0:r=e.co
+   ction(e,t){e.commit;T=j()(O)},resetState:function(e,t){var n=e.commit;n("RESET_STATE",T)},getExamTrace:function(e,t){var n=this;return Object(g["a"])(Object(b["a"])().m((function a(){var r,o,i,c;return Object(b["a"])().w((function(a){while(1)switch(a
+   BJECT_STATUS",o.data),r("GET_EXAM_CLASS_STATUS",o.data);case 6:return a.a(2)}}),a)})))()},getExamConfig:function(e,t){return Object(g["a"])(Object(b["a"])().m((function n(){var a,r;return Object(b["a"])().w((function(n){while(1)switch(n.n){case 0:ret
+   a("INIT_EXAM_CONFIG",r.data),a("SET_EXAM_CLASS_COURSE");case 2:return n.a(2)}}),n)})))()},getExamVisibilityStudent:function(e,t){return Object(g["a"])(Object(b["a"])().m((function n(){var a,r;return Object(b["a"])().w((function(n){while(1)switch(n.n)
+   0===r.status&&a("SET_ORIGIN_PAPER_DISPLAY_TYPE",r.data);case 2:return n.a(2)}}),n)})))()},getExamStatReport:function(e,t){return Object(g["a"])(Object(b["a"])().m((function n(){var a,r;return Object(b["a"])().w((function(n){while(1)switch(n.n){case 0
+   (n.n){case 0:a=e.commit,a("SET_ANSWER_CARD_UPLOADER",t);case 1:return n.a(2)}}),n)})))()},getExamPaperDetail:function(e,t){return Object(g["a"])(Object(b["a"])().m((function n(){var a,r;return Object(b["a"])().w((function(n){while(1)switch(n.n){case 
+
+########## baseURL (19) ##########
+   guments[0]:{};return Object(a["default"])({url:"/local/templateScan",data:e,method:"post",baseURL:"http://".concat(r["a"].state.scannerSever.scannerSeverHostname,":").concat(r["a"].state.scannerSever.scannerSeverPort,"/")})}function h(){var e=argumen
+   return Object(a["default"])({url:"/local/initConnection",data:e,method:"post",timeout:3e3,baseURL:"http://".concat(r["a"].state.scannerSever.scannerSeverHostname,":").concat(t,"/"),headers:{hideError:!0}}).catch((function(e){return{data:null,status:-
+   uments[0]:{};return Object(a["default"])({url:"/local/getDeviceList",data:e,method:"post",baseURL:"http://".concat(r["a"].state.scannerSever.scannerSeverHostname,":").concat(r["a"].state.scannerSever.scannerSeverPort,"/")})}function O(){var e=argumen
+   ents[0]:{};return Object(a["default"])({url:"/local/initEnvironment",data:e,method:"post",baseURL:"http://".concat(r["a"].state.scannerSever.scannerSeverHostname,":").concat(r["a"].state.scannerSever.scannerSeverPort,"/")})}function T(){var e=argumen
+   guments[0]:{};return Object(a["default"])({url:"/local/selectDevice",data:e,method:"post",baseURL:"http://".concat(r["a"].state.scannerSever.scannerSeverHostname,":").concat(r["a"].state.scannerSever.scannerSeverPort,"/")})}function S(){var e=argumen
+   uments[0]:{};return Object(a["default"])({url:"/local/scanUploaders",data:e,method:"post",baseURL:"http://".concat(r["a"].state.scannerSever.scannerSeverHostname,":").concat(r["a"].state.scannerSever.scannerSeverPort,"/")}).catch((function(e){return 
+
+########## baseUrl (0) ##########
+
+########## Authorization (0) ##########
+
+########## token (13) ##########
+   schoolGrade:[],jyeooKnowledgeBank:[],teacherClass:null,teacherClassMap:null,userList:null,token:null,isJyeooUser:!0,jyeooMessage:"",passwordStatus:1,stage:0,stages:[],isTrainer:0,userAction:{},jyeooExpireStatus:0,xuekeExpireStatus:0,yiqiExpireStatus:
+   g"].dongni.host):"https://".concat(c["baseConfig"].test.host)),Object(r["updateConfig"])({token:Object(o["getCookie"])("token")?JSON.parse(Object(o["getCookie"])("token")):null,addIpStatus:!c["config"].isLocalServer,dongniLoginToken:Object(o["getCook
+   ncat(c["baseConfig"].test.host)),Object(r["updateConfig"])({token:Object(o["getCookie"])("token")?JSON.parse(Object(o["getCookie"])("token")):null,addIpStatus:!c["config"].isLocalServer,dongniLoginToken:Object(o["getCookie"])("dongniLoginToken")||win
+   updateConfig"])({token:Object(o["getCookie"])("token")?JSON.parse(Object(o["getCookie"])("token")):null,addIpStatus:!c["config"].isLocalServer,dongniLoginToken:Object(o["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken,urlOrig
+   id 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/auth/token",method:"post",headers:{"DONGNI-LOGIN":window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken},data:e})}function o(){var e=arguments
+   id 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/auth/token/jwt",params:e})}function i(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/auth/
+
+########## Cookie (10) ##########
+   er"]})),n.o(h,"getColor")&&n.d(t,"getColor",(function(){return h["getColor"]})),n.o(h,"getCookie")&&n.d(t,"getCookie",(function(){return h["getCookie"]})),n.o(h,"getElementTop")&&n.d(t,"getElementTop",(function(){return h["getElementTop"]})),n.o(h,"g
+   lor")&&n.d(t,"getColor",(function(){return h["getColor"]})),n.o(h,"getCookie")&&n.d(t,"getCookie",(function(){return h["getCookie"]})),n.o(h,"getElementTop")&&n.d(t,"getElementTop",(function(){return h["getElementTop"]})),n.o(h,"getFilterName")&&n.d(
+   (){return h["getColor"]})),n.o(h,"getCookie")&&n.d(t,"getCookie",(function(){return h["getCookie"]})),n.o(h,"getElementTop")&&n.d(t,"getElementTop",(function(){return h["getElementTop"]})),n.o(h,"getFilterName")&&n.d(t,"getFilterName",(function(){ret
+   foreEnter:function(e,t,n){if(console.log("config.domain",d["config"].domain),Object(w["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken)n({path:"/v2"});else if("true"===Object({NODE_ENV:"p
+   &&(window.sessionStorage.configTitle=Object(w["getQueryString"])("title")),p=Object(w["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken||window.localStorage.dongniLoginToken,!p||!Object(w["getQueryString"])("logOut")){e.n=10;b
+   2);case 10:if(!YS(QS,t.meta.white)){e.n=11;break}c(),e.n=16;break;case 11:if(Object(w["getCookie"])("dongniLoginToken")||window.sessionStorage.dongniLoginToken){e.n=12;break}"/"!==m&&m!=="/".concat(Object({NODE_ENV:"production",BASE_URL:"//cdn.dongni
+
+########## withCredentials (0) ##########
+
+########## /api/analysis/exam (0) ##########
+
+########## examInfo (0) ##########
+
+########## exam/get (0) ##########
+
+########## 考试列表 (0) ##########
+
+########## getExamList (0) ##########
+
+########## exam/page (0) ##########
+
+########## examPage (0) ##########
+
+########## listExam (0) ##########
+
+########## queryExam (0) ##########

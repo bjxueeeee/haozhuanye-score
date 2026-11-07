@@ -1,0 +1,1494 @@
+{
+ "schoolList": [
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25191936,
+   "schoolCategory": 0,
+   "schoolName": "北京市第十九中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1281,
+   "schoolCategory": 0,
+   "schoolName": "北京师范大学实验中学丰台学校"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25194755,
+   "schoolCategory": 0,
+   "schoolName": "北京市京源学校莲石湖分校"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25184004,
+   "schoolCategory": 0,
+   "schoolName": "北京市怀柔区第五中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25180677,
+   "schoolCategory": 0,
+   "schoolName": "首都师范大学附属中学朝阳学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25188358,
+   "schoolCategory": 0,
+   "schoolName": "北京市门头沟区大峪第二小学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185543,
+   "schoolCategory": 0,
+   "schoolName": "北京光明小学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25195527,
+   "schoolCategory": 0,
+   "schoolName": "北京市通州区民族小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 3592,
+   "schoolCategory": 0,
+   "schoolName": "北京市第十八中学蒲芳学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25197326,
+   "schoolCategory": 0,
+   "schoolName": "怀来海淀外国语实验学校京北校区"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1554,
+   "schoolCategory": 0,
+   "schoolName": "北京朝阳职业学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25189651,
+   "schoolCategory": 0,
+   "schoolName": "北京市丰台区怡海小学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200147,
+   "schoolCategory": 0,
+   "schoolName": "北京市实验职业学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25175316,
+   "schoolCategory": 0,
+   "schoolName": "北京化工大学附属中学(高中部)"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25170965,
+   "schoolCategory": 0,
+   "schoolName": "北京汇文中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25195541,
+   "schoolCategory": 0,
+   "schoolName": "北京市密云区第一小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1305,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二中学通州校区"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25167386,
+   "schoolCategory": 0,
+   "schoolName": "北京市第五中学"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25183514,
+   "schoolCategory": 0,
+   "schoolName": "北京市第八十中学红星未来学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1307,
+   "schoolCategory": 0,
+   "schoolName": "清华附中学院路学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25190430,
+   "schoolCategory": 0,
+   "schoolName": "北京市门头沟区东辛房小学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25197087,
+   "schoolCategory": 0,
+   "schoolName": "北京市丰台区景风小学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25169186,
+   "schoolCategory": 0,
+   "schoolName": "北京市通州区运河中学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25185058,
+   "schoolCategory": 0,
+   "schoolName": "北京市高井中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185059,
+   "schoolCategory": 0,
+   "schoolName": "北京市第八中学京西附属小学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25196067,
+   "schoolCategory": 0,
+   "schoolName": "北京市星河实验学校国美分校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25200164,
+   "schoolCategory": 0,
+   "schoolName": "北京建筑大学附属实验中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200165,
+   "schoolCategory": 0,
+   "schoolName": "北京市昌平区第二中学（南校区）"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25190438,
+   "schoolCategory": 0,
+   "schoolName": "怡海教育集团"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200166,
+   "schoolCategory": 0,
+   "schoolName": "北京市昌平区第二中学（北校区）"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25169192,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二十七中学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25195560,
+   "schoolCategory": 0,
+   "schoolName": "北京市朝阳外国语学校（初中部）"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25169193,
+   "schoolCategory": 0,
+   "schoolName": "北京市第六十五中学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25195561,
+   "schoolCategory": 0,
+   "schoolName": "来广营初中部"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25169196,
+   "schoolCategory": 0,
+   "schoolName": "北京市第五十中学分校"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25188653,
+   "schoolCategory": 0,
+   "schoolName": "北京教育科学研究院附属石景山实验学校"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 1582,
+   "schoolCategory": 0,
+   "schoolName": "北京师范大学朝阳附属中学"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25185582,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区永华实验学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25168175,
+   "schoolCategory": 0,
+   "schoolName": "首都师范大学第二附属中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "schoolID": 25170737,
+   "schoolCategory": 0,
+   "schoolName": "海淀外国语教育集团"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25183025,
+   "schoolCategory": 0,
+   "schoolName": "北京市通州区潞河中学于家务校区"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25196337,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一七一中学石景山分校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25168946,
+   "schoolCategory": 0,
+   "schoolName": "北京市东直门中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25184818,
+   "schoolCategory": 0,
+   "schoolName": "清华附中大兴学校"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25195826,
+   "schoolCategory": 0,
+   "schoolName": "北苑初中部"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200178,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一六一中学回龙观学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25169203,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一六五中学"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25179956,
+   "schoolCategory": 0,
+   "schoolName": "国家教育行政学院附属实验学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200180,
+   "schoolCategory": 0,
+   "schoolName": "中央民族大学附属中学昌平学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200181,
+   "schoolCategory": 0,
+   "schoolName": "北京师范大学第二附属中学未来科学城学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25184054,
+   "schoolCategory": 0,
+   "schoolName": "史家胡同小学"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25184822,
+   "schoolCategory": 0,
+   "schoolName": "北京市海淀区人北实验学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200182,
+   "schoolCategory": 0,
+   "schoolName": "北京市昌平区第一中学（奥森校区）"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25167927,
+   "schoolCategory": 0,
+   "schoolName": "首都师范大学大兴附属中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25184823,
+   "schoolCategory": 0,
+   "schoolName": "广渠门中学附属花市小学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25190457,
+   "schoolCategory": 0,
+   "schoolName": "北京市朝阳师范学校附属小学黄胄艺术分校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1339,
+   "schoolCategory": 0,
+   "schoolName": "东北师范大学附属中学朝阳学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185342,
+   "schoolCategory": 0,
+   "schoolName": "北京市海淀区育鹰小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1343,
+   "schoolCategory": 0,
+   "schoolName": "清华大学附属中学朝阳学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 1344,
+   "schoolCategory": 0,
+   "schoolName": "北京市第十三中学（高中部）"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25196096,
+   "schoolCategory": 0,
+   "schoolName": "北京市朝阳区白家庄小学东辰分校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25180226,
+   "schoolCategory": 0,
+   "schoolName": "北京市第八十中学牌坊分校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 3139,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区第二中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25169731,
+   "schoolCategory": 0,
+   "schoolName": "方家胡同小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25179719,
+   "schoolCategory": 0,
+   "schoolName": "北京市丰台区怡海中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 3148,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区兴华中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200209,
+   "schoolCategory": 0,
+   "schoolName": "北京市昌平区前锋学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25168466,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区旧宫中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1366,
+   "schoolCategory": 0,
+   "schoolName": "宣武外国语实验学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25190486,
+   "schoolCategory": 0,
+   "schoolName": "北京市门头沟区王平村中心小学"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25190742,
+   "schoolCategory": 0,
+   "schoolName": "北京市昌平区桃洼学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185367,
+   "schoolCategory": 0,
+   "schoolName": "北京市东城区体育馆路小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 3163,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区第一中学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25169499,
+   "schoolCategory": 0,
+   "schoolName": "北京市第八中学石景山实验学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25169246,
+   "schoolCategory": 0,
+   "schoolName": "北京市通州区永乐店中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25187166,
+   "schoolCategory": 0,
+   "schoolName": "北京市朝阳区花家地实验小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25170271,
+   "schoolCategory": 0,
+   "schoolName": "北京市广渠门中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25199456,
+   "schoolCategory": 0,
+   "schoolName": "北京市东城区史家实验学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25169252,
+   "schoolCategory": 0,
+   "schoolName": "北京市第五中学通州校区"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "schoolID": 7269,
+   "schoolCategory": 0,
+   "schoolName": "zf回归测试"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25169256,
+   "schoolCategory": 0,
+   "schoolName": "清华大学附属中学(将台路校区)"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25189737,
+   "schoolCategory": 0,
+   "schoolName": "北京市东城区金台书院小学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 1387,
+   "schoolCategory": 0,
+   "schoolName": "北京市第十四中学（高中部）"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25167723,
+   "schoolCategory": 0,
+   "schoolName": "北京市第五中学分校"
+  },
+  {
+   "educationStages": [
+    1,
+    3
+   ],
+   "schoolID": 25189740,
+   "schoolCategory": 1,
+   "schoolName": "lyy多校区同步"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25195628,
+   "schoolCategory": 0,
+   "schoolName": "北京市通州区运河中学附属学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25169261,
+   "schoolCategory": 0,
+   "schoolName": "北京汇文实验中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25177198,
+   "schoolCategory": 0,
+   "schoolName": "北京爱迪学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200239,
+   "schoolCategory": 0,
+   "schoolName": "北京师范大学昌平附属学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200240,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一〇一中学未来科学城学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25183602,
+   "schoolCategory": 0,
+   "schoolName": "首师师范大学朝阳金盏学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185394,
+   "schoolCategory": 0,
+   "schoolName": "北京市海淀区双榆树中心小学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25195635,
+   "schoolCategory": 0,
+   "schoolName": "北京市海淀区教师进修学校附属实验学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1396,
+   "schoolCategory": 0,
+   "schoolName": "北京市三里屯一中"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25184886,
+   "schoolCategory": 0,
+   "schoolName": "潞河中学三河校区"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1655,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二十一中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25166969,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二中学朝阳学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185658,
+   "schoolCategory": 0,
+   "schoolName": "北京市东城区灯市口小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25190523,
+   "schoolCategory": 0,
+   "schoolName": "首师大附属回龙观育新教育集团沙河校区"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25196157,
+   "schoolCategory": 0,
+   "schoolName": "北京市海淀区翠微小学大兴分校"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25187967,
+   "schoolCategory": 0,
+   "schoolName": "石景山京源学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 3200,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二十四中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1153,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一六六中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25184897,
+   "schoolCategory": 0,
+   "schoolName": "定安里小学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25187206,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一六一中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25177482,
+   "schoolCategory": 1,
+   "schoolName": "lt测试"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1165,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25200269,
+   "schoolCategory": 1,
+   "schoolName": "北京市测试学校（售后实施练习）"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25183886,
+   "schoolCategory": 0,
+   "schoolName": "北京景山学校大兴实验学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25182351,
+   "schoolCategory": 0,
+   "schoolName": "南窖中心小学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25183887,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区第三小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 1168,
+   "schoolCategory": 0,
+   "schoolName": "北京市首都师范大学附属丽泽中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25195408,
+   "schoolCategory": 0,
+   "schoolName": "北京市东城区东交民巷小学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25200272,
+   "schoolCategory": 0,
+   "schoolName": "首都师范大学附属中学昌平学校"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25199763,
+   "schoolCategory": 0,
+   "schoolName": "北京十一学校丰台中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1428,
+   "schoolCategory": 0,
+   "schoolName": "北京市第十五中学南口学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 3476,
+   "schoolCategory": 0,
+   "schoolName": "北京市第五十中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25167509,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二十五中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25182357,
+   "schoolCategory": 0,
+   "schoolName": "清华大学附属中学昌平学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1431,
+   "schoolCategory": 0,
+   "schoolName": "北京汇文中学朝阳垂杨柳分校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25174167,
+   "schoolCategory": 0,
+   "schoolName": "北京市昌平区第一中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25174168,
+   "schoolCategory": 0,
+   "schoolName": "首都师范大学附属回龙观育新学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25184922,
+   "schoolCategory": 0,
+   "schoolName": "北京市东城区培新小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25199008,
+   "schoolCategory": 1,
+   "schoolName": "同步测试数据"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 3236,
+   "schoolCategory": 0,
+   "schoolName": "北京建筑大学附属中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1192,
+   "schoolCategory": 0,
+   "schoolName": "北京市赵登禹学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185965,
+   "schoolCategory": 0,
+   "schoolName": "北京市朝阳区实验小学左家庄分校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25195951,
+   "schoolCategory": 0,
+   "schoolName": "北京市第三十一中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25182900,
+   "schoolCategory": 0,
+   "schoolName": "北京市顺义区第一中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 3253,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一零九中学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25184699,
+   "schoolCategory": 0,
+   "schoolName": "北京市文汇中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25186235,
+   "schoolCategory": 0,
+   "schoolName": "中国人民大学附属小学京西分校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25195196,
+   "schoolCategory": 0,
+   "schoolName": "北京市朝阳区芳草地国际学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 3261,
+   "schoolCategory": 0,
+   "schoolName": "北京市第十一中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25190336,
+   "schoolCategory": 0,
+   "schoolName": "北京市房山区房山中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25185990,
+   "schoolCategory": 0,
+   "schoolName": "北京景山学校通州分校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25188296,
+   "schoolCategory": 0,
+   "schoolName": "北京市朝阳区呼家楼中心小学青青分校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25199307,
+   "schoolCategory": 0,
+   "schoolName": "北京市昌平区实验学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 3279,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区第三中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185490,
+   "schoolCategory": 0,
+   "schoolName": "北京市丰台区阳春小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 1748,
+   "schoolCategory": 0,
+   "schoolName": "BJHZZX"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 1239,
+   "schoolCategory": 0,
+   "schoolName": "北京市第十三中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25183703,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区第八小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25174232,
+   "schoolCategory": 0,
+   "schoolName": "北京中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25183704,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区兴海学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25200088,
+   "schoolCategory": 0,
+   "schoolName": "北京市东直门中学（育群校区）"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25174233,
+   "schoolCategory": 0,
+   "schoolName": "北京启明未来学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25183705,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区滨河小学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 1498,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二中学分校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25179099,
+   "schoolCategory": 0,
+   "schoolName": "北京一零一中大兴分校"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 25182686,
+   "schoolCategory": 0,
+   "schoolName": "北京市正泽学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25185508,
+   "schoolCategory": 0,
+   "schoolName": "作文内部杨壮测试学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25184997,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一七一中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25184487,
+   "schoolCategory": 0,
+   "schoolName": "北京市丰台区太平桥学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25170154,
+   "schoolCategory": 0,
+   "schoolName": "北京市第五十四中学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25195754,
+   "schoolCategory": 0,
+   "schoolName": "CWLGYCZ"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25192686,
+   "schoolCategory": 0,
+   "schoolName": "北京市石景山区向阳小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25166578,
+   "schoolCategory": 0,
+   "schoolName": "中央工艺美术学院附属中学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 1266,
+   "schoolCategory": 0,
+   "schoolName": "中国教育科学研究院丰台实验学校（高中部）"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25190131,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区第一小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25192691,
+   "schoolCategory": 0,
+   "schoolName": "清华附中房山学校"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25169396,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25190132,
+   "schoolCategory": 0,
+   "schoolName": "北京教育科学研究院大兴实验小学"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25190133,
+   "schoolCategory": 0,
+   "schoolName": "首都师范大学附属中学大兴南校区"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 25190134,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区德茂学校"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25196279,
+   "schoolCategory": 0,
+   "schoolName": "北京市第五十五中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25169403,
+   "schoolCategory": 0,
+   "schoolName": "北京市第九十六中学"
+  },
+  {
+   "educationStages": [
+    1,
+    2,
+    3
+   ],
+   "schoolID": 25169659,
+   "schoolCategory": 0,
+   "schoolName": "北京市第二中学经开区学校"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25183740,
+   "schoolCategory": 0,
+   "schoolName": "北京市大兴区黄村镇第一中心小学"
+  },
+  {
+   "educationStages": [
+    1,
+    2
+   ],
+   "schoolID": 25169405,
+   "schoolCategory": 0,
+   "schoolName": "北京市第一五六中学"
+  },
+  {
+   "educationStages": [
+    3
+   ],
+   "schoolID": 25183741,
+   "schoolCategory": 0,
+   "schoolName": "北京市朝阳区兴隆小学"
+  },
+  {
+   "educationStages": [
+    1
+   ],
+   "schoolID": 25170942,
+   "schoolCategory": 0,
+   "schoolName": "中国科学院附属实验学校"
+  },
+  {
+   "educationStages": [
+    2
+   ],
+   "schoolID": 1279,
+   "schoolCategory": 0,
+   "schoolName": "北京市顺义区第三中学"
+  },
+  {
+   "educationStages": [
+    2,
+    3
+   ],
+   "schoolID": 1837,
+   "schoolCategory": 0,
+   "schoolName": "北师大三帆朝阳学校（选修课）"
+  }
+ ],
+ "status": "success"
+}

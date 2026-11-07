@@ -1,0 +1,6950 @@
+[
+ {
+  "teacherName": "好专业",
+  "accountName": "13466349479",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 9269018,
+    "stage": 2,
+    "courseId": 15
+   },
+   {
+    "courseName": "语文",
+    "teacherId": 9269018,
+    "stage": 2,
+    "courseId": 12
+   },
+   {
+    "courseName": "英语",
+    "teacherId": 9269018,
+    "stage": 2,
+    "courseId": 14
+   },
+   {
+    "courseName": "道德与法治",
+    "teacherId": 9269018,
+    "stage": 2,
+    "courseId": 18
+   },
+   {
+    "courseName": "数学",
+    "teacherId": 9269018,
+    "stage": 2,
+    "courseId": 13
+   },
+   {
+    "courseName": "体育",
+    "teacherId": 9269018,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 330477577178,
+  "teacherPhoneAes": "Xu/XldvZZttNmPfR113FRw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 3243816,
+    "teacherId": 9269018
+   },
+   {
+    "gradeName": "初三",
+    "gradeId": 2673907,
+    "teacherId": 9269018
+   }
+  ],
+  "teacherId": 9269018,
+  "schoolId": 5261712,
+  "teacherPhone": "13466349479",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Xu/XldvZZttNmPfR113FRw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杨晨",
+  "accountName": "15101077662",
+  "teacherCourse": null,
+  "userId": 330543037269,
+  "teacherPhoneAes": "2KG3Jp/WjhhMxzYUY7Z05Q==",
+  "teacherGrade": null,
+  "teacherId": 10288763,
+  "schoolId": 5261712,
+  "teacherPhone": "15101077662",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "2KG3Jp/WjhhMxzYUY7Z05Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "图玛日斯·吐尔洪",
+  "accountName": "18609906523",
+  "teacherCourse": null,
+  "userId": 330539227397,
+  "teacherPhoneAes": "jj1/uzk6tOL3jbSeAqh7WQ==",
+  "teacherGrade": null,
+  "teacherId": 10199864,
+  "schoolId": 5261712,
+  "teacherPhone": "18609906523",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "jj1/uzk6tOL3jbSeAqh7WQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "努尔比耶·伊斯马伊力",
+  "accountName": "18099280402",
+  "teacherCourse": null,
+  "userId": 330539227394,
+  "teacherPhoneAes": "C421BfFZDWVZU09JYspLig==",
+  "teacherGrade": null,
+  "teacherId": 10199863,
+  "schoolId": 5261712,
+  "teacherPhone": "18099280402",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "C421BfFZDWVZU09JYspLig==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "车欣颖",
+  "accountName": "19558777146",
+  "teacherCourse": null,
+  "userId": 330539227393,
+  "teacherPhoneAes": "9cXhBjc1Uet/LbZTjZXtDg==",
+  "teacherGrade": null,
+  "teacherId": 10199862,
+  "schoolId": 5261712,
+  "teacherPhone": "19558777146",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "9cXhBjc1Uet/LbZTjZXtDg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "薛紫誉",
+  "accountName": "13166720693",
+  "teacherCourse": null,
+  "userId": 330539227398,
+  "teacherPhoneAes": "ETDWa0o/IomqkYMOI4psqA==",
+  "teacherGrade": null,
+  "teacherId": 10199861,
+  "schoolId": 5261712,
+  "teacherPhone": "13166720693",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "ETDWa0o/IomqkYMOI4psqA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "聂筱菲",
+  "accountName": "13520251161",
+  "teacherCourse": null,
+  "userId": 330539227395,
+  "teacherPhoneAes": "sJ6Vg/v2bRvG+y92BY0mkg==",
+  "teacherGrade": null,
+  "teacherId": 10199860,
+  "schoolId": 5261712,
+  "teacherPhone": "13520251161",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "sJ6Vg/v2bRvG+y92BY0mkg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王昕怡",
+  "accountName": "18801065838",
+  "teacherCourse": null,
+  "userId": 330539227396,
+  "teacherPhoneAes": "32K+s9exbuQ8XaDrxUhrFg==",
+  "teacherGrade": null,
+  "teacherId": 10199859,
+  "schoolId": 5261712,
+  "teacherPhone": "18801065838",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "32K+s9exbuQ8XaDrxUhrFg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "柳婧",
+  "accountName": "18290294003",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 10169211,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 330534577285,
+  "teacherPhoneAes": "sf7S2e/juQj4TVCDpXCQmw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 10169211
+   }
+  ],
+  "teacherId": 10169211,
+  "schoolId": 5261712,
+  "teacherPhone": "18290294003",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "sf7S2e/juQj4TVCDpXCQmw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "金稳权",
+  "accountName": "13683289205",
+  "teacherCourse": null,
+  "userId": 330532897552,
+  "teacherPhoneAes": "7lpvJtsPu7Qe/d8rKtfWFQ==",
+  "teacherGrade": null,
+  "teacherId": 10168898,
+  "schoolId": 5261712,
+  "teacherPhone": "13683289205",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "7lpvJtsPu7Qe/d8rKtfWFQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "赵鹏程",
+  "accountName": "18811029577",
+  "teacherCourse": null,
+  "userId": 330532897553,
+  "teacherPhoneAes": "YCcBQIvE3ubm7M1UsaFAuw==",
+  "teacherGrade": null,
+  "teacherId": 10168897,
+  "schoolId": 5261712,
+  "teacherPhone": "18811029577",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "YCcBQIvE3ubm7M1UsaFAuw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张佳悦",
+  "accountName": "19260246856",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 9958628,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 330524648576,
+  "teacherPhoneAes": "5/jRGFeiK0aEggi+YQlyhQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 9958628
+   }
+  ],
+  "teacherId": 9958628,
+  "schoolId": 5261712,
+  "teacherPhone": "19260246856",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "5/jRGFeiK0aEggi+YQlyhQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张露文",
+  "accountName": "18227578519",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 9958627,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 330524648571,
+  "teacherPhoneAes": "OFT+DEPc876GQ4lEwKXqoA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 9958627
+   }
+  ],
+  "teacherId": 9958627,
+  "schoolId": 5261712,
+  "teacherPhone": "18227578519",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "OFT+DEPc876GQ4lEwKXqoA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "丁俊怡",
+  "accountName": "15810660523",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 9958626,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 330524648569,
+  "teacherPhoneAes": "Eo1UCT62snOD6bDMGapyVg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 9958626
+   }
+  ],
+  "teacherId": 9958626,
+  "schoolId": 5261712,
+  "teacherPhone": "15810660523",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Eo1UCT62snOD6bDMGapyVg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "姚旺",
+  "accountName": "15201131157",
+  "teacherCourse": [
+   {
+    "courseName": "美术 劳技",
+    "teacherId": 9958625,
+    "stage": 2,
+    "courseId": 2179177
+   },
+   {
+    "courseName": "化学",
+    "teacherId": 9958625,
+    "stage": 2,
+    "courseId": 16
+   }
+  ],
+  "userId": 330524648568,
+  "teacherPhoneAes": "lT8P2XFWqMLSovFuIRGetw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 9958625
+   }
+  ],
+  "teacherId": 9958625,
+  "schoolId": 5261712,
+  "teacherPhone": "15201131157",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "lT8P2XFWqMLSovFuIRGetw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "吴伊然",
+  "accountName": "18733776325",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 9958624,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 330524648570,
+  "teacherPhoneAes": "68f1Jxpw0ZZXdhdHspbuHA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 9958624
+   }
+  ],
+  "teacherId": 9958624,
+  "schoolId": 5261712,
+  "teacherPhone": "18733776325",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "68f1Jxpw0ZZXdhdHspbuHA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孟叙彤",
+  "accountName": "13011261400",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 9958623,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 330524648574,
+  "teacherPhoneAes": "38kfG/ik0wBlThSY5WsLhA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 9958623
+   }
+  ],
+  "teacherId": 9958623,
+  "schoolId": 5261712,
+  "teacherPhone": "13011261400",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "38kfG/ik0wBlThSY5WsLhA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王野",
+  "accountName": "18434573154",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 9958622,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 330524648575,
+  "teacherPhoneAes": "akp0v2IF0gDZUMLw/Dm+vQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 9958622
+   }
+  ],
+  "teacherId": 9958622,
+  "schoolId": 5261712,
+  "teacherPhone": "18434573154",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "akp0v2IF0gDZUMLw/Dm+vQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "顾雨欣",
+  "accountName": "19856051683",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 9958621,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 330524648572,
+  "teacherPhoneAes": "KzTnke6+LAmAocHAQpijqQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 9958621
+   }
+  ],
+  "teacherId": 9958621,
+  "schoolId": 5261712,
+  "teacherPhone": "19856051683",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "KzTnke6+LAmAocHAQpijqQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王钰蛟",
+  "accountName": "17812159305",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 9958620,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 330524648573,
+  "teacherPhoneAes": "1KZGmY1RCXCwL4eVukAL7Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 9958620
+   }
+  ],
+  "teacherId": 9958620,
+  "schoolId": 5261712,
+  "teacherPhone": "17812159305",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "1KZGmY1RCXCwL4eVukAL7Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张玉春",
+  "accountName": "13716282089",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 9929331,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 330523957257,
+  "teacherPhoneAes": "MQyOFr2qyxnp0MsdStpiWw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 9929331
+   }
+  ],
+  "teacherId": 9929331,
+  "schoolId": 5261712,
+  "teacherPhone": "13716282089",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "MQyOFr2qyxnp0MsdStpiWw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "崔艺",
+  "accountName": "18001132980",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 9929330,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 330523957255,
+  "teacherPhoneAes": "S7Fqv4dbP7OZSizDsUi8YQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 9929330
+   }
+  ],
+  "teacherId": 9929330,
+  "schoolId": 5261712,
+  "teacherPhone": "18001132980",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "S7Fqv4dbP7OZSizDsUi8YQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孙鸿斌",
+  "accountName": "13241998619",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 9929329,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 330523957256,
+  "teacherPhoneAes": "jkC1nokgX6qaLiqNyn6cig==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 9929329
+   }
+  ],
+  "teacherId": 9929329,
+  "schoolId": 5261712,
+  "teacherPhone": "13241998619",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "jkC1nokgX6qaLiqNyn6cig==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李则慧",
+  "accountName": "18337478806",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 9929328,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 330523957254,
+  "teacherPhoneAes": "lSMKo0Lj8bXZiqDchGigxg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 9929328
+   }
+  ],
+  "teacherId": 9929328,
+  "schoolId": 5261712,
+  "teacherPhone": "18337478806",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "lSMKo0Lj8bXZiqDchGigxg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "胡睿颖",
+  "accountName": "13651179853",
+  "teacherCourse": null,
+  "userId": 1052498067,
+  "teacherPhoneAes": "4JCLsoydPKsUn+Gzy0waDg==",
+  "teacherGrade": null,
+  "teacherId": 8791939,
+  "schoolId": 5261712,
+  "teacherPhone": "13651179853",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "4JCLsoydPKsUn+Gzy0waDg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王艾哲",
+  "accountName": "19803100718",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 8819402,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 1051868029,
+  "teacherPhoneAes": "/dwGRSW5xBoHJQDBRwRgEA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 8819402
+   }
+  ],
+  "teacherId": 8819402,
+  "schoolId": 5261712,
+  "teacherPhone": "19803100718",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "/dwGRSW5xBoHJQDBRwRgEA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "付冲",
+  "accountName": "13691023134",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 8819401,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 1051868026,
+  "teacherPhoneAes": "bGgc+rBSdqLC77WMK5fFww==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 8819401
+   }
+  ],
+  "teacherId": 8819401,
+  "schoolId": 5261712,
+  "teacherPhone": "13691023134",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "bGgc+rBSdqLC77WMK5fFww==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "高尚",
+  "accountName": "17800230925",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 8819400,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 1051868025,
+  "teacherPhoneAes": "KqV3bHM9V7806D35S7KSiA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 8819400
+   }
+  ],
+  "teacherId": 8819400,
+  "schoolId": 5261712,
+  "teacherPhone": "17800230925",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "KqV3bHM9V7806D35S7KSiA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "魏文杰",
+  "accountName": "18301600290",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 8789866,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 1050098946,
+  "teacherPhoneAes": "7xSK4t94CTdGhLrb0/wQNg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 8789866
+   }
+  ],
+  "teacherId": 8789866,
+  "schoolId": 5261712,
+  "teacherPhone": "18301600290",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "7xSK4t94CTdGhLrb0/wQNg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张励勤",
+  "accountName": "18335356502",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 8640751,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 1045207982,
+  "teacherPhoneAes": "8VNuh0OyNH9PxGAH7z6DtA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 8640751
+   }
+  ],
+  "teacherId": 8640751,
+  "schoolId": 5261712,
+  "teacherPhone": "18335356502",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "8VNuh0OyNH9PxGAH7z6DtA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杨梦圆",
+  "accountName": "18336311594",
+  "teacherCourse": null,
+  "userId": 1045178609,
+  "teacherPhoneAes": "MlzltJnyhufzdiRQgJOD2w==",
+  "teacherGrade": null,
+  "teacherId": 8670646,
+  "schoolId": 5261712,
+  "teacherPhone": "18336311594",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "MlzltJnyhufzdiRQgJOD2w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "赵萱",
+  "accountName": "13911112983",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 8640750,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 1045207973,
+  "teacherPhoneAes": "ylk3RlrCToT8SX4DKe4HQA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 8640750
+   }
+  ],
+  "teacherId": 8640750,
+  "schoolId": 5261712,
+  "teacherPhone": "13911112983",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "ylk3RlrCToT8SX4DKe4HQA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "马文轩",
+  "accountName": "18513275565",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 8640749,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 1045207974,
+  "teacherPhoneAes": "8XZZtwzNYb86vd10xj4V7Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 8640749
+   }
+  ],
+  "teacherId": 8640749,
+  "schoolId": 5261712,
+  "teacherPhone": "18513275565",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "8XZZtwzNYb86vd10xj4V7Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李雪彤",
+  "accountName": "13520137171",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 8640748,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 1045207961,
+  "teacherPhoneAes": "gC6JVOhHzKqeT1fAwpa0ZA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 8640748
+   },
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 8640748
+   }
+  ],
+  "teacherId": 8640748,
+  "schoolId": 5261712,
+  "teacherPhone": "13520137171",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "gC6JVOhHzKqeT1fAwpa0ZA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "蒋若涵",
+  "accountName": "18610932723",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 8640747,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 1045207960,
+  "teacherPhoneAes": "famRtZbkxBWzzQIqn4jULg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 8640747
+   }
+  ],
+  "teacherId": 8640747,
+  "schoolId": 5261712,
+  "teacherPhone": "18610932723",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "famRtZbkxBWzzQIqn4jULg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王京京",
+  "accountName": "13801207622",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 8670645,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 1045178586,
+  "teacherPhoneAes": "PhKq07hpGFIA6h/thjjipA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 8670645
+   }
+  ],
+  "teacherId": 8670645,
+  "schoolId": 5261712,
+  "teacherPhone": "13801207622",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "PhKq07hpGFIA6h/thjjipA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "黄曾暄",
+  "accountName": "13520470253",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 8670644,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 1045178588,
+  "teacherPhoneAes": "a91PbX6SO9mjJFaRI7V85g==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 8670644
+   }
+  ],
+  "teacherId": 8670644,
+  "schoolId": 5261712,
+  "teacherPhone": "13520470253",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "a91PbX6SO9mjJFaRI7V85g==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "牛思棋",
+  "accountName": "13552244659",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 8670643,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 1045178587,
+  "teacherPhoneAes": "oWJawpPReDyuTNf7+JBOZg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 8670643
+   }
+  ],
+  "teacherId": 8670643,
+  "schoolId": 5261712,
+  "teacherPhone": "13552244659",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "oWJawpPReDyuTNf7+JBOZg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定3",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk03",
+  "teacherCourse": null,
+  "userId": 1011428076,
+  "teacherPhoneAes": "FSeBPEkimIsX7/kAzdyrFA==",
+  "teacherGrade": null,
+  "teacherId": 8399100,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk03",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1zeaWQOF/HjYfK/ISszfjZs=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定7",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk07",
+  "teacherCourse": null,
+  "userId": 1011428082,
+  "teacherPhoneAes": "LYrHbRdNxH/aRcxAL9m/eQ==",
+  "teacherGrade": null,
+  "teacherId": 8399099,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk07",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU11TGH2Dsn+x8W2eZkhvOHLg=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定17",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk17",
+  "teacherCourse": null,
+  "userId": 1011428093,
+  "teacherPhoneAes": "RxDV3svUqLneuJbKbBe0/Q==",
+  "teacherGrade": null,
+  "teacherId": 8399098,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk17",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1w4emLdXwaQGDhjRL4n7J+8=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定13",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk13",
+  "teacherCourse": null,
+  "userId": 1011428100,
+  "teacherPhoneAes": "c2t23J38u0v3eqGpIIx2FQ==",
+  "teacherGrade": null,
+  "teacherId": 8399097,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk13",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1wiLP7tFVJ6RfJzbs6koD88=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定24",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk24",
+  "teacherCourse": null,
+  "userId": 1011428077,
+  "teacherPhoneAes": "phxaD7hWSOtBDpI98iz2LQ==",
+  "teacherGrade": null,
+  "teacherId": 8399096,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk24",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1wuvIG9MNvH499te7wK/+Y8=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定14",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk14",
+  "teacherCourse": null,
+  "userId": 1011428091,
+  "teacherPhoneAes": "MrkNS0ZgEDWrTUy3OG1Y7w==",
+  "teacherGrade": null,
+  "teacherId": 8399095,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk14",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1w0ZBC/tGo4j2V/1wgOFBSY=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定23",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk23",
+  "teacherCourse": null,
+  "userId": 1011428087,
+  "teacherPhoneAes": "Tp9hPfLmDTOPUDYyQ8MKzw==",
+  "teacherGrade": null,
+  "teacherId": 8399094,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk23",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU14vkaD3ZH0FzS5HCAVASxaQ=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定8",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk08",
+  "teacherCourse": null,
+  "userId": 1011428083,
+  "teacherPhoneAes": "TRfi0PxE6e20lUo2ZH0puA==",
+  "teacherGrade": null,
+  "teacherId": 8399093,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk08",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU17CHs52mvdwbOq8w+xIuYEk=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定1",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk01",
+  "teacherCourse": null,
+  "userId": 1011428080,
+  "teacherPhoneAes": "wuzMSpmm3T589DylzA0hWA==",
+  "teacherGrade": null,
+  "teacherId": 8399092,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk01",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU16VaUg0HHHLTDcEDJ1Ci82k=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定9",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk09",
+  "teacherCourse": null,
+  "userId": 1011428099,
+  "teacherPhoneAes": "FaO51jy4xT8evjU8JOCgSA==",
+  "teacherGrade": null,
+  "teacherId": 8399091,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk09",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1zs2yaRN1LZ7ZIjtfM1RT7A=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定28",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk28",
+  "teacherCourse": null,
+  "userId": 1011428085,
+  "teacherPhoneAes": "i2VPqOphiGzBKLcCUolLbw==",
+  "teacherGrade": null,
+  "teacherId": 8399090,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk28",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU16+SHTWFWonVPBL7bueO7PI=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定18",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk18",
+  "teacherCourse": null,
+  "userId": 1011428103,
+  "teacherPhoneAes": "BsvV8y4uEzZfSetvAclc8w==",
+  "teacherGrade": null,
+  "teacherId": 8399089,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk18",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU15ZAQ1f8YYiutSmPTXDcp+o=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定16",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk16",
+  "teacherCourse": null,
+  "userId": 1011428084,
+  "teacherPhoneAes": "yMYZma1kZxYI8LbGP8LW4Q==",
+  "teacherGrade": null,
+  "teacherId": 8399088,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk16",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1xewn6gnIZw2tvh2awP0qD8=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定11",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk11",
+  "teacherCourse": null,
+  "userId": 1011428090,
+  "teacherPhoneAes": "vtVIYV0715vyQnm1ATRl1Q==",
+  "teacherGrade": null,
+  "teacherId": 8399087,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk11",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU12CQOSdxkD1OClALxzj6PzY=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定19",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk19",
+  "teacherCourse": null,
+  "userId": 1011428101,
+  "teacherPhoneAes": "26am9X/W2pLa1IWzEO9uhA==",
+  "teacherGrade": null,
+  "teacherId": 8399086,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk19",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU17q9yytMLV9ijcCHsitx9EE=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定27",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk27",
+  "teacherCourse": null,
+  "userId": 1011428079,
+  "teacherPhoneAes": "vRu3bKvIOgfcesLrGOdECA==",
+  "teacherGrade": null,
+  "teacherId": 8399085,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk27",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU17RvEdi9LRZq1TUlSjmhCFI=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定15",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk15",
+  "teacherCourse": null,
+  "userId": 1011428094,
+  "teacherPhoneAes": "VLedVVZ1o29AMjkGi8BdHw==",
+  "teacherGrade": null,
+  "teacherId": 8399084,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk15",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU14/jxMufYENuTEjZCnh1rDo=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定2",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk02",
+  "teacherCourse": null,
+  "userId": 1011428096,
+  "teacherPhoneAes": "VyOOjxiy647CoE/IUzlWhQ==",
+  "teacherGrade": null,
+  "teacherId": 8399083,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk02",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU13h7a+V8ntMpTuDeV+t/tE8=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定21",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk21",
+  "teacherCourse": null,
+  "userId": 1011428086,
+  "teacherPhoneAes": "7B0HEEt4VDwGxDuS7jt5DA==",
+  "teacherGrade": null,
+  "teacherId": 8399082,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk21",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU12xm0aFTQlxRxTVfBBwiz/I=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定12",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk12",
+  "teacherCourse": null,
+  "userId": 1011428097,
+  "teacherPhoneAes": "oov9k4A4gnI62Auq8F3h+w==",
+  "teacherGrade": null,
+  "teacherId": 8399081,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk12",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU15GsWY3cpbeH9pKE8Ar1Kcc=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定20",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk20",
+  "teacherCourse": null,
+  "userId": 1011428098,
+  "teacherPhoneAes": "jMTK32v0rxDtclsG8zWm0w==",
+  "teacherGrade": null,
+  "teacherId": 8399080,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk20",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1wAt2tXnhnm05IChKgBN1p4=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定6",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk06",
+  "teacherCourse": null,
+  "userId": 1011428081,
+  "teacherPhoneAes": "8mNkGhhIZCbbEzNzECAmbg==",
+  "teacherGrade": null,
+  "teacherId": 8399079,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk06",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU15xR+PGJHrhtPKph3c4FAKM=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定4",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk04",
+  "teacherCourse": null,
+  "userId": 1011428095,
+  "teacherPhoneAes": "03q3OVseePkLANIhhQ0NZQ==",
+  "teacherGrade": null,
+  "teacherId": 8399078,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk04",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1w9SW0qgZQmfmShReaZAQIw=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定5",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk05",
+  "teacherCourse": null,
+  "userId": 1011428089,
+  "teacherPhoneAes": "NPhqZZdT9K3KKOTJ4MUn1g==",
+  "teacherGrade": null,
+  "teacherId": 8399077,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk05",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU17t4rL0OzOXbftg5xFUbUgk=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定10",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk10",
+  "teacherCourse": null,
+  "userId": 1011428092,
+  "teacherPhoneAes": "zq5SaGrosgqF8qOMZZGMaw==",
+  "teacherGrade": null,
+  "teacherId": 8399076,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk10",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU1/TViiFR6nt1y0E9p7d8PAQ=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定22",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk22",
+  "teacherCourse": null,
+  "userId": 1011428102,
+  "teacherPhoneAes": "ZxVgPr1gV8Xx9d8bLYWBtQ==",
+  "teacherGrade": null,
+  "teacherId": 8399075,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk22",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU12LyrLgwKOA6Xau6COFGzk4=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定25",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk25",
+  "teacherCourse": null,
+  "userId": 1011428078,
+  "teacherPhoneAes": "NTTLxwBpZDXfngTfJGhjow==",
+  "teacherGrade": null,
+  "teacherId": 8399074,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk25",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU16S2RmHZ9Zcs4qhjne2tNR0=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "未定26",
+  "accountName": "pWBu9f0MF+LB8y/EE+XlkA==-xxk26",
+  "teacherCourse": null,
+  "userId": 1011428088,
+  "teacherPhoneAes": "p4Gn9ewtjT7dZwSrlJzbOQ==",
+  "teacherGrade": null,
+  "teacherId": 8399073,
+  "schoolId": 5261712,
+  "teacherPhone": "xxk26",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xKhyI4jYRt+F02YbldHU17cNk+nZTH3t2xOwUgagPo0=",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "赵晨",
+  "accountName": "15001183113",
+  "teacherCourse": null,
+  "userId": 971168553,
+  "teacherPhoneAes": "lK3/tiRnD1NYo4clzIWvUA==",
+  "teacherGrade": null,
+  "teacherId": 7563622,
+  "schoolId": 5261712,
+  "teacherPhone": "15001183113",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "lK3/tiRnD1NYo4clzIWvUA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张靖雯",
+  "accountName": "13611064139",
+  "teacherCourse": null,
+  "userId": 971168529,
+  "teacherPhoneAes": "DNFKWrWLHL8JXTE+7o/+6Q==",
+  "teacherGrade": null,
+  "teacherId": 7563619,
+  "schoolId": 5261712,
+  "teacherPhone": "13611064139",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "DNFKWrWLHL8JXTE+7o/+6Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "石红惠",
+  "accountName": "13699116997",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228870,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098375,
+  "teacherPhoneAes": "UWC1jmqmJ5irmZ13ZafTSQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228870
+   }
+  ],
+  "teacherId": 7228870,
+  "schoolId": 5261712,
+  "teacherPhone": "13699116997",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "UWC1jmqmJ5irmZ13ZafTSQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王屾",
+  "accountName": "13146459297",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7561678,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 965587976,
+  "teacherPhoneAes": "F63MWnyatOesPZgm/abryQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7561678
+   }
+  ],
+  "teacherId": 7561678,
+  "schoolId": 5261712,
+  "teacherPhone": "13146459297",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "F63MWnyatOesPZgm/abryQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王若晗",
+  "accountName": "13552629676",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7561677,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 965587977,
+  "teacherPhoneAes": "Voxi5tXMKkbysQs/nBQR9A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7561677
+   }
+  ],
+  "teacherId": 7561677,
+  "schoolId": 5261712,
+  "teacherPhone": "13552629676",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Voxi5tXMKkbysQs/nBQR9A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "贺彦杰",
+  "accountName": "13161191023",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7476699,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 941138134,
+  "teacherPhoneAes": "0m8B2kxTEIfyTWU1ENtkRA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7476699
+   }
+  ],
+  "teacherId": 7476699,
+  "schoolId": 5261712,
+  "teacherPhone": "13161191023",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "0m8B2kxTEIfyTWU1ENtkRA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "尹小楠",
+  "accountName": "15600817566",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228837,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098269,
+  "teacherPhoneAes": "/R74dosbnL7pef+jQ6kGJQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228837
+   }
+  ],
+  "teacherId": 7228837,
+  "schoolId": 5261712,
+  "teacherPhone": "15600817566",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "/R74dosbnL7pef+jQ6kGJQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王浩然",
+  "accountName": "19860918962",
+  "teacherCourse": null,
+  "userId": 924428171,
+  "teacherPhoneAes": "Ik/nzgvEFWbmil4wmDPQ+w==",
+  "teacherGrade": null,
+  "teacherId": 7288721,
+  "schoolId": 5261712,
+  "teacherPhone": "19860918962",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Ik/nzgvEFWbmil4wmDPQ+w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "英睿祺",
+  "accountName": "19527274601",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7288720,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924428168,
+  "teacherPhoneAes": "E0fLIpYU2oHi0YGxaPwb0Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7288720
+   }
+  ],
+  "teacherId": 7288720,
+  "schoolId": 5261712,
+  "teacherPhone": "19527274601",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "E0fLIpYU2oHi0YGxaPwb0Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张雯婷",
+  "accountName": "18837406272",
+  "teacherCourse": null,
+  "userId": 924428170,
+  "teacherPhoneAes": "PIpb4R2GcXDrKxB17C6d7g==",
+  "teacherGrade": null,
+  "teacherId": 7288719,
+  "schoolId": 5261712,
+  "teacherPhone": "18837406272",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "PIpb4R2GcXDrKxB17C6d7g==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杜祎佳",
+  "accountName": "18236934591",
+  "teacherCourse": null,
+  "userId": 924428169,
+  "teacherPhoneAes": "iaKLZLqWUfqdwx86uSYpjw==",
+  "teacherGrade": null,
+  "teacherId": 7288718,
+  "schoolId": 5261712,
+  "teacherPhone": "18236934591",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "iaKLZLqWUfqdwx86uSYpjw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "管恩杰",
+  "accountName": "13811782168",
+  "teacherCourse": [
+   {
+    "courseName": "美术 劳技",
+    "teacherId": 7228895,
+    "stage": 2,
+    "courseId": 2179177
+   }
+  ],
+  "userId": 924098290,
+  "teacherPhoneAes": "Kv/o8MJzRl0zhIBooyXBKg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228895
+   }
+  ],
+  "teacherId": 7228895,
+  "schoolId": 5261712,
+  "teacherPhone": "13811782168",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Kv/o8MJzRl0zhIBooyXBKg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "殷倩楠",
+  "accountName": "17888803851",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7229014,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098267,
+  "teacherPhoneAes": "HgIIii+jdz+tFe5/H58xQA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7229014
+   }
+  ],
+  "teacherId": 7229014,
+  "schoolId": 5261712,
+  "teacherPhone": "17888803851",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "HgIIii+jdz+tFe5/H58xQA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李俊杰",
+  "accountName": "18813131060",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 7229013,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 924098316,
+  "teacherPhoneAes": "0RERcXlNKrhcVc35cZ19Ng==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7229013
+   }
+  ],
+  "teacherId": 7229013,
+  "schoolId": 5261712,
+  "teacherPhone": "18813131060",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "0RERcXlNKrhcVc35cZ19Ng==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "马楚翘",
+  "accountName": "18800117162",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 7229012,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 924098437,
+  "teacherPhoneAes": "NM6OWD0IYNi1jv7JM2nWzQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7229012
+   },
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7229012
+   }
+  ],
+  "teacherId": 7229012,
+  "schoolId": 5261712,
+  "teacherPhone": "18800117162",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "NM6OWD0IYNi1jv7JM2nWzQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "卞娅丽",
+  "accountName": "15811046922",
+  "teacherCourse": null,
+  "userId": 924098340,
+  "teacherPhoneAes": "wJ7iiQy8t6e3m8tyoTm4ow==",
+  "teacherGrade": null,
+  "teacherId": 7229011,
+  "schoolId": 5261712,
+  "teacherPhone": "15811046922",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "wJ7iiQy8t6e3m8tyoTm4ow==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘猛",
+  "accountName": "15011238376",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7229010,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098319,
+  "teacherPhoneAes": "ZcWC2Vc768aMf3SYGk8Agg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7229010
+   }
+  ],
+  "teacherId": 7229010,
+  "schoolId": 5261712,
+  "teacherPhone": "15011238376",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "ZcWC2Vc768aMf3SYGk8Agg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王宝焕",
+  "accountName": "18515672589",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7229009,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098344,
+  "teacherPhoneAes": "p9dbubG8L38Gbrt3+btGEQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7229009
+   }
+  ],
+  "teacherId": 7229009,
+  "schoolId": 5261712,
+  "teacherPhone": "18515672589",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "p9dbubG8L38Gbrt3+btGEQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "楚海川",
+  "accountName": "19829750616",
+  "teacherCourse": [
+   {
+    "courseName": "信息科技",
+    "teacherId": 7229008,
+    "stage": 2,
+    "courseId": 33
+   }
+  ],
+  "userId": 924098401,
+  "teacherPhoneAes": "dW/5d8R4MQccdEBaBio8yg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7229008
+   }
+  ],
+  "teacherId": 7229008,
+  "schoolId": 5261712,
+  "teacherPhone": "19829750616",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "dW/5d8R4MQccdEBaBio8yg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "徐凌晨",
+  "accountName": "18811565085",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7229007,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098396,
+  "teacherPhoneAes": "Csq5hjA+JhTbi4ONeINrkA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7229007
+   }
+  ],
+  "teacherId": 7229007,
+  "schoolId": 5261712,
+  "teacherPhone": "18811565085",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Csq5hjA+JhTbi4ONeINrkA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈楠",
+  "accountName": "18810852631",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7229006,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098339,
+  "teacherPhoneAes": "shm3wJeOfrqpj4X8a3E6WA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7229006
+   }
+  ],
+  "teacherId": 7229006,
+  "schoolId": 5261712,
+  "teacherPhone": "18810852631",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "shm3wJeOfrqpj4X8a3E6WA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘洋",
+  "accountName": "17801056612",
+  "teacherCourse": [
+   {
+    "courseName": "化学",
+    "teacherId": 7229005,
+    "stage": 2,
+    "courseId": 16
+   }
+  ],
+  "userId": 924098376,
+  "teacherPhoneAes": "CDuOt5b1D+zo7/kPeOpckw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7229005
+   }
+  ],
+  "teacherId": 7229005,
+  "schoolId": 5261712,
+  "teacherPhone": "17801056612",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "CDuOt5b1D+zo7/kPeOpckw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王骁",
+  "accountName": "13126641059",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 7229004,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 924098414,
+  "teacherPhoneAes": "1Je6ksZmLGMgHLgNcCLG5A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7229004
+   }
+  ],
+  "teacherId": 7229004,
+  "schoolId": 5261712,
+  "teacherPhone": "13126641059",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "1Je6ksZmLGMgHLgNcCLG5A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "全爽",
+  "accountName": "13671118317",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7229003,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098324,
+  "teacherPhoneAes": "xkJ3064sFZ7U/V9mjxIjMA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7229003
+   }
+  ],
+  "teacherId": 7229003,
+  "schoolId": 5261712,
+  "teacherPhone": "13671118317",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xkJ3064sFZ7U/V9mjxIjMA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杜得宝",
+  "accountName": "15201114909",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7229002,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098292,
+  "teacherPhoneAes": "D4+SlYyGJsHWCL8IA+aRYw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7229002
+   }
+  ],
+  "teacherId": 7229002,
+  "schoolId": 5261712,
+  "teacherPhone": "15201114909",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "D4+SlYyGJsHWCL8IA+aRYw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "秦一笛",
+  "accountName": "18810022407",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7229001,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098402,
+  "teacherPhoneAes": "f/uv9d/aqH5fqt74X8rAJQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7229001
+   }
+  ],
+  "teacherId": 7229001,
+  "schoolId": 5261712,
+  "teacherPhone": "18810022407",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "f/uv9d/aqH5fqt74X8rAJQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "任旭芳",
+  "accountName": "18310201990",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7229000,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098321,
+  "teacherPhoneAes": "9p+4yJ5vLflSc1XOuGjZCw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7229000
+   }
+  ],
+  "teacherId": 7229000,
+  "schoolId": 5261712,
+  "teacherPhone": "18310201990",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "9p+4yJ5vLflSc1XOuGjZCw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "徐佳男",
+  "accountName": "13911012198",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228999,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098300,
+  "teacherPhoneAes": "7MoILBTYyP+AM5avXPT70A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228999
+   }
+  ],
+  "teacherId": 7228999,
+  "schoolId": 5261712,
+  "teacherPhone": "13911012198",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "7MoILBTYyP+AM5avXPT70A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "郑秋红",
+  "accountName": "15652595047",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228998,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098382,
+  "teacherPhoneAes": "HJ217O9/RfB/SRtAYwwd/A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228998
+   }
+  ],
+  "teacherId": 7228998,
+  "schoolId": 5261712,
+  "teacherPhone": "15652595047",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "HJ217O9/RfB/SRtAYwwd/A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孔英",
+  "accountName": "15101699357",
+  "teacherCourse": [
+   {
+    "courseName": "美术",
+    "teacherId": 7228997,
+    "stage": 2,
+    "courseId": 32
+   }
+  ],
+  "userId": 924098335,
+  "teacherPhoneAes": "/QJLJwoKUioolWpdO6FEBA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228997
+   }
+  ],
+  "teacherId": 7228997,
+  "schoolId": 5261712,
+  "teacherPhone": "15101699357",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "/QJLJwoKUioolWpdO6FEBA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李孟娜",
+  "accountName": "17800245520",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228996,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098368,
+  "teacherPhoneAes": "O0/gd74lvA2lpILfGUyCDg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228996
+   }
+  ],
+  "teacherId": 7228996,
+  "schoolId": 5261712,
+  "teacherPhone": "17800245520",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "O0/gd74lvA2lpILfGUyCDg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "周丹",
+  "accountName": "15101081046",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228995,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098285,
+  "teacherPhoneAes": "BwptQ0uvWDKQqtBD0IuIRA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228995
+   }
+  ],
+  "teacherId": 7228995,
+  "schoolId": 5261712,
+  "teacherPhone": "15101081046",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "BwptQ0uvWDKQqtBD0IuIRA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王海政",
+  "accountName": "18801023491",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228994,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098343,
+  "teacherPhoneAes": "d7rdWIWb0PrAnKFTaf+9/Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228994
+   }
+  ],
+  "teacherId": 7228994,
+  "schoolId": 5261712,
+  "teacherPhone": "18801023491",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "d7rdWIWb0PrAnKFTaf+9/Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王冰",
+  "accountName": "15001116132",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 7228993,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 924098283,
+  "teacherPhoneAes": "3dWF6BH2bHI+Xobz6rvUhw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228993
+   }
+  ],
+  "teacherId": 7228993,
+  "schoolId": 5261712,
+  "teacherPhone": "15001116132",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "3dWF6BH2bHI+Xobz6rvUhw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈彤",
+  "accountName": "15911147406",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 7228992,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 924098418,
+  "teacherPhoneAes": "bjLND+Gf3MZf7WgwBeuDvA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228992
+   }
+  ],
+  "teacherId": 7228992,
+  "schoolId": 5261712,
+  "teacherPhone": "15911147406",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "bjLND+Gf3MZf7WgwBeuDvA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "崔明悦",
+  "accountName": "17316285892",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228991,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098287,
+  "teacherPhoneAes": "COnKywEIXpJfY1b6ZOJkOg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228991
+   }
+  ],
+  "teacherId": 7228991,
+  "schoolId": 5261712,
+  "teacherPhone": "17316285892",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "COnKywEIXpJfY1b6ZOJkOg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "贾艳敏",
+  "accountName": "18801135379",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228990,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098298,
+  "teacherPhoneAes": "pFPC4R3eJds/t2FJjyCZIg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228990
+   }
+  ],
+  "teacherId": 7228990,
+  "schoolId": 5261712,
+  "teacherPhone": "18801135379",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "pFPC4R3eJds/t2FJjyCZIg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "吴洋",
+  "accountName": "13810252755",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228989,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098363,
+  "teacherPhoneAes": "oC70nn3VVHxQ2MOaif6BxQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228989
+   }
+  ],
+  "teacherId": 7228989,
+  "schoolId": 5261712,
+  "teacherPhone": "13810252755",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "oC70nn3VVHxQ2MOaif6BxQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘蕴煜",
+  "accountName": "13676955597",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228988,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098430,
+  "teacherPhoneAes": "0EOhLe4nHyKVptr+CTkPVw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228988
+   }
+  ],
+  "teacherId": 7228988,
+  "schoolId": 5261712,
+  "teacherPhone": "13676955597",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "0EOhLe4nHyKVptr+CTkPVw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王晶",
+  "accountName": "18811570537",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7228987,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 924098395,
+  "teacherPhoneAes": "rIH4TvOJ+y+joY+WoZbiaw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228987
+   }
+  ],
+  "teacherId": 7228987,
+  "schoolId": 5261712,
+  "teacherPhone": "18811570537",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "rIH4TvOJ+y+joY+WoZbiaw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "伍菲菲",
+  "accountName": "15010717945",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228986,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098279,
+  "teacherPhoneAes": "biMi3SAOyG3qfZFZ77CY1Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228986
+   }
+  ],
+  "teacherId": 7228986,
+  "schoolId": 5261712,
+  "teacherPhone": "15010717945",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "biMi3SAOyG3qfZFZ77CY1Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "关俊梅",
+  "accountName": "15201114965",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228985,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098365,
+  "teacherPhoneAes": "yR02gGrRZlYKFWMFVNvJaQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228985
+   }
+  ],
+  "teacherId": 7228985,
+  "schoolId": 5261712,
+  "teacherPhone": "15201114965",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "yR02gGrRZlYKFWMFVNvJaQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "段玮慧",
+  "accountName": "13651315075",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228984,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098429,
+  "teacherPhoneAes": "g2VTnnZ8n0GdKsRnwvLM0w==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228984
+   }
+  ],
+  "teacherId": 7228984,
+  "schoolId": 5261712,
+  "teacherPhone": "13651315075",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "g2VTnnZ8n0GdKsRnwvLM0w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "胡雪",
+  "accountName": "13601013245",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7228983,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098391,
+  "teacherPhoneAes": "RTTtpTWOpTt1ZmJtILqFdg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228983
+   }
+  ],
+  "teacherId": 7228983,
+  "schoolId": 5261712,
+  "teacherPhone": "13601013245",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "RTTtpTWOpTt1ZmJtILqFdg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王子靖",
+  "accountName": "17801035916",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 7228982,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 924098271,
+  "teacherPhoneAes": "vDYFzOmA6t/AheO3Yfdjhg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228982
+   },
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228982
+   }
+  ],
+  "teacherId": 7228982,
+  "schoolId": 5261712,
+  "teacherPhone": "17801035916",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "vDYFzOmA6t/AheO3Yfdjhg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李进德",
+  "accountName": "13466592829",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228981,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098412,
+  "teacherPhoneAes": "4o9eP5Wso9zBh4F31MJdqw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228981
+   }
+  ],
+  "teacherId": 7228981,
+  "schoolId": 5261712,
+  "teacherPhone": "13466592829",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "4o9eP5Wso9zBh4F31MJdqw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "申晨旭",
+  "accountName": "15530356102",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228980,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098293,
+  "teacherPhoneAes": "Bs3VgHN0p9sapp/6F0zKjQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228980
+   }
+  ],
+  "teacherId": 7228980,
+  "schoolId": 5261712,
+  "teacherPhone": "15530356102",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Bs3VgHN0p9sapp/6F0zKjQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "宋爱利",
+  "accountName": "13426095874",
+  "teacherCourse": null,
+  "userId": 924098442,
+  "teacherPhoneAes": "u2VyoMDce/IJx1WdtpMUOA==",
+  "teacherGrade": null,
+  "teacherId": 7228979,
+  "schoolId": 5261712,
+  "teacherPhone": "13426095874",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "u2VyoMDce/IJx1WdtpMUOA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "赵洁",
+  "accountName": "18810349538",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228978,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098311,
+  "teacherPhoneAes": "HE4Qg1FRiEZ6INJ9FqxIdA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228978
+   }
+  ],
+  "teacherId": 7228978,
+  "schoolId": 5261712,
+  "teacherPhone": "18810349538",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "HE4Qg1FRiEZ6INJ9FqxIdA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "田漪策",
+  "accountName": "13473850824",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228977,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098272,
+  "teacherPhoneAes": "1s9huW3+34YddOXAWrk73Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228977
+   }
+  ],
+  "teacherId": 7228977,
+  "schoolId": 5261712,
+  "teacherPhone": "13473850824",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "1s9huW3+34YddOXAWrk73Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陶一丹",
+  "accountName": "13611191216",
+  "teacherCourse": [
+   {
+    "courseName": "音乐",
+    "teacherId": 7228976,
+    "stage": 2,
+    "courseId": 31
+   }
+  ],
+  "userId": 924098419,
+  "teacherPhoneAes": "Bd7XKpS7Yb8zrwb+oKat7w==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228976
+   }
+  ],
+  "teacherId": 7228976,
+  "schoolId": 5261712,
+  "teacherPhone": "13611191216",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Bd7XKpS7Yb8zrwb+oKat7w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "姚佳",
+  "accountName": "13693296016",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228975,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098328,
+  "teacherPhoneAes": "Mm+o9FuDt1iNwKWrnPkAmQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228975
+   }
+  ],
+  "teacherId": 7228975,
+  "schoolId": 5261712,
+  "teacherPhone": "13693296016",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Mm+o9FuDt1iNwKWrnPkAmQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "齐晓欣",
+  "accountName": "15811166215",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7228974,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098432,
+  "teacherPhoneAes": "RNZS7NqzBob9SFKHmJ5b/w==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228974
+   }
+  ],
+  "teacherId": 7228974,
+  "schoolId": 5261712,
+  "teacherPhone": "15811166215",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "RNZS7NqzBob9SFKHmJ5b/w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "安德智",
+  "accountName": "18910603187",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228973,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098296,
+  "teacherPhoneAes": "lUZTSj9hjb9BSYrvQ3GOaA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228973
+   }
+  ],
+  "teacherId": 7228973,
+  "schoolId": 5261712,
+  "teacherPhone": "18910603187",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "lUZTSj9hjb9BSYrvQ3GOaA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈亚轩",
+  "accountName": "15801474673",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228972,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098364,
+  "teacherPhoneAes": "bquHzwdJDwAcePfTypHn4g==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228972
+   }
+  ],
+  "teacherId": 7228972,
+  "schoolId": 5261712,
+  "teacherPhone": "15801474673",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "bquHzwdJDwAcePfTypHn4g==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "付晓敏",
+  "accountName": "13161129992",
+  "teacherCourse": null,
+  "userId": 924098341,
+  "teacherPhoneAes": "0W/w5A0kmuiRnVzxOqlPpA==",
+  "teacherGrade": null,
+  "teacherId": 7228971,
+  "schoolId": 5261712,
+  "teacherPhone": "13161129992",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "0W/w5A0kmuiRnVzxOqlPpA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陶一菁",
+  "accountName": "15650718653",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228970,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098427,
+  "teacherPhoneAes": "iKZN7+KmTOiRkYoCXfVAXQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228970
+   }
+  ],
+  "teacherId": 7228970,
+  "schoolId": 5261712,
+  "teacherPhone": "15650718653",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "iKZN7+KmTOiRkYoCXfVAXQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "崔天硕",
+  "accountName": "15801155723",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228969,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098410,
+  "teacherPhoneAes": "MuxljjVcq6RIxiilOD2Atg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228969
+   }
+  ],
+  "teacherId": 7228969,
+  "schoolId": 5261712,
+  "teacherPhone": "15801155723",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "MuxljjVcq6RIxiilOD2Atg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈丹丹",
+  "accountName": "15201130850",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 7228968,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 924098263,
+  "teacherPhoneAes": "o4lcvaiFeqhm+ALR4blxgg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228968
+   }
+  ],
+  "teacherId": 7228968,
+  "schoolId": 5261712,
+  "teacherPhone": "15201130850",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "o4lcvaiFeqhm+ALR4blxgg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈稼桐",
+  "accountName": "15001373044",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7228967,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098354,
+  "teacherPhoneAes": "/zht0wI2+HVV2u9RpIMwxg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228967
+   }
+  ],
+  "teacherId": 7228967,
+  "schoolId": 5261712,
+  "teacherPhone": "15001373044",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "/zht0wI2+HVV2u9RpIMwxg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "谭淼",
+  "accountName": "13701011982",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228966,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098318,
+  "teacherPhoneAes": "JK5MR4Fxtvd3Fsu6eCKGhg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228966
+   }
+  ],
+  "teacherId": 7228966,
+  "schoolId": 5261712,
+  "teacherPhone": "13701011982",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "JK5MR4Fxtvd3Fsu6eCKGhg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "季小涵",
+  "accountName": "15510075354",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228965,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098406,
+  "teacherPhoneAes": "cJ8cJBpU3sYLt7mdEnRn3w==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228965
+   }
+  ],
+  "teacherId": 7228965,
+  "schoolId": 5261712,
+  "teacherPhone": "15510075354",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "cJ8cJBpU3sYLt7mdEnRn3w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张梦雨",
+  "accountName": "13520202135",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228964,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098268,
+  "teacherPhoneAes": "N+fLyPvvtzV2gRArZw17+Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228964
+   }
+  ],
+  "teacherId": 7228964,
+  "schoolId": 5261712,
+  "teacherPhone": "13520202135",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "N+fLyPvvtzV2gRArZw17+Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张学悦",
+  "accountName": "18515288965",
+  "teacherCourse": [
+   {
+    "courseName": "音乐",
+    "teacherId": 7228963,
+    "stage": 2,
+    "courseId": 31
+   }
+  ],
+  "userId": 924098383,
+  "teacherPhoneAes": "NTm0trVVi/JncqlmLiiinw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228963
+   }
+  ],
+  "teacherId": 7228963,
+  "schoolId": 5261712,
+  "teacherPhone": "18515288965",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "NTm0trVVi/JncqlmLiiinw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王欢",
+  "accountName": "18311260495",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228962,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098420,
+  "teacherPhoneAes": "bbUxqpm5t5VOgcmk/GjNsQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228962
+   }
+  ],
+  "teacherId": 7228962,
+  "schoolId": 5261712,
+  "teacherPhone": "18311260495",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "bbUxqpm5t5VOgcmk/GjNsQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "特日格乐",
+  "accountName": "13581583648",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228961,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098317,
+  "teacherPhoneAes": "3gVI0y17yFsV1+Ow2bUOOA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228961
+   }
+  ],
+  "teacherId": 7228961,
+  "schoolId": 5261712,
+  "teacherPhone": "13581583648",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "3gVI0y17yFsV1+Ow2bUOOA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "焦娜",
+  "accountName": "13718538904",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228960,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098288,
+  "teacherPhoneAes": "HtNjwjgi9XrlhgILT5W0uQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228960
+   }
+  ],
+  "teacherId": 7228960,
+  "schoolId": 5261712,
+  "teacherPhone": "13718538904",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "HtNjwjgi9XrlhgILT5W0uQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘露",
+  "accountName": "18810117561",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228959,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098337,
+  "teacherPhoneAes": "hj/PPPWGJvFYSCH6iPuGKg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228959
+   }
+  ],
+  "teacherId": 7228959,
+  "schoolId": 5261712,
+  "teacherPhone": "18810117561",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "hj/PPPWGJvFYSCH6iPuGKg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈红敏",
+  "accountName": "13811573306",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228958,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098362,
+  "teacherPhoneAes": "qXWVKo46IUHWGWDf3ALxqw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228958
+   }
+  ],
+  "teacherId": 7228958,
+  "schoolId": 5261712,
+  "teacherPhone": "13811573306",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "qXWVKo46IUHWGWDf3ALxqw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "齐笑",
+  "accountName": "15010815950",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228957,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098257,
+  "teacherPhoneAes": "c0TF4PWeufVotovoR7unpw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228957
+   }
+  ],
+  "teacherId": 7228957,
+  "schoolId": 5261712,
+  "teacherPhone": "15010815950",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "c0TF4PWeufVotovoR7unpw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孙雨晴",
+  "accountName": "13717717328",
+  "teacherCourse": [
+   {
+    "courseName": "美术",
+    "teacherId": 7228956,
+    "stage": 2,
+    "courseId": 32
+   }
+  ],
+  "userId": 924098331,
+  "teacherPhoneAes": "irFm8cXgaSKOQ32WY5aMdg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228956
+   }
+  ],
+  "teacherId": 7228956,
+  "schoolId": 5261712,
+  "teacherPhone": "13717717328",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "irFm8cXgaSKOQ32WY5aMdg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张金宇",
+  "accountName": "15600915876",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228955,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098403,
+  "teacherPhoneAes": "8fLA4ETgmWyTNar8/F4C1g==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228955
+   }
+  ],
+  "teacherId": 7228955,
+  "schoolId": 5261712,
+  "teacherPhone": "15600915876",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "8fLA4ETgmWyTNar8/F4C1g==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "赵玉璇",
+  "accountName": "13146069451",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228954,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098372,
+  "teacherPhoneAes": "U2AUjJrbQ7xnHk6Vi9Ysfw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228954
+   }
+  ],
+  "teacherId": 7228954,
+  "schoolId": 5261712,
+  "teacherPhone": "13146069451",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "U2AUjJrbQ7xnHk6Vi9Ysfw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杨虹珠",
+  "accountName": "13522120692",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228953,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098313,
+  "teacherPhoneAes": "n0FF6qa3bCFRRpXzrUDCGg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228953
+   }
+  ],
+  "teacherId": 7228953,
+  "schoolId": 5261712,
+  "teacherPhone": "13522120692",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "n0FF6qa3bCFRRpXzrUDCGg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "红文灏",
+  "accountName": "15810320529",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228952,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098312,
+  "teacherPhoneAes": "4jRe5j93ClkjRh3mIhyu5w==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228952
+   }
+  ],
+  "teacherId": 7228952,
+  "schoolId": 5261712,
+  "teacherPhone": "15810320529",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "4jRe5j93ClkjRh3mIhyu5w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "付丽洁",
+  "accountName": "18811586981",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228951,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098258,
+  "teacherPhoneAes": "V/EyPxD+3182aLIZm+eIXg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228951
+   }
+  ],
+  "teacherId": 7228951,
+  "schoolId": 5261712,
+  "teacherPhone": "18811586981",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "V/EyPxD+3182aLIZm+eIXg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杨玉蕊",
+  "accountName": "13810059935",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228950,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098330,
+  "teacherPhoneAes": "kSq4znk1jmrDilvM2ZXlrw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228950
+   }
+  ],
+  "teacherId": 7228950,
+  "schoolId": 5261712,
+  "teacherPhone": "13810059935",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "kSq4znk1jmrDilvM2ZXlrw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "唐蕊",
+  "accountName": "15901301480",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228949,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098377,
+  "teacherPhoneAes": "vWJRZa8yGKeCG70AO1ZdaQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228949
+   }
+  ],
+  "teacherId": 7228949,
+  "schoolId": 5261712,
+  "teacherPhone": "15901301480",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "vWJRZa8yGKeCG70AO1ZdaQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杨宗青",
+  "accountName": "18701222022",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228948,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098266,
+  "teacherPhoneAes": "aBz2LeucLncXsTroiKj4+Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228948
+   }
+  ],
+  "teacherId": 7228948,
+  "schoolId": 5261712,
+  "teacherPhone": "18701222022",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "aBz2LeucLncXsTroiKj4+Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王大鹏",
+  "accountName": "13811977774",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228947,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098407,
+  "teacherPhoneAes": "0+2oNcnhawCbFgXCQ1gcGg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228947
+   }
+  ],
+  "teacherId": 7228947,
+  "schoolId": 5261712,
+  "teacherPhone": "13811977774",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "0+2oNcnhawCbFgXCQ1gcGg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李木子",
+  "accountName": "13241551101",
+  "teacherCourse": [
+   {
+    "courseName": "心理",
+    "teacherId": 7228946,
+    "stage": 2,
+    "courseId": 2179176
+   }
+  ],
+  "userId": 924098261,
+  "teacherPhoneAes": "dWWd4J83/U7dB6cbJBiSVw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228946
+   }
+  ],
+  "teacherId": 7228946,
+  "schoolId": 5261712,
+  "teacherPhone": "13241551101",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "dWWd4J83/U7dB6cbJBiSVw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "郑赛",
+  "accountName": "13601163455",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228945,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098315,
+  "teacherPhoneAes": "T4LIFHresysAn2oBKhRDjg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228945
+   }
+  ],
+  "teacherId": 7228945,
+  "schoolId": 5261712,
+  "teacherPhone": "13601163455",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "T4LIFHresysAn2oBKhRDjg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李卫红",
+  "accountName": "18210699315",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228944,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098256,
+  "teacherPhoneAes": "/WCVVx/LoX/zLw3+LWF+lQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228944
+   }
+  ],
+  "teacherId": 7228944,
+  "schoolId": 5261712,
+  "teacherPhone": "18210699315",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "/WCVVx/LoX/zLw3+LWF+lQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "崔熙平",
+  "accountName": "13691034622",
+  "teacherCourse": null,
+  "userId": 924098438,
+  "teacherPhoneAes": "CQ3ACCyTIP95NlAydGlDfw==",
+  "teacherGrade": null,
+  "teacherId": 7228943,
+  "schoolId": 5261712,
+  "teacherPhone": "13691034622",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "CQ3ACCyTIP95NlAydGlDfw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李岩",
+  "accountName": "16619784778",
+  "teacherCourse": null,
+  "userId": 924098259,
+  "teacherPhoneAes": "lzX4FQa1Z9huJDeERmGCCw==",
+  "teacherGrade": null,
+  "teacherId": 7228942,
+  "schoolId": 5261712,
+  "teacherPhone": "16619784778",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "lzX4FQa1Z9huJDeERmGCCw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "滕永生",
+  "accountName": "13581583209",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228941,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098378,
+  "teacherPhoneAes": "MrLzixkkylPzS2b2NSotoQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228941
+   }
+  ],
+  "teacherId": 7228941,
+  "schoolId": 5261712,
+  "teacherPhone": "13581583209",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "MrLzixkkylPzS2b2NSotoQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "肖丽",
+  "accountName": "13161978194",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228940,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098398,
+  "teacherPhoneAes": "8t3GJ8lzLVUBRpfB6z6dAw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228940
+   }
+  ],
+  "teacherId": 7228940,
+  "schoolId": 5261712,
+  "teacherPhone": "13161978194",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "8t3GJ8lzLVUBRpfB6z6dAw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "纪迎歆",
+  "accountName": "15811222002",
+  "teacherCourse": [
+   {
+    "courseName": "美术",
+    "teacherId": 7228939,
+    "stage": 2,
+    "courseId": 32
+   }
+  ],
+  "userId": 924098439,
+  "teacherPhoneAes": "PLRsQTcL4yFEviMOaH3LvQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228939
+   }
+  ],
+  "teacherId": 7228939,
+  "schoolId": 5261712,
+  "teacherPhone": "15811222002",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "PLRsQTcL4yFEviMOaH3LvQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张睿曦",
+  "accountName": "18301414761",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228938,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098308,
+  "teacherPhoneAes": "zifiD7lTGkGW7WxWeXEzvQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228938
+   }
+  ],
+  "teacherId": 7228938,
+  "schoolId": 5261712,
+  "teacherPhone": "18301414761",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "zifiD7lTGkGW7WxWeXEzvQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李晓平",
+  "accountName": "13521645180",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228937,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098302,
+  "teacherPhoneAes": "PFGImGfvQTn7YIg6mUG6yw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228937
+   }
+  ],
+  "teacherId": 7228937,
+  "schoolId": 5261712,
+  "teacherPhone": "13521645180",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "PFGImGfvQTn7YIg6mUG6yw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "姜晋楠",
+  "accountName": "16635761203",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228936,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098352,
+  "teacherPhoneAes": "pP9xIagWUI4kT4UsqBHOpw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228936
+   }
+  ],
+  "teacherId": 7228936,
+  "schoolId": 5261712,
+  "teacherPhone": "16635761203",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "pP9xIagWUI4kT4UsqBHOpw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈君生",
+  "accountName": "18610591326",
+  "teacherCourse": null,
+  "userId": 924098416,
+  "teacherPhoneAes": "fsEhT6AGkEZjEmUxeIbxSA==",
+  "teacherGrade": null,
+  "teacherId": 7228935,
+  "schoolId": 5261712,
+  "teacherPhone": "18610591326",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "fsEhT6AGkEZjEmUxeIbxSA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "郝永军",
+  "accountName": "18210122978",
+  "teacherCourse": null,
+  "userId": 924098348,
+  "teacherPhoneAes": "riF7OKsWwAdSetXMdaYFeA==",
+  "teacherGrade": null,
+  "teacherId": 7228934,
+  "schoolId": 5261712,
+  "teacherPhone": "18210122978",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "riF7OKsWwAdSetXMdaYFeA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "黄明珠",
+  "accountName": "17888829658",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 7228933,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 924098404,
+  "teacherPhoneAes": "mgtlDa3FI4eg1gb1nuiOeA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228933
+   },
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228933
+   }
+  ],
+  "teacherId": 7228933,
+  "schoolId": 5261712,
+  "teacherPhone": "17888829658",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "mgtlDa3FI4eg1gb1nuiOeA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "台露",
+  "accountName": "15832395609",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228932,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098399,
+  "teacherPhoneAes": "x0yBSEWTPfslrB/8CiLZaA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228932
+   }
+  ],
+  "teacherId": 7228932,
+  "schoolId": 5261712,
+  "teacherPhone": "15832395609",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "x0yBSEWTPfslrB/8CiLZaA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈军",
+  "accountName": "18600989848",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228931,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098342,
+  "teacherPhoneAes": "6gYPfyH06Ce3I3Jfe4DAyA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228931
+   }
+  ],
+  "teacherId": 7228931,
+  "schoolId": 5261712,
+  "teacherPhone": "18600989848",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "6gYPfyH06Ce3I3Jfe4DAyA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘向灵",
+  "accountName": "15555760041",
+  "teacherCourse": [
+   {
+    "courseName": "美术",
+    "teacherId": 7228930,
+    "stage": 2,
+    "courseId": 32
+   }
+  ],
+  "userId": 924098281,
+  "teacherPhoneAes": "AKYyyoAePlB5FG6Pfv9F7A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228930
+   }
+  ],
+  "teacherId": 7228930,
+  "schoolId": 5261712,
+  "teacherPhone": "15555760041",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "AKYyyoAePlB5FG6Pfv9F7A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杨晓娇",
+  "accountName": "13699203230",
+  "teacherCourse": null,
+  "userId": 924098349,
+  "teacherPhoneAes": "FDAm6uZfwKr7ts+hAxMGkg==",
+  "teacherGrade": null,
+  "teacherId": 7228929,
+  "schoolId": 5261712,
+  "teacherPhone": "13699203230",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "FDAm6uZfwKr7ts+hAxMGkg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "解峥",
+  "accountName": "13466562873",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228928,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098397,
+  "teacherPhoneAes": "giUkxV5XU1qP5W7Qw6Mz2Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228928
+   }
+  ],
+  "teacherId": 7228928,
+  "schoolId": 5261712,
+  "teacherPhone": "13466562873",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "giUkxV5XU1qP5W7Qw6Mz2Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "郭鸽",
+  "accountName": "13521698199",
+  "teacherCourse": [
+   {
+    "courseName": "信息科技",
+    "teacherId": 7228927,
+    "stage": 2,
+    "courseId": 33
+   }
+  ],
+  "userId": 924098350,
+  "teacherPhoneAes": "gk/dNUvwVbgoTWxbm5dbEg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228927
+   }
+  ],
+  "teacherId": 7228927,
+  "schoolId": 5261712,
+  "teacherPhone": "13521698199",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "gk/dNUvwVbgoTWxbm5dbEg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王晶晶",
+  "accountName": "13810189721",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228926,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098251,
+  "teacherPhoneAes": "Vw8C4TcJTrPI9YmPrjx/ew==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228926
+   }
+  ],
+  "teacherId": 7228926,
+  "schoolId": 5261712,
+  "teacherPhone": "13810189721",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Vw8C4TcJTrPI9YmPrjx/ew==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "徐东瑞",
+  "accountName": "13581524429",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7228925,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 924098389,
+  "teacherPhoneAes": "xAo7yXEbfWfLyAxryXDL7Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228925
+   }
+  ],
+  "teacherId": 7228925,
+  "schoolId": 5261712,
+  "teacherPhone": "13581524429",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xAo7yXEbfWfLyAxryXDL7Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘君",
+  "accountName": "13810088563",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7228924,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098370,
+  "teacherPhoneAes": "GQOlhvZYdE54g6iH5rz2BQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228924
+   }
+  ],
+  "teacherId": 7228924,
+  "schoolId": 5261712,
+  "teacherPhone": "13810088563",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "GQOlhvZYdE54g6iH5rz2BQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘双玲",
+  "accountName": "15210981841",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7228923,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 924098304,
+  "teacherPhoneAes": "+c9pnlDMpZWVjbikeMmolg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228923
+   },
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228923
+   }
+  ],
+  "teacherId": 7228923,
+  "schoolId": 5261712,
+  "teacherPhone": "15210981841",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "+c9pnlDMpZWVjbikeMmolg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张茗子",
+  "accountName": "15201271043",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228922,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098252,
+  "teacherPhoneAes": "kWHCCNimcIDxpXEKHulfZg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228922
+   }
+  ],
+  "teacherId": 7228922,
+  "schoolId": 5261712,
+  "teacherPhone": "15201271043",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "kWHCCNimcIDxpXEKHulfZg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "薛乔乔",
+  "accountName": "18810968255",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228921,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098355,
+  "teacherPhoneAes": "lLyj3Mi34PfLqkz/k0saTQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228921
+   }
+  ],
+  "teacherId": 7228921,
+  "schoolId": 5261712,
+  "teacherPhone": "18810968255",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "lLyj3Mi34PfLqkz/k0saTQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "邵蕴玮",
+  "accountName": "18510865012",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228919,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098373,
+  "teacherPhoneAes": "2Not8to5X36F4BDEMovj2Q==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228919
+   }
+  ],
+  "teacherId": 7228919,
+  "schoolId": 5261712,
+  "teacherPhone": "18510865012",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "2Not8to5X36F4BDEMovj2Q==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张煜文",
+  "accountName": "18701691018",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 7228918,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 924098385,
+  "teacherPhoneAes": "7uRtzqsrVNU8+CkdvrKhjw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228918
+   }
+  ],
+  "teacherId": 7228918,
+  "schoolId": 5261712,
+  "teacherPhone": "18701691018",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "7uRtzqsrVNU8+CkdvrKhjw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孙安佳",
+  "accountName": "18910982853",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228917,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098411,
+  "teacherPhoneAes": "jc+83l7zDTqqbfVNEtWIIQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228917
+   }
+  ],
+  "teacherId": 7228917,
+  "schoolId": 5261712,
+  "teacherPhone": "18910982853",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "jc+83l7zDTqqbfVNEtWIIQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "康进强",
+  "accountName": "13910138671",
+  "teacherCourse": null,
+  "userId": 924098347,
+  "teacherPhoneAes": "kW4QjX/25muQE8yAzQCP0g==",
+  "teacherGrade": null,
+  "teacherId": 7228916,
+  "schoolId": 5261712,
+  "teacherPhone": "13910138671",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "kW4QjX/25muQE8yAzQCP0g==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张卉",
+  "accountName": "15801245012",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228915,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098260,
+  "teacherPhoneAes": "zCvkKNPZjGKr0JET3QN/3w==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228915
+   }
+  ],
+  "teacherId": 7228915,
+  "schoolId": 5261712,
+  "teacherPhone": "15801245012",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "zCvkKNPZjGKr0JET3QN/3w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "董瀚超",
+  "accountName": "15110259691",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7228914,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098393,
+  "teacherPhoneAes": "6DFs7DC4EwtNEV+128ZWcQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228914
+   }
+  ],
+  "teacherId": 7228914,
+  "schoolId": 5261712,
+  "teacherPhone": "15110259691",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "6DFs7DC4EwtNEV+128ZWcQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "赵俊",
+  "accountName": "13810394990",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228913,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098309,
+  "teacherPhoneAes": "5Xap2tY/QmfjEE1COhZuLQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228913
+   }
+  ],
+  "teacherId": 7228913,
+  "schoolId": 5261712,
+  "teacherPhone": "13810394990",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "5Xap2tY/QmfjEE1COhZuLQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李丽平",
+  "accountName": "13521802364",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228912,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098301,
+  "teacherPhoneAes": "q0D7od1aSsZT+hYtMCyVcQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228912
+   }
+  ],
+  "teacherId": 7228912,
+  "schoolId": 5261712,
+  "teacherPhone": "13521802364",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "q0D7od1aSsZT+hYtMCyVcQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孙若耘",
+  "accountName": "13070177857",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228911,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098262,
+  "teacherPhoneAes": "Y562TENLHo/DTIfzzWV+jA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228911
+   }
+  ],
+  "teacherId": 7228911,
+  "schoolId": 5261712,
+  "teacherPhone": "13070177857",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Y562TENLHo/DTIfzzWV+jA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "陈子千",
+  "accountName": "15010179167",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228910,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098307,
+  "teacherPhoneAes": "4OSMzGUjmUvhVZumJtXlng==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228910
+   }
+  ],
+  "teacherId": 7228910,
+  "schoolId": 5261712,
+  "teacherPhone": "15010179167",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "4OSMzGUjmUvhVZumJtXlng==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孙夏萍",
+  "accountName": "18801322609",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228909,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098358,
+  "teacherPhoneAes": "GKGt2Xcn5BNt9ot69V3udg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228909
+   }
+  ],
+  "teacherId": 7228909,
+  "schoolId": 5261712,
+  "teacherPhone": "18801322609",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "GKGt2Xcn5BNt9ot69V3udg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘博",
+  "accountName": "18813046716",
+  "teacherCourse": null,
+  "userId": 924098306,
+  "teacherPhoneAes": "fmMzCvJ5VkTr/tbfSD6ltg==",
+  "teacherGrade": null,
+  "teacherId": 7228908,
+  "schoolId": 5261712,
+  "teacherPhone": "18813046716",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "fmMzCvJ5VkTr/tbfSD6ltg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王宇",
+  "accountName": "13521608796",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228907,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098441,
+  "teacherPhoneAes": "cBpJojquDGiRjC50vWM9jQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228907
+   }
+  ],
+  "teacherId": 7228907,
+  "schoolId": 5261712,
+  "teacherPhone": "13521608796",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "cBpJojquDGiRjC50vWM9jQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "马锐",
+  "accountName": "18311308056",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228906,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098415,
+  "teacherPhoneAes": "v9YQyl8dAs+MLZ58qOHcGw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228906
+   }
+  ],
+  "teacherId": 7228906,
+  "schoolId": 5261712,
+  "teacherPhone": "18311308056",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "v9YQyl8dAs+MLZ58qOHcGw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "白静",
+  "accountName": "13811518183",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228905,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098351,
+  "teacherPhoneAes": "BSYbfKyRcno17a1YThmisg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228905
+   }
+  ],
+  "teacherId": 7228905,
+  "schoolId": 5261712,
+  "teacherPhone": "13811518183",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "BSYbfKyRcno17a1YThmisg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李翔宇",
+  "accountName": "15201113891",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228904,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098299,
+  "teacherPhoneAes": "dV56kdbRGj2a8L+ebbe3ow==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228904
+   }
+  ],
+  "teacherId": 7228904,
+  "schoolId": 5261712,
+  "teacherPhone": "15201113891",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "dV56kdbRGj2a8L+ebbe3ow==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张冬明",
+  "accountName": "13466307370",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228903,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098425,
+  "teacherPhoneAes": "eOU0MKleFjLv46PYDnLFOA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228903
+   }
+  ],
+  "teacherId": 7228903,
+  "schoolId": 5261712,
+  "teacherPhone": "13466307370",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "eOU0MKleFjLv46PYDnLFOA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张雨晨",
+  "accountName": "13521468695",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 7228902,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 924098254,
+  "teacherPhoneAes": "fehKTgTOiAJi5infW6JicQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228902
+   }
+  ],
+  "teacherId": 7228902,
+  "schoolId": 5261712,
+  "teacherPhone": "13521468695",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "fehKTgTOiAJi5infW6JicQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "高晓红",
+  "accountName": "13521140847",
+  "teacherCourse": null,
+  "userId": 924098303,
+  "teacherPhoneAes": "MF0Wy5DOnBV3N51hgJVUqg==",
+  "teacherGrade": null,
+  "teacherId": 7228901,
+  "schoolId": 5261712,
+  "teacherPhone": "13521140847",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "MF0Wy5DOnBV3N51hgJVUqg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李亚春",
+  "accountName": "17710455850",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228900,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098440,
+  "teacherPhoneAes": "mGCLf8kcVHbZAchpAXm/tA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228900
+   }
+  ],
+  "teacherId": 7228900,
+  "schoolId": 5261712,
+  "teacherPhone": "17710455850",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "mGCLf8kcVHbZAchpAXm/tA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张佳丽",
+  "accountName": "15712889218",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228899,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098273,
+  "teacherPhoneAes": "iSsFr4wWe3Gc2umUj8xYtQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228899
+   }
+  ],
+  "teacherId": 7228899,
+  "schoolId": 5261712,
+  "teacherPhone": "15712889218",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "iSsFr4wWe3Gc2umUj8xYtQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王雯晔",
+  "accountName": "17779405991",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228898,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098388,
+  "teacherPhoneAes": "lAsyhrDpfEpA4BQKarUExQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228898
+   }
+  ],
+  "teacherId": 7228898,
+  "schoolId": 5261712,
+  "teacherPhone": "17779405991",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "lAsyhrDpfEpA4BQKarUExQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "宋岳潞",
+  "accountName": "18810445046",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228897,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098275,
+  "teacherPhoneAes": "eEM5tN83IqryI2Zt6BLvpw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228897
+   }
+  ],
+  "teacherId": 7228897,
+  "schoolId": 5261712,
+  "teacherPhone": "18810445046",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "eEM5tN83IqryI2Zt6BLvpw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王湘君",
+  "accountName": "13810021528",
+  "teacherCourse": [
+   {
+    "courseName": "化学",
+    "teacherId": 7228896,
+    "stage": 2,
+    "courseId": 16
+   }
+  ],
+  "userId": 924098386,
+  "teacherPhoneAes": "2+AOuVhWYKBe7YNR5TaAyQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228896
+   }
+  ],
+  "teacherId": 7228896,
+  "schoolId": 5261712,
+  "teacherPhone": "13810021528",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "2+AOuVhWYKBe7YNR5TaAyQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "肖颖",
+  "accountName": "13811521586",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228894,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098325,
+  "teacherPhoneAes": "xrv3txJ5aa+61blPq/Qeiw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228894
+   }
+  ],
+  "teacherId": 7228894,
+  "schoolId": 5261712,
+  "teacherPhone": "13811521586",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "xrv3txJ5aa+61blPq/Qeiw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李志欣",
+  "accountName": "13521283039",
+  "teacherCourse": null,
+  "userId": 924098421,
+  "teacherPhoneAes": "nGtxa0Y599mchMDPTTVIRQ==",
+  "teacherGrade": null,
+  "teacherId": 7228893,
+  "schoolId": 5261712,
+  "teacherPhone": "13521283039",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "nGtxa0Y599mchMDPTTVIRQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王瑞宇",
+  "accountName": "15300091892",
+  "teacherCourse": null,
+  "userId": 924098369,
+  "teacherPhoneAes": "5ZYvdKLRDJqn2k98GXUEGg==",
+  "teacherGrade": null,
+  "teacherId": 7228892,
+  "schoolId": 5261712,
+  "teacherPhone": "15300091892",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "5ZYvdKLRDJqn2k98GXUEGg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王姝珺",
+  "accountName": "18613860202",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228891,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098286,
+  "teacherPhoneAes": "FKRuY09MdPRk++C0Az0lOg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228891
+   }
+  ],
+  "teacherId": 7228891,
+  "schoolId": 5261712,
+  "teacherPhone": "18613860202",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "FKRuY09MdPRk++C0Az0lOg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘慧",
+  "accountName": "15652912411",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228890,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098387,
+  "teacherPhoneAes": "M6mSWeiN8c+OqTANSy2pYw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228890
+   }
+  ],
+  "teacherId": 7228890,
+  "schoolId": 5261712,
+  "teacherPhone": "15652912411",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "M6mSWeiN8c+OqTANSy2pYw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张曦",
+  "accountName": "18810850536",
+  "teacherCourse": [
+   {
+    "courseName": "地理",
+    "teacherId": 7228889,
+    "stage": 2,
+    "courseId": 20
+   }
+  ],
+  "userId": 924098371,
+  "teacherPhoneAes": "ZmyrXRcNBT/M36Uc2pNYtg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228889
+   }
+  ],
+  "teacherId": 7228889,
+  "schoolId": 5261712,
+  "teacherPhone": "18810850536",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "ZmyrXRcNBT/M36Uc2pNYtg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "温丽茗",
+  "accountName": "13811065425",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228888,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098274,
+  "teacherPhoneAes": "N44OJrpDTxMQiQ0t2lusYw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228888
+   }
+  ],
+  "teacherId": 7228888,
+  "schoolId": 5261712,
+  "teacherPhone": "13811065425",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "N44OJrpDTxMQiQ0t2lusYw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孙琳芳",
+  "accountName": "13811086953",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228887,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098327,
+  "teacherPhoneAes": "l6Nr4FfyQKgVpC7bYWuR4w==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228887
+   }
+  ],
+  "teacherId": 7228887,
+  "schoolId": 5261712,
+  "teacherPhone": "13811086953",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "l6Nr4FfyQKgVpC7bYWuR4w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "齐欢",
+  "accountName": "13488776486",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228886,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098270,
+  "teacherPhoneAes": "cTCDWjz6vrKM5pvl5wYOUA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228886
+   }
+  ],
+  "teacherId": 7228886,
+  "schoolId": 5261712,
+  "teacherPhone": "13488776486",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "cTCDWjz6vrKM5pvl5wYOUA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "武超超",
+  "accountName": "17835204560",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228885,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098431,
+  "teacherPhoneAes": "LJfKtryEbrgAFg21ocOmYQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228885
+   }
+  ],
+  "teacherId": 7228885,
+  "schoolId": 5261712,
+  "teacherPhone": "17835204560",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "LJfKtryEbrgAFg21ocOmYQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "冉佳鹭",
+  "accountName": "13821184757",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228884,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098392,
+  "teacherPhoneAes": "cwydu4uaGc1ZINVrWpHDsw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228884
+   }
+  ],
+  "teacherId": 7228884,
+  "schoolId": 5261712,
+  "teacherPhone": "13821184757",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "cwydu4uaGc1ZINVrWpHDsw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张冬芳",
+  "accountName": "18514407372",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7228883,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 924098380,
+  "teacherPhoneAes": "SJM/UWA6D6zVGO+bvqaFyw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228883
+   }
+  ],
+  "teacherId": 7228883,
+  "schoolId": 5261712,
+  "teacherPhone": "18514407372",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "SJM/UWA6D6zVGO+bvqaFyw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王婧",
+  "accountName": "13488689995",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228882,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098422,
+  "teacherPhoneAes": "FO6I4FKTJ3qTIyVFSOZECg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228882
+   }
+  ],
+  "teacherId": 7228882,
+  "schoolId": 5261712,
+  "teacherPhone": "13488689995",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "FO6I4FKTJ3qTIyVFSOZECg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "梁丹丹",
+  "accountName": "15110278296",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228881,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098361,
+  "teacherPhoneAes": "OGlRlQ/IfntVszaZ8lVW/g==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228881
+   }
+  ],
+  "teacherId": 7228881,
+  "schoolId": 5261712,
+  "teacherPhone": "15110278296",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "OGlRlQ/IfntVszaZ8lVW/g==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "高旺",
+  "accountName": "18801494565",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228880,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098282,
+  "teacherPhoneAes": "r15ombZF8wTdrxRvMk5Pmw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228880
+   }
+  ],
+  "teacherId": 7228880,
+  "schoolId": 5261712,
+  "teacherPhone": "18801494565",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "r15ombZF8wTdrxRvMk5Pmw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张超",
+  "accountName": "13552296601",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228879,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098334,
+  "teacherPhoneAes": "o7oWUp2ey92BYEgKpWZ/FQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228879
+   }
+  ],
+  "teacherId": 7228879,
+  "schoolId": 5261712,
+  "teacherPhone": "13552296601",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "o7oWUp2ey92BYEgKpWZ/FQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "付利芳",
+  "accountName": "18811726619",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228878,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098367,
+  "teacherPhoneAes": "bvFQnqMALdpxFH1jA/fAIw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228878
+   }
+  ],
+  "teacherId": 7228878,
+  "schoolId": 5261712,
+  "teacherPhone": "18811726619",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "bvFQnqMALdpxFH1jA/fAIw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张志强",
+  "accountName": "15210847170",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7228877,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 924098394,
+  "teacherPhoneAes": "C5Ep03gcXTFNIyhGB1hQqA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228877
+   }
+  ],
+  "teacherId": 7228877,
+  "schoolId": 5261712,
+  "teacherPhone": "15210847170",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "C5Ep03gcXTFNIyhGB1hQqA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孟维丽",
+  "accountName": "13811687637",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228876,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098360,
+  "teacherPhoneAes": "Wiq8j/sa6fyTOs3R8Z2qeQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228876
+   }
+  ],
+  "teacherId": 7228876,
+  "schoolId": 5261712,
+  "teacherPhone": "13811687637",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Wiq8j/sa6fyTOs3R8Z2qeQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王晨缘",
+  "accountName": "13070106020",
+  "teacherCourse": [
+   {
+    "courseName": "数学",
+    "teacherId": 7228875,
+    "stage": 2,
+    "courseId": 13
+   }
+  ],
+  "userId": 924098323,
+  "teacherPhoneAes": "95tA8Qp3/JOw4IE2H+Calg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228875
+   }
+  ],
+  "teacherId": 7228875,
+  "schoolId": 5261712,
+  "teacherPhone": "13070106020",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "95tA8Qp3/JOw4IE2H+Calg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "曹为凤",
+  "accountName": "13621086376",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228874,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098426,
+  "teacherPhoneAes": "pKnG0xUzJyi8SqtRqjNBcg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228874
+   }
+  ],
+  "teacherId": 7228874,
+  "schoolId": 5261712,
+  "teacherPhone": "13621086376",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "pKnG0xUzJyi8SqtRqjNBcg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杨佳丽",
+  "accountName": "13718929791",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228873,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098346,
+  "teacherPhoneAes": "f0msKLb4IvLXultbcSCUOQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228873
+   }
+  ],
+  "teacherId": 7228873,
+  "schoolId": 5261712,
+  "teacherPhone": "13718929791",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "f0msKLb4IvLXultbcSCUOQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "侯铮",
+  "accountName": "18810792343",
+  "teacherCourse": null,
+  "userId": 924098333,
+  "teacherPhoneAes": "//jMGvXOf0cjDQyC8aInfQ==",
+  "teacherGrade": null,
+  "teacherId": 7228872,
+  "schoolId": 5261712,
+  "teacherPhone": "18810792343",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "//jMGvXOf0cjDQyC8aInfQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "郎文祺",
+  "accountName": "15810010579",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7228871,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098390,
+  "teacherPhoneAes": "jYgmjmQFeNyKINHXBQoBRQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228871
+   }
+  ],
+  "teacherId": 7228871,
+  "schoolId": 5261712,
+  "teacherPhone": "15810010579",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "jYgmjmQFeNyKINHXBQoBRQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "孙树丽",
+  "accountName": "18810805192",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7228869,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 924098423,
+  "teacherPhoneAes": "ldj6otXssJPfYomak1KPbw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228869
+   }
+  ],
+  "teacherId": 7228869,
+  "schoolId": 5261712,
+  "teacherPhone": "18810805192",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "ldj6otXssJPfYomak1KPbw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "冯春",
+  "accountName": "15611826558",
+  "teacherCourse": [
+   {
+    "courseName": "信息科技",
+    "teacherId": 7228868,
+    "stage": 2,
+    "courseId": 33
+   }
+  ],
+  "userId": 924098326,
+  "teacherPhoneAes": "f0YR3YHdSDo9zMSSUPCBfA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228868
+   },
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228868
+   }
+  ],
+  "teacherId": 7228868,
+  "schoolId": 5261712,
+  "teacherPhone": "15611826558",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "f0YR3YHdSDo9zMSSUPCBfA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李冬",
+  "accountName": "13910907491",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228867,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098434,
+  "teacherPhoneAes": "HBVNlgomN8tP1Ipqlek1aw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228867
+   }
+  ],
+  "teacherId": 7228867,
+  "schoolId": 5261712,
+  "teacherPhone": "13910907491",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "HBVNlgomN8tP1Ipqlek1aw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李敏",
+  "accountName": "13426196428",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228866,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098424,
+  "teacherPhoneAes": "Ml9e2WvUiLy91i0bTrnKaA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228866
+   }
+  ],
+  "teacherId": 7228866,
+  "schoolId": 5261712,
+  "teacherPhone": "13426196428",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "Ml9e2WvUiLy91i0bTrnKaA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张佳奇",
+  "accountName": "18519213696",
+  "teacherCourse": [
+   {
+    "courseName": "心理",
+    "teacherId": 7228865,
+    "stage": 2,
+    "courseId": 2179176
+   }
+  ],
+  "userId": 924098359,
+  "teacherPhoneAes": "TIJ372qGQkXAd7/QBJX/Lg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228865
+   }
+  ],
+  "teacherId": 7228865,
+  "schoolId": 5261712,
+  "teacherPhone": "18519213696",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "TIJ372qGQkXAd7/QBJX/Lg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "马利全",
+  "accountName": "18701698494",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7228864,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098280,
+  "teacherPhoneAes": "1XDOJwPz+BY43V7Z946FLg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228864
+   }
+  ],
+  "teacherId": 7228864,
+  "schoolId": 5261712,
+  "teacherPhone": "18701698494",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "1XDOJwPz+BY43V7Z946FLg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "赵健",
+  "accountName": "15120083499",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228863,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098417,
+  "teacherPhoneAes": "aXcvyXpD9pXVlOh0hwtDzQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228863
+   }
+  ],
+  "teacherId": 7228863,
+  "schoolId": 5261712,
+  "teacherPhone": "15120083499",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "aXcvyXpD9pXVlOh0hwtDzQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "祁琪",
+  "accountName": "13691421113",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 7228862,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 924098291,
+  "teacherPhoneAes": "SZ2HAQ+AcjlQadNFdhb32A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228862
+   }
+  ],
+  "teacherId": 7228862,
+  "schoolId": 5261712,
+  "teacherPhone": "13691421113",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "SZ2HAQ+AcjlQadNFdhb32A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "韩慧怡",
+  "accountName": "15201206899",
+  "teacherCourse": [
+   {
+    "courseName": "化学",
+    "teacherId": 7228861,
+    "stage": 2,
+    "courseId": 16
+   }
+  ],
+  "userId": 924098366,
+  "teacherPhoneAes": "m94q1Jfnet5wwociGNRfpQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228861
+   }
+  ],
+  "teacherId": 7228861,
+  "schoolId": 5261712,
+  "teacherPhone": "15201206899",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "m94q1Jfnet5wwociGNRfpQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "马琳",
+  "accountName": "13501059837",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228860,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098428,
+  "teacherPhoneAes": "ztimZyVjQtQIqp27+QETJw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228860
+   }
+  ],
+  "teacherId": 7228860,
+  "schoolId": 5261712,
+  "teacherPhone": "13501059837",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "ztimZyVjQtQIqp27+QETJw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张璐",
+  "accountName": "18612383877",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228859,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098284,
+  "teacherPhoneAes": "CeQrq+0R2/s/D6+68csGRg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228859
+   }
+  ],
+  "teacherId": 7228859,
+  "schoolId": 5261712,
+  "teacherPhone": "18612383877",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "CeQrq+0R2/s/D6+68csGRg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "赵媛",
+  "accountName": "15011327612",
+  "teacherCourse": [
+   {
+    "courseName": "化学",
+    "teacherId": 7228858,
+    "stage": 2,
+    "courseId": 16
+   },
+   {
+    "courseName": "劳技",
+    "teacherId": 7228858,
+    "stage": 2,
+    "courseId": 2236537
+   }
+  ],
+  "userId": 924098413,
+  "teacherPhoneAes": "XburJbLolAI7irxKrgRSkA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228858
+   }
+  ],
+  "teacherId": 7228858,
+  "schoolId": 5261712,
+  "teacherPhone": "15011327612",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "XburJbLolAI7irxKrgRSkA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "徐冬梅",
+  "accountName": "18910403186",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228857,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098345,
+  "teacherPhoneAes": "gBqwVccYt/5AeKb26CwXjg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228857
+   }
+  ],
+  "teacherId": 7228857,
+  "schoolId": 5261712,
+  "teacherPhone": "18910403186",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "gBqwVccYt/5AeKb26CwXjg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王彩丽",
+  "accountName": "13691279050",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 7228856,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 924098374,
+  "teacherPhoneAes": "U/ry/VYFn9rnuKRTkTbSTg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228856
+   }
+  ],
+  "teacherId": 7228856,
+  "schoolId": 5261712,
+  "teacherPhone": "13691279050",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "U/ry/VYFn9rnuKRTkTbSTg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "白硕",
+  "accountName": "18210716022",
+  "teacherCourse": [
+   {
+    "courseName": "体育",
+    "teacherId": 7228855,
+    "stage": 2,
+    "courseId": 27
+   }
+  ],
+  "userId": 924098289,
+  "teacherPhoneAes": "82crwVB91tszCetJl4wzBg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228855
+   }
+  ],
+  "teacherId": 7228855,
+  "schoolId": 5261712,
+  "teacherPhone": "18210716022",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "82crwVB91tszCetJl4wzBg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "王晓宇",
+  "accountName": "13811162861",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228854,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098356,
+  "teacherPhoneAes": "zPA5qsQ96/FZ4p0zWu4DaA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228854
+   }
+  ],
+  "teacherId": 7228854,
+  "schoolId": 5261712,
+  "teacherPhone": "13811162861",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "zPA5qsQ96/FZ4p0zWu4DaA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "杨倩",
+  "accountName": "13426013142",
+  "teacherCourse": [
+   {
+    "courseName": "物理",
+    "teacherId": 7228853,
+    "stage": 2,
+    "courseId": 15
+   }
+  ],
+  "userId": 924098265,
+  "teacherPhoneAes": "8oHkIiR+VgAS6IxwpoMcnw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228853
+   }
+  ],
+  "teacherId": 7228853,
+  "schoolId": 5261712,
+  "teacherPhone": "13426013142",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "8oHkIiR+VgAS6IxwpoMcnw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "马志聪",
+  "accountName": "15210299804",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7228852,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 924098435,
+  "teacherPhoneAes": "jE5+77IlINOjI7NQaUG71A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228852
+   }
+  ],
+  "teacherId": 7228852,
+  "schoolId": 5261712,
+  "teacherPhone": "15210299804",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "jE5+77IlINOjI7NQaUG71A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "高洁",
+  "accountName": "13811203746",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228851,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098276,
+  "teacherPhoneAes": "tP0V02H0w1QqBHYlSYMJng==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228851
+   }
+  ],
+  "teacherId": 7228851,
+  "schoolId": 5261712,
+  "teacherPhone": "13811203746",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "tP0V02H0w1QqBHYlSYMJng==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "高文静",
+  "accountName": "13426203064",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228850,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098322,
+  "teacherPhoneAes": "9r9wIfqrKR+jceVE8DWAnA==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228850
+   }
+  ],
+  "teacherId": 7228850,
+  "schoolId": 5261712,
+  "teacherPhone": "13426203064",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "9r9wIfqrKR+jceVE8DWAnA==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "冯李子",
+  "accountName": "18811732672",
+  "teacherCourse": null,
+  "userId": 924098332,
+  "teacherPhoneAes": "KV42PfgGMK2fE5IQ4trsFw==",
+  "teacherGrade": null,
+  "teacherId": 7228849,
+  "schoolId": 5261712,
+  "teacherPhone": "18811732672",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "KV42PfgGMK2fE5IQ4trsFw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "梁爽",
+  "accountName": "18810954001",
+  "teacherCourse": null,
+  "userId": 924098408,
+  "teacherPhoneAes": "rj4SKeLw5La0laYAXv8kNQ==",
+  "teacherGrade": null,
+  "teacherId": 7228848,
+  "schoolId": 5261712,
+  "teacherPhone": "18810954001",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "rj4SKeLw5La0laYAXv8kNQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "檀鹏辉",
+  "accountName": "18813107360",
+  "teacherCourse": [
+   {
+    "courseName": "生物",
+    "teacherId": 7228847,
+    "stage": 2,
+    "courseId": 17
+   }
+  ],
+  "userId": 924098357,
+  "teacherPhoneAes": "XarEboIFz/dKfWI/Z1jN9g==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228847
+   },
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228847
+   }
+  ],
+  "teacherId": 7228847,
+  "schoolId": 5261712,
+  "teacherPhone": "18813107360",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "XarEboIFz/dKfWI/Z1jN9g==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "苏立芬",
+  "accountName": "13521150810",
+  "teacherCourse": null,
+  "userId": 924098329,
+  "teacherPhoneAes": "XtquTldn4QwO4pkzNDT6mQ==",
+  "teacherGrade": null,
+  "teacherId": 7228846,
+  "schoolId": 5261712,
+  "teacherPhone": "13521150810",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "XtquTldn4QwO4pkzNDT6mQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "闫丽品",
+  "accountName": "18810643345",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228845,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098436,
+  "teacherPhoneAes": "PWIpsHA9TuXSjXPNcYUi8A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228845
+   }
+  ],
+  "teacherId": 7228845,
+  "schoolId": 5261712,
+  "teacherPhone": "18810643345",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "PWIpsHA9TuXSjXPNcYUi8A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "张芊妍",
+  "accountName": "13161835769",
+  "teacherCourse": null,
+  "userId": 924098405,
+  "teacherPhoneAes": "fcwmV4LKDICU2krWDKqG0w==",
+  "teacherGrade": null,
+  "teacherId": 7228844,
+  "schoolId": 5261712,
+  "teacherPhone": "13161835769",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "fcwmV4LKDICU2krWDKqG0w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "韩芳",
+  "accountName": "13911418835",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228843,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098336,
+  "teacherPhoneAes": "I3F7l0t5+2KNWmeHer090A==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228843
+   }
+  ],
+  "teacherId": 7228843,
+  "schoolId": 5261712,
+  "teacherPhone": "13911418835",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "I3F7l0t5+2KNWmeHer090A==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李璐曦",
+  "accountName": "13121953713",
+  "teacherCourse": [
+   {
+    "courseName": "历史",
+    "teacherId": 7228842,
+    "stage": 2,
+    "courseId": 19
+   }
+  ],
+  "userId": 924098278,
+  "teacherPhoneAes": "wnJCGfv8Kvqx9+zzQuAQ7w==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228842
+   }
+  ],
+  "teacherId": 7228842,
+  "schoolId": 5261712,
+  "teacherPhone": "13121953713",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "wnJCGfv8Kvqx9+zzQuAQ7w==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘颖",
+  "accountName": "13811786763",
+  "teacherCourse": null,
+  "userId": 924098381,
+  "teacherPhoneAes": "DKW5fziAYqf5wBAmrZUeYQ==",
+  "teacherGrade": null,
+  "teacherId": 7228841,
+  "schoolId": 5261712,
+  "teacherPhone": "13811786763",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "DKW5fziAYqf5wBAmrZUeYQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "宋建彪",
+  "accountName": "18810566181",
+  "teacherCourse": [
+   {
+    "courseName": "化学",
+    "teacherId": 7228840,
+    "stage": 2,
+    "courseId": 16
+   }
+  ],
+  "userId": 924098384,
+  "teacherPhoneAes": "9IakkRbCN4jzP/ikdYVRjg==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228840
+   }
+  ],
+  "teacherId": 7228840,
+  "schoolId": 5261712,
+  "teacherPhone": "18810566181",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "9IakkRbCN4jzP/ikdYVRjg==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "李红霞",
+  "accountName": "15901273787",
+  "teacherCourse": [
+   {
+    "courseName": "音乐",
+    "teacherId": 7228839,
+    "stage": 2,
+    "courseId": 31
+   }
+  ],
+  "userId": 924098294,
+  "teacherPhoneAes": "VP9+wV5hcEXuPY6gTlScsQ==",
+  "teacherGrade": [
+   {
+    "gradeName": "初二",
+    "gradeId": 2673906,
+    "teacherId": 7228839
+   },
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228839
+   }
+  ],
+  "teacherId": 7228839,
+  "schoolId": 5261712,
+  "teacherPhone": "15901273787",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "VP9+wV5hcEXuPY6gTlScsQ==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "汪云清",
+  "accountName": "15811032381",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228838,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098320,
+  "teacherPhoneAes": "wBpRbmUqdGA8E4pZaTBoug==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228838
+   }
+  ],
+  "teacherId": 7228838,
+  "schoolId": 5261712,
+  "teacherPhone": "15811032381",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "wBpRbmUqdGA8E4pZaTBoug==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "刘金金",
+  "accountName": "15231169398",
+  "teacherCourse": [
+   {
+    "courseName": "语文",
+    "teacherId": 7228836,
+    "stage": 2,
+    "courseId": 12
+   }
+  ],
+  "userId": 924098400,
+  "teacherPhoneAes": "qemPjcEohHn6VTrWctM5yw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228836
+   }
+  ],
+  "teacherId": 7228836,
+  "schoolId": 5261712,
+  "teacherPhone": "15231169398",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "qemPjcEohHn6VTrWctM5yw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "葛敏",
+  "accountName": "13693372952",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228835,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098295,
+  "teacherPhoneAes": "0E0ZZIg1SySIBpihgyxNog==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228835
+   }
+  ],
+  "teacherId": 7228835,
+  "schoolId": 5261712,
+  "teacherPhone": "13693372952",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "0E0ZZIg1SySIBpihgyxNog==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "朱立燕",
+  "accountName": "18519301289",
+  "teacherCourse": [
+   {
+    "courseName": "道德与法治",
+    "teacherId": 7228834,
+    "stage": 2,
+    "courseId": 18
+   }
+  ],
+  "userId": 924098353,
+  "teacherPhoneAes": "o5dUxtZlxSCpbxCJKaBqZw==",
+  "teacherGrade": [
+   {
+    "gradeName": "初三",
+    "gradeId": 2673905,
+    "teacherId": 7228834
+   }
+  ],
+  "teacherId": 7228834,
+  "schoolId": 5261712,
+  "teacherPhone": "18519301289",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "o5dUxtZlxSCpbxCJKaBqZw==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ },
+ {
+  "teacherName": "金邵君",
+  "accountName": "13811120730",
+  "teacherCourse": [
+   {
+    "courseName": "英语",
+    "teacherId": 7228833,
+    "stage": 2,
+    "courseId": 14
+   }
+  ],
+  "userId": 924098433,
+  "teacherPhoneAes": "HFdTEQiBh/SmETS7rjCU0g==",
+  "teacherGrade": [
+   {
+    "gradeName": "初一",
+    "gradeId": 3213983,
+    "teacherId": 7228833
+   }
+  ],
+  "teacherId": 7228833,
+  "schoolId": 5261712,
+  "teacherPhone": "13811120730",
+  "workType": 1,
+  "identityCardNo": null,
+  "accountNameAes": "HFdTEQiBh/SmETS7rjCU0g==",
+  "schoolName": "北京市朝阳外国语学校（初中部）",
+  "identityCardId": null,
+  "identityCardNoAes": null
+ }
+]

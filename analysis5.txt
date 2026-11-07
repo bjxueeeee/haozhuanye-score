@@ -1,0 +1,53 @@
+### fetchAppList (7)
+   etStore();console.log("getAppsList-param",e),t.dispatch(w()({type:"".concat(E["SYSTEM_NAMESPACE"],"/fetchAppList")},e||{})),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},ce=function(e){var t=x["a"].getInstance().getStore(
+   ding,r=e.account;return w()({global:t,account:r,loading:n.effects["".concat(E["SYSTEM_NAMESPACE"],"/fetchAppList")]},e[E["SYSTEM_NAMESPACE"]])})(se)},"/ifn":function(e,t,n){var r=n("kQqq"),o=n("AttV"),i=n("kJmG");r(r.S,"Reflect",{getPrototypeOf:funct
+   g,r=e.system,i=e.account;return o()({feedback:t,loading:n.effects["".concat(G["SYSTEM_NAMESPACE"],"/fetchAppList")]},r,{account:i})})(ie))},"0zLm":function(e,t){e.exports="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K
+   ding,r=e.account;return D()({global:t,account:r,loading:n.effects["".concat(T["SYSTEM_NAMESPACE"],"/fetchAppList")],messageList:e[L["MESSAGE_NAMESPACE"]].messageList,taskList:e[L["MESSAGE_NAMESPACE"]].taskList},e[T["SYSTEM_NAMESPACE"]])})(me)},Ci15:f
+   var t=e.global,n=e.loading;return o()({global:t,loading:n.effects["".concat(v["SYSTEM_NAMESPACE"],"/fetchAppList")]},e[v["SYSTEM_NAMESPACE"]])})(E)},DrVZ:function(e,t){e.exports="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJub
+   ct.prototype.hasOwnProperty.call(t,n)&&"type"!==n&&(e=s()({},e,a()({},n,t[n])));return e}},effects:{fetchAppList:function(e,t){e.payload;var n=e.noChild,r=(t.select,t.call),i=t.put;return y().mark(function e(){var t,a,c,p,m,v,N,D,I,w,T,j,b;return y()
+
+### systemList (48)
+   orm(),u=L["a"].getInstance().isMobile(),l=e||[];return l=n?l.map(function(e){var t;return w()({},e,{systemList:null===(t=e.systemList)||void 0===t?void 0:t.filter(function(e){return 1===e.accessModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl})})}):l.fi
+   nce().isMobile(),l=e||[];return l=n?l.map(function(e){var t;return w()({},e,{systemList:null===(t=e.systemList)||void 0===t?void 0:t.filter(function(e){return 1===e.accessModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl})})}):l.filter(function(e){return
+   essModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl}),r&&(l=n?l.map(function(e){var t;return w()({},e,{systemList:null===(t=e.systemList)||void 0===t?void 0:t.filter(function(e){return e.systemID===o})})}):l.filter(function(e){return e.systemID===o})),i
+   !e.accessModel:!!e.appUrl}),r&&(l=n?l.map(function(e){var t;return w()({},e,{systemList:null===(t=e.systemList)||void 0===t?void 0:t.filter(function(e){return e.systemID===o})})}):l.filter(function(e){return e.systemID===o})),i||a?t===J?l=n?l.map(fun
+   filter(function(e){return e.systemID===o})),i||a?t===J?l=n?l.map(function(e){var t;return w()({},e,{systemList:null===(t=e.systemList)||void 0===t?void 0:t.filter(function(e){return e.systemID!==o})})}):l.filter(function(e){return e.systemID!==o}):t=
+   rn e.systemID===o})),i||a?t===J?l=n?l.map(function(e){var t;return w()({},e,{systemList:null===(t=e.systemList)||void 0===t?void 0:t.filter(function(e){return e.systemID!==o})})}):l.filter(function(e){return e.systemID!==o}):t===K&&s&&(l=n?l.map(func
+
+### appUrl (24)
+   emList:null===(t=e.systemList)||void 0===t?void 0:t.filter(function(e){return 1===e.accessModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl})})}):l.filter(function(e){return 1===e.accessModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl}),r&&(l=n?l.map(functi
+   )||void 0===t?void 0:t.filter(function(e){return 1===e.accessModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl})})}):l.filter(function(e){return 1===e.accessModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl}),r&&(l=n?l.map(function(e){var t;return w()({},e,{
+   del?!!e.appUrl:u?!!e.accessModel:!!e.appUrl})})}):l.filter(function(e){return 1===e.accessModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl}),r&&(l=n?l.map(function(e){var t;return w()({},e,{systemList:null===(t=e.systemList)||void 0===t?void 0:t.filter(
+   del:!!e.appUrl})})}):l.filter(function(e){return 1===e.accessModel?!!e.appUrl:u?!!e.accessModel:!!e.appUrl}),r&&(l=n?l.map(function(e){var t;return w()({},e,{systemList:null===(t=e.systemList)||void 0===t?void 0:t.filter(function(e){return e.systemID
+   temID].code.map(function(t,n){hzyTracker.events.moduleView({code:t,name:te[e.systemID].name[n],id:e.appUrl,title:e.systemName})}),z["a"].getInstance().onOpenApp(e))};return b["createElement"]("div",{className:"app-item",title:r,key:n,onClick:m,style:
+   temID].code.map(function(t,n){hzyTracker.events.moduleView({code:t,name:te[e.systemID].name[n],id:e.appUrl,title:e.systemName})}),z["a"].getInstance().onOpenApp(e))};return b["createElement"]("div",{className:"region-app-item",title:r,key:n,onClick:c
+
+### GetAppList (0)
+
+### AppList (29)
+   "huaErHuangLiuSchoolID",function(){return X}),n.d(t,"socialName",function(){return $}),n.d(t,"filterAppList",function(){return ne}),n.d(t,"AppItem",function(){return oe}),n.d(t,"RegAppItem",function(){return ie}),n.d(t,"getAppsList",function(){return
+   re();console.log("getAppsList-param",e),t.dispatch(w()({type:"".concat(E["SYSTEM_NAMESPACE"],"/fetchAppList")},e||{})),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},ce=function(e){var t=x["a"].getInstance().getStore();con
+   y:e.appType+"",style:{height:f&&!g?document.body.clientHeight-70:""}},String(e.appType)===c?r.renderAppListWithClassified(e.appType):null)})))},r.renderAppListWithClassified=function(e){var t=r.props,n=t.appList,o=t.account.sourceType,i=r.state,a=i.i
+   entHeight-70:""}},String(e.appType)===c?r.renderAppListWithClassified(e.appType):null)})))},r.renderAppListWithClassified=function(e){var t=r.props,n=t.appList,o=t.account.sourceType,i=r.state,a=i.isClassifyType,c=i.isReg,s=S["a"].getInstance().getCh
+   ):b["createElement"](oe,Object.assign({},w()({},e,{isClassifyType:a}),{key:e.cardId}))})))},r.renderAppListNotClassified=function(){var e=r.props,t=e.appList,n=e.global,o=n.isIframe,i=(n.isAutoH,e.account.sourceType),a=S["a"].getInstance().getChangeP
+   Iframe?"100%":""}},b["createElement"](o.a,{loading:i},!t&&u,t&&this.renderTypeList(),!t&&this.renderAppListNotClassified()))}}])}(b["Component"]);t["default"]=Object(A["c"])(function(e){var t=e.global,n=e.loading,r=e.account;return w()({global:t,acco
+
+### getAppCenter (0)
+
+### appCenter (0)
+
+### schoolApp (0)
+
+### getApps (12)
+   return ne}),n.d(t,"AppItem",function(){return oe}),n.d(t,"RegAppItem",function(){return ie}),n.d(t,"getAppsList",function(){return ae}),n.d(t,"getSchoolQuarkInfo",function(){return ce});n("CbTx");var r=n("SuYE"),o=n.n(r),i=(n("4FFF"),n("Zc2/")),a=n.n
+   ]("span",{className:"tip"},r)))}),ae=function(e){var t=x["a"].getInstance().getStore();console.log("getAppsList-param",e),t.dispatch(w()({type:"".concat(E["SYSTEM_NAMESPACE"],"/fetchAppList")},e||{})),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],
+   SPACE"],"/getSchoolQuarkInfo")})},ce=function(e){var t=x["a"].getInstance().getStore();console.log("getAppsList-param",e),t.dispatch({type:"".concat(_["GLOBAL_NAMESPACE"],"/getSchoolQuarkInfo")})},se=function(e){function t(e){var r;return p()(this,t)
+   List(o()({departmentID:s,roleID:r},f,{roles:t}))}}}else d["a"].getInstance().isStudent()&&Object(h["getAppsList"])()}},{key:"getRoles",value:function(e){var t=e&&e.roles||[];return t}},{key:"getDataByRoleID",value:function(e,t){var n=t.roleDepartment
+   |!t)&&this.getTaskSenderList(),!e&&this.getUserMappingInfo(),!e&&this.getUserInfo(),e&&n&&Object(F["getAppsList"])(),this.getUrlParam(),this.getDashboardCardOpenInfos(),this.isMessageInUrl(),y["a"].getInstance().getPresetStyle()===V["a"]&&this.getFee
+   o",JSON.stringify(r)),document.title=(null===r||void 0===r?void 0:r.schoolName)||"校园管理平台",Object(j["getAppsList"])(),W(!1)},Ee=function(){se(re)},xe=function(e){var t=e.target.value;oe(t)},Oe=function(){oe(""),se("")},ze=function(e){if(e)h.a.info("请先
+
+### applist (0)
+
+### Get/Apps (0)
+
+### appManager (0)

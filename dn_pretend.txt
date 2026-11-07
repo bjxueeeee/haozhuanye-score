@@ -1,0 +1,27 @@
+
+### login/pretend (1)
+   e",params:e})}function m(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/pretend",method:"post",data:e})}function p(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/get/account",method:"post",data:e})}funct
+
+### pretend (1)
+   ams:e})}function m(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/pretend",method:"post",data:e})}function p(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/get/account",method:"post",data:e})}function b(
+
+### switchUser (4)
+   case 3:if(t.userId!==e.userId){n.n=5;break}if(s=t.userList.filter((function(e){return e.userId!==t.userId})),!s){n.n=4;break}return n.n=4,t.switchUser(s[0].userId,e);case 4:n.n=7;break;case 5:return n.n=6,Object(pp["g"])({userIds:e.userId,otherUserType:e.userType,otherAccountId:e.accountId,otherRelativeId:e.relativeId});case 6:d=n.v,d&&0===d.status&&(t.$mess
+   在工作时间拨打0755-86967020联系客服处理","提示",{showConfirmButton:!1,cancelButtonText:"我知道了",type:"warning",center:!0});case 9:return n.a(2)}}),n)})))()},switchUser:function(e,t){var n=this;return Object(r["a"])(Object(a["a"])().m((function r(){var o,i,c,u,s,d,l,h,f,m,p,b,g,v,k,y,w,x;return Object(a["a"])().w((function(a){while(1)switch(a.n){case 0:if(o=parseInt(e),o===n.
+   nformation?t("div",{key:a,staticClass:"select-item",class:n.userId===e.userId?"action":"",attrs:{title:n.showTitle},on:{click:function(t){e.switchUser(n.userId.toString())}}},["shuangliu"===e.config.domain&&1===n.userType?[e._v("\n            学校单考-区级管理员\n          ")]:"shuangliu"===e.config.domain&&14===n.userType?[e._v("\n            "+e._s(n.nickname)+"的学校
+   localStorage.accountName=e,window.location.href="http://smartedu.mydongtai.cn:8060/"},changeRoleClick:function(){this.roleDialogVisible=!0},switchUser:function(e){var t=this;return Object(i["a"])(Object(o["a"])().m((function n(){var a,r,i,c,u,s,d,l,h,f,m,p,b,g,v,k,y,w;return Object(o["a"])().w((function(n){while(1)switch(n.n){case 0:if(t.information){n.n=1;b
+
+### getSimpleUserInfo (1)
+   on y(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user/getSimpleUserInfo",data:e,method:"post"})}function w(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user/getStudent",params:e})}function 
+
+### getSimpleUser (2)
+   n Et(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/base/data/system/account/user/getSimpleUser",params:e})}function It(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(r["default"])({url:"/api/tiku/classify",params:e})}function Mt(){var e=arguments.length>0&&void 0!==ar
+   on y(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user/getSimpleUserInfo",data:e,method:"post"})}function w(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user/getStudent",params:e})}function 
+
+### admin/school/login (1)
+   thod:"post"})}function A(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/admin/school/login",data:e,method:"post"})}function N(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{},t=arguments.length>1?arguments[1]:void 0;return Object(a["default"])({url:"/api/base/data/school/stu
+
+### login/token (3)
+   hod:"post"})}function te(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/token/clean/multi",data:e,method:"post"})}function ne(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/token/kick",data:e,method:"post"})}func
+   hod:"post"})}function ne(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/token/kick",data:e,method:"post"})}function ae(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/token",data:e,method:"post"})}function re(){va
+   hod:"post"})}function ae(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/login/token",data:e,method:"post"})}function re(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};return Object(a["default"])({url:"/api/base/data/system/account/user/check",params:e})}function oe(){var e
